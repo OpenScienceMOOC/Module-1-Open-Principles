@@ -17,12 +17,12 @@ Learning outcomes:
 
 
 ## Development team
-
+TBC
 
 ## Key documents <a name="Key documents"></a>
 
 - [Contributing](CONTRIBUTING.md)
-- [Module design protocol](MODULE_DESIGN_PROTOCOL.md)
+- [Module design protocol](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/tree/master/production_toolkitMODULE_DESIGN_PROTOCOL.md)
 - [Code of conduct](CODE_OF_CONDUCT.md)
 - [Key elements](key_elements.md)
 

@@ -1,8 +1,8 @@
 **_Learning Objectives (1-3 specific)_**: 
 
-*LO1a: Understand the ethical, **legal**, social, economic, and research impact arguments for and against Open Science (knowledge).*
+*LO1a: Understand the ethical, legal, social, economic, and research impact arguments for and against Open Science (knowledge).*
 
-*LO1b: Set up a personal profile for defining your impact: measure the social and academic attention on the full range of research processes and outputs** (tasks).*
+*LO1b: Set up a personal profile for defining your impact: measure the social and academic attention on the full range of research processes and outputs (tasks).*
 
 ### Key components:
 

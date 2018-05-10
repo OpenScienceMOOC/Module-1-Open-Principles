@@ -7,8 +7,6 @@ To innovate in a field frequently implies moving against prevailing trends and c
 
 ## Learning outcomes <a name="Learning outcomes"></a>
 
-Learning outcomes:
-
 1. The researcher will be able to describe the ethical, legal, social, economic, and research impact arguments for and against Open Science.
 1. After deciding which platforms/tools/services are most useful for themselves and their community, the researcher will develop a personal profile for showcasing their research profile and outputs.
 1. After reflecting on the status of Open Science within their research group or lab, the researcher will devise concrete ways to locally improve open practices.

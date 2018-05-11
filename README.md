@@ -29,4 +29,3 @@ TBC
 
 ### Content 
 MOOC content license: [![CC0 Public Domain Dedication](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-

@@ -17,5 +17,6 @@ This module is designed primarily for students and researchers at the graduate a
 
 ### Development Team <a name="Development_team"></a>
 
-- 
+- [Gareth O'Neill](https://twitter.com/gtoneill), 
+- [Bruce Carron](https://twitter.com/junanaguy),
 - [Jon Tennant](https://twitter.com/protohedgehog), Dinosaur Whisperer.

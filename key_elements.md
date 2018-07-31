@@ -164,6 +164,8 @@
     
 * [Intersections of Openness: Open Access, Science, & Education](https://www.youtube.com/watch?v=Es7qvO_2kSg), Abby Elder.
 
+* [GO FAIR initiative](https://www.go-fair.org/), a bottom-up international approach for the practical implementation of the European Open Science Cloud (EOSC) as part of a global Internet of FAIR Data & Services
+
 ### Tasks:
 
 * Get an [ORCID](orcid.org) account, and fill out your profile. This is a unique identifier for you as a researcher.

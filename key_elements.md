@@ -56,6 +56,10 @@
 
 * [Scholarly Communications super-collection](https://www.scienceopen.com/search#collection/69988c7e-1855-4007-ba94-caa4c4638b1f), ScienceOpen.
 
+* [Joint Roadmap for Open Science Tools](http://jrost.org/).
+
+* [FOSTER Open Science Training Courses](https://www.fosteropenscience.eu/toolkit).
+
 **Research Articles and Reports**
 
 * [Open science is a research accelerator](https://www.nature.com/articles/nchem.1149) (Woelfle et al., 2011).
@@ -76,7 +80,7 @@
 
 * [Promoting an open research culture](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4550299/pdf/nihms-714651.pdf) (Nosek et al., 2015).
 
-* [When will ‘open science’ become simply ‘science’?](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0669-2) (Watson, 2015).
+* [When will 'open science' become simply 'science'?](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0669-2) (Watson, 2015).
 
 * [How does one "open" science? Questions of value in biological research](http://journals.sagepub.com/doi/10.1177/0162243916672071) (Levin and Leonelli, 2016).
 
@@ -86,13 +90,15 @@
 
 * [Do you speak open science? Resources and tips to learn the language](https://peerj.com/preprints/2689/) (Masuzzo and Martens, 2017).
 
-* [Early-career researchers’ perceptions of the prevalence of questionable research practices, potential causes, and Open Science](https://econtent.hogrefe.com/doi/full/10.1027/1864-9335/a000324) (Stürmer et al., 2017).
+* [Early-career researchers' perceptions of the prevalence of questionable research practices, potential causes, and Open Science](https://econtent.hogrefe.com/doi/full/10.1027/1864-9335/a000324) (Stürmer et al., 2017).
 
 * [Making Science Transparent By Default; Introducing the TOP Statement](https://osf.io/sm78t/) (Aalbersberg et al., 2018).
 
 * [Defining success in Open Science](https://mniopenresearch.org/articles/2-2/v1) (Ali-Khan et al., 2018).
 
 * [Open Science is liberating and can foster creativity](https://osf.io/edhym/) (Frankenhuis and Nettle, 2018).
+
+* [Open Science and its role in universities: a roadmap for cultural change](https://www.leru.org/publications/open-science-and-its-role-in-universities-a-roadmap-for-cultural-change#) (LERU, 2018).
 
 * [Open Educational Science](https://osf.io/preprints/socarxiv/d9bme) (van der See and Reich, 2018).
 
@@ -108,15 +114,17 @@
 
 * [Power and inequality in Open Science discourses](https://medium.com/@denalbz/power-and-inequality-in-open-science-discourses-9d425b0c2b63), Denisse Albornoz.
 
-* [Clash of cultures: Why all science isn’t open science](https://danielskatzblog.wordpress.com/2016/10/25/clash-of-cultures-why-all-science-isnt-open-science/), Daniel Katz.
+* [Clash of cultures: Why all science isn't open science](https://danielskatzblog.wordpress.com/2016/10/25/clash-of-cultures-why-all-science-isnt-open-science/), Daniel Katz.
 
 * [Preliminary Findings: Rent Seeking by Elsevier](http://knowledgegap.org/index.php/sub-projects/rent-seeking-and-financialization-of-the-academic-publishing-industry/preliminary-findings/), Alejandro Posada.
 
-* [Reassessing the ‘Digital Commons’](http://ivory.idyll.org/blog/2017-digital-commons-funding.html),  Marianne Corvellec and Jeanne Corvellec.
+* [Reassessing the Digital Commons](http://ivory.idyll.org/blog/2017-digital-commons-funding.html),  Marianne Corvellec and Jeanne Corvellec.
 
 * [A list of publicly available grant proposals in the biological sciences](https://jabberwocky.weecology.org/2012/08/10/a-list-of-publicly-available-grant-proposals-in-the-biological-sciences/) (Jabberwocky).
 
 * [Open Science and its Discontents](http://ronininstitute.org/open-science-and-its-discontents/) Alex Lancaster
+
+* [GENDERACTION: Enhancing the gender dimension of Open Science and Open Innovation policies](https://www.openaire.eu/genderaction-enhancing-the-gender-dimension-of-open-science-and-open-innovation-policies?idU=1), OpenAIRE.
 
 **Other**
 
@@ -153,6 +161,8 @@
 * [Open Research 2015](https://courses.p2pu.org/en/courses/3230/open-research-2015/) (P2PU).
 
     * [The accompanying textbook](https://openresearch.pressbooks.com/) (Pitt et al., 2016).
+    
+* [Intersections of Openness: Open Access, Science, & Education](https://www.youtube.com/watch?v=Es7qvO_2kSg), Abby Elder.
 
 ### Tasks:
 

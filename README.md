@@ -32,7 +32,7 @@ To innovate in a field frequently implies moving against prevailing trends and c
 
 ## Development team <a name="#Development_team"></a>
 
-- [Gareth O'Neill](https://twitter.com/gtoneill), 
+- [Gareth O'Neill](https://twitter.com/gtoneill), Language Lubber
 - [Bruce Carron](https://twitter.com/junanaguy),
 - [Jon Tennant](https://twitter.com/protohedgehog), Dinosaur Whisperer
 

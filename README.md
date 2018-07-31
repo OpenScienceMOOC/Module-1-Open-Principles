@@ -23,7 +23,7 @@ To innovate in a field frequently implies moving against prevailing trends and c
 
 ## Learning outcomes <a name="Learning_outcomes"></a>
 
-1. The researcher will be able to describe the ethical, legal, social, economic, and research impact arguments for and against Open Science.
+1. The researcher will be able to describe the ethical, legal, social, cultural, economic, and research impact arguments for and against Open Science.
 1. After deciding which platforms/tools/services are most useful for themselves and their community, the researcher will develop a personal profile for showcasing their research profile and outputs.
 1. After reflecting on the status of Open Science within their research group or lab, the researcher will devise concrete ways to locally improve open practices.
 1. Using the guidelines published by their research laboratories, departments, or institutes, researchers will identify the policies for career progression and assessment, publishing and open access, data sharing, and intellectual property.
@@ -33,7 +33,7 @@ To innovate in a field frequently implies moving against prevailing trends and c
 ## Development team <a name="#Development_team"></a>
 
 - [Gareth O'Neill](https://twitter.com/gtoneill), Language Lubber
-- [Bruce Carron](https://twitter.com/junanaguy),
+- [Bruce Caron](https://twitter.com/junanaguy), Culture Work Architect
 - [Jon Tennant](https://twitter.com/protohedgehog), Dinosaur Whisperer
 
 ## Key documents <a name="Key_documents"></a>

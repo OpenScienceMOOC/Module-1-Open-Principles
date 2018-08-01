@@ -115,37 +115,35 @@ The **learning outcomes** from this should be:
 
 There is so much potential reading material out there that it would take years of continuous reading to get through it all. Here are some select favourite selected research articles on the topic that help to go into things a little deeper. All of them are free to access and re-use, of course! 
 
-* [Open science is a research accelerator](https://www.nature.com/articles/nchem.1149) (Woelfle et al., 2011).
+* [Open science is a research accelerator](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Woelfle%20et%20al.%2C%202011.pdf) (Woelfle et al., 2011).
 
-* [The Conundrum of Sharing Research Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2073876) (Borgman, 2012) 
+* [The Conundrum of Sharing Research Data](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Borgman%2C%202012.pdf) (Borgman, 2012) 
 
-* [Open Science: The Evolving Guide on How the Internet is Changing Research, Collaboration and Scholarly Publishing](https://link.springer.com/book/10.1007/978-3-319-00026-8) (Bartling and Friesike, 2014).
+* [Open Science: The Evolving Guide on How the Internet is Changing Research, Collaboration and Scholarly Publishing](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Bartling%20and%20Friesike%2C%202014.pdf) (Bartling and Friesike, 2014).
 
-* [Open Science: one term, five schools of thought](https://link.springer.com/chapter/10.1007%2F978-3-319-00026-8_2) (Fecher and Friesike, 2014).
+* [Open Science: one term, five schools of thought](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Fecher%20and%20Friesike%2C%202014.pdf) (Fecher and Friesike, 2014).
 
-* [From Open Science to Open Innovation](https://www.fosteropenscience.eu/sites/default/files/pdf/1798.pdf) (Chesbrough, 2015).
+* [From Open Science to Open Innovation](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Chesborough%2C%202015.pdf) (Chesbrough, 2015).
 
-* [Winning Research Grants with Open Science](http://doi.org/10.5281/zenodo.12247) (Grigorov et al., 2015).
+* [Winning Research Grants with Open Science](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Grigorov%20et%20al.%2C%202015.pdf) (Grigorov et al., 2015).
 
-* [Promoting transparency in social science research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4103621/pdf/nihms605501.pdf) (Miguel et al., 2014).
+* [Promoting transparency in social science research](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Miguel%20et%20al.%2C%202014.pdf) (Miguel et al., 2014).
 
-* [Promoting an open research culture](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4550299/pdf/nihms-714651.pdf) (Nosek et al., 2015).
+* [Promoting an open research culture](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Nosek%20et%20al.%2C%202015.pdf) (Nosek et al., 2015).
 
-* [When will 'open science' become simply 'science'?](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0669-2) (Watson, 2015).
+* [When will 'open science' become simply 'science'?](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Watson%2C%202015.pdf) (Watson, 2015).
 
-* [How does one "open" science? Questions of value in biological research](http://journals.sagepub.com/doi/10.1177/0162243916672071) (Levin and Leonelli, 2016).
+* [How does one "open" science? Questions of value in biological research](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Levin%20and%20Leonelli%2C%202016.pdf) (Levin and Leonelli, 2016).
 
-* [Do you speak open science? Resources and tips to learn the language](https://peerj.com/preprints/2689/) (Masuzzo and Martens, 2017).
+* [Do you speak open science? Resources and tips to learn the language](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Masuzzo%20and%20Martens%2C%202017.pdf) (Masuzzo and Martens, 2017).
 
-* [Early-career researchers' perceptions of the prevalence of questionable research practices, potential causes, and Open Science](https://econtent.hogrefe.com/doi/full/10.1027/1864-9335/a000324) (Stürmer et al., 2017).
+* [Early-career researchers' perceptions of the prevalence of questionable research practices, potential causes, and Open Science](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/St%C3%BCrmer%20et%20al.%2C%202017.pdf) (Stürmer et al., 2017).
 
-* [Making Science Transparent By Default; Introducing the TOP Statement](https://osf.io/sm78t/) (Aalbersberg et al., 2018).
+* [Making Science Transparent By Default; Introducing the TOP Statement](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Aalbersberg%20et%20al.%2C%202018.pdf) (Aalbersberg et al., 2018).
 
-* [Defining success in Open Science](https://mniopenresearch.org/articles/2-2/v1) (Ali-Khan et al., 2018).
+* [Defining success in Open Science](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Ali-Khan%20et%20al.%2C%202018.pdf) (Ali-Khan et al., 2018).
 
-* [Open Science is liberating and can foster creativity](https://osf.io/edhym/) (Frankenhuis and Nettle, 2018).
-
-* [Open Educational Science](https://osf.io/preprints/socarxiv/d9bme) (van der See and Reich, 2018).
+* [Open Science is liberating and can foster creativity](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Frankenhuis%20and%20Nettle%2C%202018.pdf) (Frankenhuis and Nettle, 2018).
 
 <br/>
 

@@ -12,7 +12,9 @@ These are the draft content files. The content in them is fully accessible, and 
 
 ### In markdown format
 
-- TBC
+- [Main](MAIN.md)
+- [Task 1](Task_1.md)
+- [Task 2](Task_2.md)
 
 ### In iPython notebook format
 

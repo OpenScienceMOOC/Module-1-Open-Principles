@@ -35,7 +35,7 @@ To innovate in a field frequently implies moving against prevailing trends and c
 - [Gareth O'Neill](https://twitter.com/gtoneill), Language Lubber
 - [Bruce Caron](https://twitter.com/junanaguy), Culture Work Architect
 - [Jon Tennant](https://twitter.com/protohedgehog), Dinosaur Whisperer
-- [Jo Havemann] (https://twitter.com/johave), #ResearchinAfrica Highlighter
+- [Jo Havemann](https://twitter.com/johave), #ResearchinAfrica Highlighter
 
 ## Key documents <a name="Key_documents"></a>
 

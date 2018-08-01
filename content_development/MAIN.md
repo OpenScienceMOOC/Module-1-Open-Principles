@@ -3,6 +3,24 @@
 ## Table of Contents
 
  - [Introduction](#Introduction)
+  - [Who is this module for?](#Who_for)
+  - [Specific learning objectives for this module](#Objectives)
+ - [What is Open Science?]
+  - [History of Open Science and Open Cultures](#cultures)
+  - [Differences in understanding and interpretation](#interpretation)
+ - [Principles of Open Science](#Principles)
+  - [Community values in Open Science](#values)
+ - [The global landscape of Open Science](#landscape)
+ - [How Open Science impacts you; **TASK 1**](#impacts)
+  - [Changes in research evaluation](#evaluation)
+  - [Potential impact on your career](#career)
+  - [Creating your digital profile; **TASK 2**](#profile)
+ - [Open licensing, copyright, and the 'legalise' behind Open Science](#legalise)
+ - [The different dimensions of Open Science](#dimensions)
+ - [Barriers to Open Science](#barriers)
+ - [Open Science and reproducible research](#reproducible)
+ - [Making Open Science part of your daily research workflow](#workflow)
+ - [Where to go from here](#future)
  - [Development Team](#Development_team)
 
 
@@ -12,7 +30,7 @@ Welcome to Module 5 of the Open Science MOOC: Open Research Software and Open So
 
 <br/>
 
-### Who is this module for?
+### Who is this module for? <a name="Who_for"></a>
 
 This module is designed primarily for students and researchers at the graduate and undergraduate level. It is a cross-disciplinary module, and therefore covers all research branches, including Engineering, Medicine, Maths, Social Sciences and Humanities, Arts, and STEM subjects.
 
@@ -20,7 +38,7 @@ This module is designed primarily for students and researchers at the graduate a
 
 <br/>
 
-### Specific learning objectives for this module
+### Specific learning objectives for this module <a name="Objectives"></a>
 
 
 1. Understand the ethical, legal, social, economic, and research impact arguments for and against Open Science.
@@ -29,42 +47,42 @@ This module is designed primarily for students and researchers at the graduate a
 
 <br/>
 
-## What is Open Science? <a name="Development_team"></a>
+## What is Open Science? <a name="What_is"></a>
 
 
-### History of Open Science and Open Cultures
+### History of Open Science and Open Cultures <a name="Cultures"></a>
 
 
-### Differences in understanding and interpretation
+### Differences in understanding and interpretation <a name="interpretation"></a>
 
 <br/>
 
 ## Principles of Open Science <a name="Principles"></a>
 
 
-### Community values in Open Science
+### Community values in Open Science <a name="values"></a>
  
 Including diversity, inclusivity, fairness, equity, social behaviour, accountability, ethics and responsibility.
 
 <br/>
 
-## The global landscape of Open Science
+## The global landscape of Open Science <a name="landscape"></a>
 
 
 <br/>
 
-## How Open Science impacts you
+## How Open Science impacts you <a name="impacts"></a>
 
 [**GO TO TASK 1: Defining how Open Science affects you**]
 
 
-### Changes in research evaluation
+### Changes in research evaluation <a name="evaluation"></a>
 
 
-### Potential impact on your career
+### Potential impact on your career <a name="career"></a>
 
 
-### Creating your digital profile
+### Creating your digital profile <a name="profile"></a>
 
 * ORCID
 * Publons - note Clarivate caveat (integrate with ORCID)
@@ -74,27 +92,27 @@ Including diversity, inclusivity, fairness, equity, social behaviour, accountabi
 
 <br/>
 
-## Open licensing, copyright, and the 'legalise' behind Open Science
+## Open licensing, copyright, and the 'legalise' behind Open Science <a name="legalise"></a>
 
 <br/>
 
-## The different dimensions of Open Science
+## The different dimensions of Open Science <a name="dimensions"></a>
 
 <br/>
 
-## Barriers to Open Science
+## Barriers to Open Science <a name="barriers"></a>
 
 <br/>
 
-## Open Science and reproducible research
+## Open Science and reproducible research <a name="profile"></a>
 
 <br/>
 
-## Making Open Science part of your daily research workflow
+## Making Open Science part of your daily research workflow <a name="workfloww"></a>
 
 <br/>
 
-## Where to go from here
+## Where to go from here <a name="future"></a>
 
 Hopefully now you have come to see the importance of Open Scientific principles, values, and practices as a fundamental part of modern science.
 

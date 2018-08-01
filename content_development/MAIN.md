@@ -5,7 +5,7 @@
  - [Introduction](#Introduction)
   - [Who is this module for?](#Who_for)
   - [Specific learning objectives for this module](#Objectives)
- - [What is Open Science?]
+ - [What is Open Science?](#What_is)
   - [History of Open Science and Open Cultures](#cultures)
   - [Differences in understanding and interpretation](#interpretation)
  - [Principles of Open Science](#Principles)
@@ -26,7 +26,9 @@
 
 ## Introduction <a name="Introduction"></a>
 
-Welcome to Module 5 of the Open Science MOOC: Open Research Software and Open Source. This module has been developed [in the open](https://github.com/OpenScienceMOOC/Module-1-Open-Principles) through collaboration by an international team of [Open Source afficianados]().
+Welcome to Module 1 of the Open Science MOOC: Open Principles. This module has been developed [in the open](https://github.com/OpenScienceMOOC/Module-1-Open-Principles) through collaboration by an international team of [Open Science wizards]().
+
+To innovate in a field frequently implies moving against prevailing trends and cultural inertia. Open Science is no different. No matter how convinced you are, you will come across resistance from peers and colleagues, and the best defence is strong personal conviction that what you are doing may not be perfect now, but is the right decision in the long run. This module will introduce the guiding principles of the 'open movement', the different actors involved, and the impact that they are having.
 
 <br/>
 

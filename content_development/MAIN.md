@@ -2,26 +2,26 @@
 
 ## Table of Contents
 
- - [Introduction](#Introduction)
+- [Introduction](#Introduction)
   - [Who is this module for?](#Who_for)
   - [Specific learning objectives for this module](#Objectives)
- - [What is Open Science?](#What_is)
+- [What is Open Science?](#What_is)
   - [History of Open Science and Open Cultures](#cultures)
   - [Differences in understanding and interpretation](#interpretation)
- - [Principles of Open Science](#Principles)
+- [Principles of Open Science](#Principles)
   - [Community values in Open Science](#values)
- - [The global landscape of Open Science](#landscape)
- - [How Open Science impacts you; **TASK 1**](#impacts)
+- [The global landscape of Open Science](#landscape)
+- [How Open Science impacts you; **TASK 1**](#impacts)
   - [Changes in research evaluation](#evaluation)
   - [Potential impact on your career](#career)
   - [Creating your digital profile; **TASK 2**](#profile)
- - [Open licensing, copyright, and the 'legalise' behind Open Science](#legalise)
- - [The different dimensions of Open Science](#dimensions)
- - [Barriers to Open Science](#barriers)
- - [Open Science and reproducible research](#reproducible)
- - [Making Open Science part of your daily research workflow](#workflow)
- - [Where to go from here](#future)
- - [Development Team](#Development_team)
+- [Open licensing, copyright, and the 'legalise' behind Open Science](#legalise)
+- [The different dimensions of Open Science](#dimensions)
+- [Barriers to Open Science](#barriers)
+- [Open Science and reproducible research](#reproducible)
+- [Making Open Science part of your daily research workflow](#workflow)
+- [Where to go from here](#future)
+- [Development Team](#Development_team)
 
 
 ## Introduction <a name="Introduction"></a>

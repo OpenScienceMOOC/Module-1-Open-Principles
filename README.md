@@ -39,10 +39,10 @@ To innovate in a field frequently implies moving against prevailing trends and c
 
 ## Key documents <a name="Key_documents"></a>
 
-- [Contributing](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/tree/master/CONTRIBUTING.md)
-- [Module design protocol](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/tree/master/MODULE_DESIGN_PROTOCOL.md)
-- [Code of conduct](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/tree/master/CODE_OF_CONDUCT.md)
-- [Key elements](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/tree/master/key_elements.md)
+- [Contributing](/CONTRIBUTING.md)
+- [Module design protocol](/production_toolkit/MODULE_DESIGN_PROTOCOL.md)
+- [Code of conduct](/CODE_OF_CONDUCT.md)
+- [Key elements](/key_elements.md)
 
 Pleaee note that all the reading materials are Open Access. Please do not upload articles which are paywalled or which are not openly licensed.
 

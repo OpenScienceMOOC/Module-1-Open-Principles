@@ -28,7 +28,9 @@
 
 Welcome to Module 1 of the Open Science MOOC: Open Principles. This module has been developed [in the open](https://github.com/OpenScienceMOOC/Module-1-Open-Principles) through collaboration by an international team of [Open Science wizards]().
 
-To innovate in a field frequently implies moving against prevailing trends and cultural inertia. Open Science is no different. No matter how convinced you are, you will come across resistance from peers and colleagues, and the best defence is strong personal conviction that what you are doing may not be perfect now, but is the right decision in the long run. This module will introduce the guiding principles of the 'open movement', the different actors involved, and the impact that they are having.
+To innovate in a field frequently implies moving against prevailing trends and cultural inertia. Open Science is no different. The fact that you are here, reading this now, means that you have an interest in this, and the difference that Open Science can have on research cultures.
+
+No matter how convinced you are, you will come across resistance from peers and colleagues. The best defence is strong personal conviction that what you are doing may not be perfect now, but is the right decision in the long run. This module will introduce to you the guiding principles, values, and practices of the 'Open Science movement', some of the barriers to these, and the impact that integrating Open Science into your daily research work can have on you.
 
 <br/>
 
@@ -51,11 +53,29 @@ This module is designed primarily for students and researchers at the graduate a
 
 ## What is Open Science? <a name="What_is"></a>
 
+Whatever 'Open Science' is, there is no one single, universally accepted decision for it. Usually, definitions are centralised around one core theme: **Increasing knowledge availability as a public good**, typically, with critical research aspects such as credibility, reproducibility, and verifiability thrown in in some combination.
+
+As such, Open Science can broadly be viewed as a way of enhancing scientific progress through sharing of knowledge and methods, wider collaboration, and increased rigour. Now, really, every student and every researcher probably wants this by default as part of their core values. No one becomes a researcher because they want to lock knowledge away! However, what we know, is that sadly this ideal is often divergent from the reality.
+
+Research papers remain locked behind expensive paywalls, critical research data remains locked away on a harddrive somewhere, methods remain scantly documented, research results cannot be reproduced. These are just some examples of typical practices that contribute to what might be viewed as 'closed science'; or to look at it another way, bad scientific practices.
+
+Open Science is about changing these research practices through a shift in culture. The power of modern Web technologies enables instantaneous sharing, global collaboration, and in an unrestricted fashion. This shift in research culture is often referred to as the [**Scholarly Commons**](https://www.force11.org/group/scholarly-commons-working-group), which seeks to explore and redefine what a modern scholarly communication ecosystem should look like.
+
 
 ### History of Open Science and Open Cultures <a name="Cultures"></a>
 
+*THIS SECTION VERY MUCH IN PREP*
+
+From this, what might be becoming a little more clear is that Open Science is about systemic change. It challenges the way research is conducted, at a practical and cultural level, the way it is evaluated, and the ways in which scientific knowledge is disseminated. Much of this is ingrained into research culture through self-reinforcing local governance systems, which are often imposed through external capitalist pressure. For example, the '*publish or perish*' mantra is a direct consequence of these pressures, which in turn are linked to the evolving neoliberal agenda imposed by modern research institutes.
+
+So now, if this makes sense to you, it might seem like Open Science is in almost direct conflict with a capitalistic culture. 
+
 
 ### Differences in understanding and interpretation <a name="interpretation"></a>
+
+As mentioned above, there does not seem to be a single accepted definition of what Open Science is.
+
+There are two ways too look at this. First, some might argue that the power of a definition lies in its precision, and helps to avoid distortion of those definitions - what some might, in this case, call "open washing". Second, flexibility in the definition, and its understanding and interpretation, lead to increased familiarity with a concept as a 'boundary object'. For the latter, and for Open Science, this means that while it might be interpreted differently across different communities with a variety of norms and practices, the foundational understanding that Open Science is good for public access to knowledge is universally accepted.
 
 <br/>
 
@@ -80,11 +100,27 @@ Including diversity, inclusivity, fairness, equity, social behaviour, accountabi
 
 ### Changes in research evaluation <a name="evaluation"></a>
 
+The world of research evaluation is slowly changing. While there is generally little empirical evidence, it is generally accepted that research evaluation is almost entirely contingent on getting research articles published in 'high impact' journal venues.
+
+One consequence of this, is that other elements of the research process, are seen as less important. This includes Open Science, which can be viewed as risky or detrimental to the career choices of an individual research, and in particular those who are already disadvantaged/marginalised, or at an earlier stage in their career.
+
+Perhaps a much bigger consequence of this, however, is that we essentially have a system where researchers are rewarded for how many papers they publish, and the brands associated with the venue of publication, which can be detrimental to the value of shared knowledge.
+
+Things are changing, though. It is becoming more widely realised that these publication-based incentives are detrimental to the research process, and the health of research culture. For example, this comes from an [advertisement for a professorship at the Ludwig Maximillian University](http://www.nicebread.de/open-science-hiring-practices/), Munich, and is the first time that Open Science was made an explicit part of hiring criteria:
+
+> "Our department embraces the values of open science and strives for replicable and reproducible research. For this goal we support transparent research with open data, open material, and pre-registrations. Candidates are asked to describe in what way they already pursued and plan to pursue these goals."
+
+Having Open Science as a core value in research departments sends a strong message for a shift in research cultures.
+
+[Mention stuff from the EC here]
+[Also EURODOC statements]
 
 ### Potential impact on your career <a name="career"></a>
 
 
+
 ### Creating your digital profile <a name="profile"></a>
+
 
 * ORCID
 * Publons - note Clarivate caveat (integrate with ORCID)
@@ -107,6 +143,10 @@ Including diversity, inclusivity, fairness, equity, social behaviour, accountabi
 <br/>
 
 ## Open Science and reproducible research <a name="profile"></a>
+
+There is an enormous overlap between Open Science and reproducible research. Now, traditionally, much of the research process, as well as the outputs, remain hidden or closed from public scrutiny. Open Science attempts to expose some of this process; for example, by recording and documenting 'failed' reactions, highlighting repeated experiments and their variants, and revealing thoughts, ideas, and comments that were part of the process but wouldn't make into a final research paper. 
+
+All of these elements can be documented as part of a 'lab notebook', and comes with an important implication: **The aspects of research that did not produce favourable results are just as important as those which do.** 
 
 <br/>
 
@@ -169,6 +209,8 @@ There is so much potential reading material out there that it would take years o
 
 ### Development Team <a name="Development_team"></a>
 
-- [Gareth O'Neill](https://twitter.com/gtoneill), 
-- [Bruce Carron](https://twitter.com/junanaguy),
+- [Gareth O'Neill](https://twitter.com/gtoneill), Language Lubber
+- [Bruce Carron](https://twitter.com/junanaguy), Culture Work Architect
+- [Jo Havemann](https://twitter.com/Access2Perspectives), #ResearchinAfrica Highlighter
 - [Jon Tennant](https://twitter.com/protohedgehog), Dinosaur Whisperer.
+

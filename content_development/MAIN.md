@@ -120,7 +120,7 @@ This above video from [OCSDNet](https://ocsdnet.org/manifesto/open-science-manif
 
 Another widely-known vision for the future of scholarly communication is the [Vienna Principles](https://viennaprinciples.org/).
 
-![Vienna Principles](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/tree/master/content_development/images/vienna_principles.png)
+![Vienna Principles](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/vienna_principles.png)
 
 <p align="center"><i>The Vienna Principles, now in handy infographic form!</i></p>
 

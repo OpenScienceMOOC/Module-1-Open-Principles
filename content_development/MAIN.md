@@ -1,4 +1,4 @@
-# Module 5: Open Research Software and Open Source
+# Module 1: Open Principles
 
 ## Table of Contents
 
@@ -23,6 +23,7 @@
 - [Where to go from here](#future)
 - [Development Team](#Development_team)
 
+*THIS MODULE IS VERY MUCH IN PREP*
 
 ## Introduction <a name="Introduction"></a>
 
@@ -30,7 +31,9 @@ Welcome to Module 1 of the Open Science MOOC: Open Principles. This module has b
 
 To innovate in a field frequently implies moving against prevailing trends and cultural inertia. Open Science is no different. The fact that you are here, reading this now, means that you have an interest in this, and the difference that Open Science can have on research cultures.
 
-No matter how convinced you are, you will come across resistance from peers and colleagues. The best defence is strong personal conviction that what you are doing may not be perfect now, but is the right decision in the long run. This module will introduce to you the guiding principles, values, and practices of the 'Open Science movement', some of the barriers to these, and the impact that integrating Open Science into your daily research work can have on you.
+No matter how convinced you are of Open Science, you will come across resistance from peers and colleagues. Why? Well, think of science like the Titanic. A monstrous machine that takes a long time and a lot of effort to change direction. And sometimes with unforeseen consequences. The best defence of Open Science is strong personal conviction that what you are doing may not be perfect now, but is the right decision in the long run. 
+
+This module will introduce to you the guiding principles, values, and practices of the 'Open Science movement', some of the barriers to these, and the impact that integrating Open Science into your daily research work can have on you.
 
 <br/>
 
@@ -44,7 +47,6 @@ This module is designed primarily for students and researchers at the graduate a
 
 ### Specific learning objectives for this module <a name="Objectives"></a>
 
-
 1. Understand the ethical, legal, social, economic, and research impact arguments for and against Open Science.
 
 2. Set up a personal profile for defining your impact: measure the social and academic attention on the full range of research processes and outputs.
@@ -55,31 +57,43 @@ This module is designed primarily for students and researchers at the graduate a
 
 Whatever 'Open Science' is, there is no one single, universally accepted decision for it. Usually, definitions are centralised around one core theme: **Increasing knowledge availability as a public good**, typically, with critical research aspects such as credibility, reproducibility, and verifiability thrown in in some combination.
 
+> FOSTER defines Open Science as: "The movement to make scientific research, data and dissemination accessible to all levels of an inquiring society.""
+
 As such, Open Science can broadly be viewed as a way of enhancing scientific progress through sharing of knowledge and methods, wider collaboration, and increased rigour. Now, really, every student and every researcher probably wants this by default as part of their core values. No one becomes a researcher because they want to lock knowledge away! However, what we know, is that sadly this ideal is often divergent from the reality.
 
-Research papers remain locked behind expensive paywalls, critical research data remains locked away on a harddrive somewhere, methods remain scantly documented, research results cannot be reproduced. These are just some examples of typical practices that contribute to what might be viewed as 'closed science'; or to look at it another way, bad scientific practices.
+Research papers remain locked behind expensive paywalls, critical research data remains locked away on a harddrive somewhere, methods remain scantly documented, research results cannot be reproduced. These are just some examples of typical practices that contribute to what might be viewed as 'closed science'; or to look at it another way, bad scientific practices. 
 
-Open Science is about changing these research practices through a shift in culture. The power of modern Web technologies enables instantaneous sharing, global collaboration, and in an unrestricted fashion. This shift in research culture is often referred to as the [**Scholarly Commons**](https://www.force11.org/group/scholarly-commons-working-group), which seeks to explore and redefine what a modern scholarly communication ecosystem should look like.
+Open Science is about changing these research practices through a shift in culture. The power of modern Web technologies enables instantaneous sharing, global collaboration, and in an unrestricted fashion. This shift in research culture is often referred to as the [**Scholarly Commons**](https://www.force11.org/group/scholarly-commons-working-group), which seeks to explore and redefine what a modern scholarly communication ecosystem should look like. 
+
+The digital era is transforming the way in research is performed, and the limitations of the print era are gone. With this, new issues arise, which include the complexities of knowledge capture and communication. The framing of these complexities as a 'Commons' integrates the polticial, social, economic, and philosophical dimensions around knowledge.
 
 
 ### History of Open Science and Open Cultures <a name="Cultures"></a>
 
-*THIS SECTION VERY MUCH IN PREP*
+Science wants to be Open by default.
+
+Although difficult to pin down exactly, the origins of what many call the 'Open Science movement' was probably catalysed by increasing frustration, debate, and distress regarding the impacts of 'closed science' (e.g., barriers such as subscription paywalls) and commercialisation on knowledge dissemination.
+
+In the last two decades, there has been an explosive growth in the development of different aspects of scholarly infrastructure - the core, underpinning aspects of a well-functioning research machine. Much of this is a blend of non-profit and commercial services, which are now variably integrated, but has created a strange and complex new system of ways to perform and communicate research.
 
 From this, what might be becoming a little more clear is that Open Science is about systemic change. It challenges the way research is conducted, at a practical and cultural level, the way it is evaluated, and the ways in which scientific knowledge is disseminated. Much of this is ingrained into research culture through self-reinforcing local governance systems, which are often imposed through external capitalist pressure. For example, the '*publish or perish*' mantra is a direct consequence of these pressures, which in turn are linked to the evolving neoliberal agenda imposed by modern research institutes.
 
 So now, if this makes sense to you, it might seem like Open Science is in almost direct conflict with a capitalistic culture. 
 
+Open Science really hit the mainstream around 2016 due to a number of possible reasons. A combination of political activity and grassroots community-led initiatives really put it on the map, and now everywhere you go in science, openness is all around in one way or another.
+
 
 ### Differences in understanding and interpretation <a name="interpretation"></a>
 
-As mentioned above, there does not seem to be a single accepted definition of what Open Science is.
+As mentioned above, there does not seem to be a single accepted definition of what Open Science is. Ask one person, and they will tell you it is about making datasets and research papers public. Ask another, and they will tell you about a vision for a 'radical' transformation of scholarship, where all processes and outputs are instantaneously public. The extent to which different communities and disciplines have embraced and adopted Open Science practices is extremely variable.
 
 There are two ways too look at this. First, some might argue that the power of a definition lies in its precision, and helps to avoid distortion of those definitions - what some might, in this case, call "open washing". Second, flexibility in the definition, and its understanding and interpretation, lead to increased familiarity with a concept as a 'boundary object'. For the latter, and for Open Science, this means that while it might be interpreted differently across different communities with a variety of norms and practices, the foundational understanding that Open Science is good for public access to knowledge is universally accepted.
 
 <br/>
 
 ## Principles of Open Science <a name="Principles"></a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y1X0xtB_JcY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 ### Community values in Open Science <a name="values"></a>
@@ -128,17 +142,28 @@ Having Open Science as a core value in research departments sends a strong messa
 
 [**GO TO TASK 2: Developing your digital researcher profile**]
 
+
 <br/>
 
 ## Open licensing, copyright, and the 'legalise' behind Open Science <a name="legalise"></a>
+
 
 <br/>
 
 ## The different dimensions of Open Science <a name="dimensions"></a>
 
+
+[Including FOSTER taxonomy]
+
 <br/>
 
 ## Barriers to Open Science <a name="barriers"></a>
+
+Open Science reflects the intentions of the researchers themselves, and is thereby subject to cultural bias.
+
+Open Science is not a perfect system by any means, and operates a hierarchy between different barriers. For example, Open Access seeks to remove barriers such as price for readers and re-use permissions, but often fails to address barriers such as connectivity or language, and also in cases erect new barriers, such as author-facing costs. As such, while the core principles underlying Open Science are often focussed around accessibility, in practice there is often a trade-off within this hierarchy, and often with unforeseen consequences. 
+
+Much of this is not due to the intentions of Open Science, but more about the difficulties in reconciling the different stakeholder viewpoints, which often leads to inherent conflict and complications around developments.
 
 <br/>
 
@@ -151,6 +176,7 @@ All of these elements can be documented as part of a 'lab notebook', and comes w
 <br/>
 
 ## Making Open Science part of your daily research workflow <a name="workfloww"></a>
+
 
 <br/>
 
@@ -214,3 +240,7 @@ There is so much potential reading material out there that it would take years o
 - [Jo Havemann](https://twitter.com/Access2Perspectives), #ResearchinAfrica Highlighter
 - [Jon Tennant](https://twitter.com/protohedgehog), Dinosaur Whisperer.
 
+
+### Additional tools and services
+
+* The [FOSTER Open Science Training courses](https://www.fosteropenscience.eu/toolkit) are an excellent series for developing your Open Science skills. Each course takes about 1-2 hours to work through and you’ll receive a badge upon completion. The courses include practical tips on getting started with Open Science as well as providing information on discipline specific tools and resources you can use.

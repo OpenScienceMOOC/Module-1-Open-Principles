@@ -57,7 +57,7 @@ This module is designed primarily for students and researchers at the graduate a
 
 Whatever 'Open Science' is, there is no one single, universally accepted decision for it. Usually, definitions are centralised around one core theme: **Increasing knowledge availability as a public good**, typically, with critical research aspects such as credibility, reproducibility, and verifiability thrown in in some combination.
 
-> FOSTER defines Open Science as: "The movement to make scientific research, data and dissemination accessible to all levels of an inquiring society."
+> [FOSTER](https://www.fosteropenscience.eu/) defines Open Science as: "The movement to make scientific research, data and dissemination accessible to all levels of an inquiring society."
 
 As such, Open Science can broadly be viewed as a way of enhancing scientific progress through sharing of knowledge and methods, wider collaboration, and increased rigour. Now, really, every student and every researcher probably wants this by default as part of their core values. No one becomes a researcher because they want to lock knowledge away! However, what we know, is that sadly this ideal is often divergent from the reality.
 
@@ -102,7 +102,7 @@ Note that often you will find things described as Open Sciene, but that do not s
 
 <p align="center"><i>Open and Collaborative Science Manifesto. This video describes the 7 principles that constitute a more open and inclusive science in development. CC BY <a href="https://www.youtube.com/watch?time_continue=3&v=Y1X0xtB_JcY" target="_blank">Source</a></i></p>
 
-This above video from OCSDNet is absolutely critical in framing the principles of Open Science. It outlines the importance of representation and inclusivity within Open Science, and the importance of these in challenging the core values of traditional science. They propose **seven principles** for Open and Collaborative Science:
+This above video from [OCSDNet](https://ocsdnet.org/manifesto/open-science-manifesto/) is absolutely critical in framing the principles of Open Science. It outlines the importance of representation and inclusivity within Open Science, and the importance of these in challenging the core values of traditional science. They propose **seven principles** for Open and Collaborative Science:
 
 * **Principle 1**: Enables a knowledge commons where every individual has the means to decide how their knowledge is governed and managed to address their needs
 
@@ -117,6 +117,14 @@ This above video from OCSDNet is absolutely critical in framing the principles o
 * **Principle 6**: It incentivizes inclusive infrastructures that empower people of all abilities to m ake, and use accessible open-source technologies.
 
 * **Principle 7**: It strives to use knowledge as a pathway to sustainable development, equipping every individual to improve the well-being of our society and planet
+
+Another widely-known vision for the future of scholarly communication is the [Vienna Principles](https://viennaprinciples.org/).
+
+![Vienna Principles](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/tree/master/content_development/images/vienna_principles.png)
+
+<p align="center"><i>The Vienna Principles, now in handy infographic form!</i></p>
+
+<br/>
 
 
 ### Community values in Open Science <a name="values"></a>

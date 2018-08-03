@@ -93,10 +93,30 @@ There are two ways too look at this. First, some might argue that the power of a
 
 ## Principles of Open Science <a name="Principles"></a>
 
+Now, there are no rules about Open Science, and no one individual or organisation is setting the agenda. However, what is commonly recognised is that Open Science is underpinned by specific, core principles and values.
+
+Note that often you will find things described as Open Sciene, but that do not seem to embrace these principles. These things are probably not 'true' Open Science, but more just attempting to surf the wave or join the bandwagon as a PR stunt. Such things are often called 'open washing'.
+
 [![Open & Collaborative Science Manifesto
-](https://img.youtube.com/vi/Y1X0xtB_JcY/0.jpg)](https://www.youtube.com/watch?v=YY1X0xtB_JcY)
+](https://img.youtube.com/vi/Y1X0xtB_JcY/0.jpg)](https://www.youtube.com/watch?v=Y1X0xtB_JcY)
 
 <p align="center"><i>Open and Collaborative Science Manifesto. This video describes the 7 principles that constitute a more open and inclusive science in development. CC BY <a href="https://www.youtube.com/watch?time_continue=3&v=Y1X0xtB_JcY" target="_blank">Source</a></i></p>
+
+This above video from OCSDNet is absolutely critical in framing the principles of Open Science. It outlines the importance of representation and inclusivity within Open Science, and the importance of these in challenging the core values of traditional science. They propose **seven principles** for Open and Collaborative Science:
+
+* **Principle 1**: Enables a knowledge commons where every individual has the means to decide how their knowledge is governed and managed to address their needs
+
+* **Principle 2**: It recognizes cognitive justice , the need for diverse understandings of knowledge making to co-exist in scientific production
+
+* **Principle 3**: It p ractices situated openness by addressing the ways in which c ontext, power and inequality condition scientific research
+
+* **Principle 4**: It advocates for every individual’s right to research and enables different forms of participation at all stages of the research process.
+
+* **Principle 5**: It fosters equitable collaboration between scientists and social actors and cultivates co-creation and social innovation in society
+
+* **Principle 6**: It incentivizes inclusive infrastructures that empower people of all abilities to m ake, and use accessible open-source technologies.
+
+* **Principle 7**: It strives to use knowledge as a pathway to sustainable development, equipping every individual to improve the well-being of our society and planet
 
 
 ### Community values in Open Science <a name="values"></a>

@@ -57,7 +57,7 @@ This module is designed primarily for students and researchers at the graduate a
 
 Whatever 'Open Science' is, there is no one single, universally accepted decision for it. Usually, definitions are centralised around one core theme: **Increasing knowledge availability as a public good**, typically, with critical research aspects such as credibility, reproducibility, and verifiability thrown in in some combination.
 
-> FOSTER defines Open Science as: "The movement to make scientific research, data and dissemination accessible to all levels of an inquiring society.""
+> FOSTER defines Open Science as: "The movement to make scientific research, data and dissemination accessible to all levels of an inquiring society."
 
 As such, Open Science can broadly be viewed as a way of enhancing scientific progress through sharing of knowledge and methods, wider collaboration, and increased rigour. Now, really, every student and every researcher probably wants this by default as part of their core values. No one becomes a researcher because they want to lock knowledge away! However, what we know, is that sadly this ideal is often divergent from the reality.
 
@@ -93,7 +93,10 @@ There are two ways too look at this. First, some might argue that the power of a
 
 ## Principles of Open Science <a name="Principles"></a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y1X0xtB_JcY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Open & Collaborative Science Manifesto
+](https://img.youtube.com/vi/Y1X0xtB_JcY/0.jpg)](https://www.youtube.com/watch?v=YY1X0xtB_JcY)
+
+<p align="center"><i>Open and Collaborative Science Manifesto. This video describes the 7 principles that constitute a more open and inclusive science in development. CC BY <a href="https://www.youtube.com/watch?time_continue=3&v=Y1X0xtB_JcY" target="_blank">Source</a></i></p>
 
 
 ### Community values in Open Science <a name="values"></a>

@@ -35,6 +35,10 @@ To innovate in a field frequently implies moving against prevailing trends and c
 
 This module will introduce to you the guiding principles, values, and practices of the 'Open Science movement', some of the barriers to these, and the impact that integrating Open Science into your daily research work can have on you.
 
+<img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/02_expectations.png" width="400" />
+
+<p align="center"><i>Image by Patrick Hochstenbach (CC0 1.0 Universal)</i></p>
+
 <br/>
 
 ### Who is this module for? <a name="Who_for"></a>
@@ -217,6 +221,22 @@ This is something which the Open Science movement is becoming more and more awar
 
 * High article processing charges (APCs) for publication, that discriminate 
 
+* 
+
+However, as well as this, there are several worrying and ongoing trends that reflect more systemic issues within Open Science, and scholarship more generally:
+
+* That Open Science is introducing more metrics to 'incentivise' researchers to work harder, and not always in their best interests;
+
+* That new gatekeppers are consolidating these metrics, and using them to define the future of research;
+
+* The increasing capture of research and infrastructure by commercial, for-profit entities;
+
+* A lack of consideration of the social and cultural real-world benefits of research;
+
+* The fact that most historical research still remains locked away from access or re-use.
+
+Based on this, it is interesting to ask why such trends seem to grow from seemingly good intentions based on positive core principles and values.
+
 ### Moving away from tradition and the status quo <a name="tradition"></a>
 
 While the core principles underlying Open Science are often focussed around accessibility, in practice there is often a trade-off within this hierarchy, and often with unforeseen consequences. Much of this is not due to the intentions of Open Science, but more about the difficulties in reconciling the different stakeholder viewpoints, which often leads to inherent conflict and complications around developments.
@@ -324,6 +344,8 @@ There is so much potential reading material out there that it would take years o
 
 * The Berkeley Initiative for Transparency in Social Sciences (BITSS) have an excellent MOOC on [Transparent and Open Social Science](https://www.bitss.org/events/mooc-transparent-and-open-social-science/).
 
-The [Scholarly Communication](https://www.scienceopen.com/search#collection/69988c7e-1855-4007-ba94-caa4c4638b1f) Super Collection at ScienceOpen contains more than 1000 research articles, thematically organised on the topic. Most of these are also Open Access.
+* The [Scholarly Communication](https://www.scienceopen.com/search#collection/69988c7e-1855-4007-ba94-caa4c4638b1f) Super Collection at ScienceOpen contains more than 1000 research articles, thematically organised on the topic. Most of these are also Open Access.
 
 * [Why Open Research?](http://whyopenresearch.org/) is a fantastic website by Erin McKiernan, providing illustrations and information that help to support a strong case for Open Research.
+
+* The [Foundations for Open Scholaarship Strategy Development](https://open-scholarship-strategy.github.io/site/), a document that aims to agree on a broad, international strategy for the implementation of open scholarship that meets the needs of different national and regional communities but works globally.

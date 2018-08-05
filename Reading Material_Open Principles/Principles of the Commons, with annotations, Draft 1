@@ -1,0 +1,479 @@
+Principles of the Commons,
+with annotations, Draft 1
+Introduction
+The Scholarly Commons defines a system of scholarship and research production and dissemination that:
+●	Promotes the best research and scholarship possible by
+○	Making the process and products of research and scholarship maximally transparent
+○	Maximizing participation of the world’s scholars and researchers
+○	Capitalizing on the most productive technologies
+●	Promotes the most rapid and wide dissemination of scholarship and research possible to all who need or want them
+The Principles of the Scholarly Commons defines the set of tenets for those who adhere to this premise. The principles of the commons can be summarised through four major themes:
+●	Equitable
+●	Open
+●	Sustainable
+●	Research and Culture Driven
+The current version of the Principles of the Scholarly Commons, Draft 1, were formulated based on the workshop Re-imagining Scholarship held by FORCE11 in Madrid, Feb 2016 and further refinement by the Scholarly Commons Working Group.  They were also influenced by the many declarations and charters put forth by groups around the world seeking to reform scholarly communication. In this annotated version, we discuss each principle, provide implications for operationalization, and indicate mappings to additional principles and charters. The operationalization of the principles translates the tenets into actions and technologies that can be executed by stakeholders - researchers, scholars, funders, administrators, tool builders.  Thus, we seek to drill down to the practical implications of each principle and what tools and practices support it.
+We have explicitly reused or mapped to materials from other charters in many cases, although this exercise is far from complete.  In some cases, we have provided these mappings in the Acknowledgement section for readability.
+The Principles themselves are a work in progress;  we will continue to refine them and make further choices as we consider what the Scholarly Commons can and should be. In their current form, the principles still support different interpretations and types of implementation of scholarly commons. Even those of us who have worked hard over the past 6 months to produce this draft don’t believe this is the final word.  We will likely drop, merge or add some as we define the boundaries of what is inside and outside of the Commons. We may even have to start all over again. In the spirit of the Commons, we do this openly and we welcome any and all contributions (attributed, of course-see Principle E4).
+Principles and annotations
+(E = Equitable, O = Open, S = Sustainable, RC = Research- and culture-led)
+
+E1 - The commons is developed and governed by its members through their practice
+E2 - The commons is open to all participants who accept its principles
+E3 - The commons welcomes and encourages participants of all backgrounds
+E4 - All contributions are attributed
+E5 - The commons accepts all contributed objects that adhere to its guidelines on an equal basis regardless of form
+E6 - The commons has no intrinsic hierarchies, rankings, or reward systems
+O1 - The Commons is open by default
+O2 - Scholarly objects and content in the commons is  FAIR:  Findable, accessible, interoperable and reusable by humans and machines.
+O3 - A publisher in the Commons is any entity that will ensure that outputs are open and FAIR.
+O4 - All outputs are considered published when they are made available according to the principles and standards of the Commons.
+S1 - There is global commitment and participation in the Commons’ long-term viability and preservation.
+S2 - All activities and outputs that take place in in the Commons remain in the Commons.
+S3 - Use of the Commons cannot devalue the Commons.
+S4 - There is an expectation of service by Commoners to support research and scholarship in the Commons.
+S5 - The Commons itself is continuously required to respond to the requirements of Commoners.
+RC1 - The Commons exists independently of the technology, funding, and business models that support and enable it
+RC2 - The Commons stimulates behaviours that support openness in all stages of the research cycle.
+RC3 - In the Commons, the form research is disseminated in is determined by the needs of the research itself
+
+E1 - The commons is developed and governed by its members through their practice
+Principle
+The commons is an agreement among members (commoners) to grow and steward scholarly and scientific objects as a common resource that can (help) sustain open scholarship.
+Discussion
+The commons starts with people: a community of commoners. To paraphrase Peter Linebaugh, there is no commons without commoners.
+This means that there is no single organisation or person responsible for oversight of the commons. There is no gatekeeper who decides whether a contribution may be included. While the commons is global and community-based, its manifestation is local. It does not exist except through the practice of its members.
+Commoners contribute to and help govern the commons in many ways. They contribute research- (and other) objects; they ensure that these objects are sharable and discoverable through the use of appropriate metadata; they interact with each other in the commons over ideas and scholarly objects, they collaborate in the development and use of appropriate standards and stewardship efforts; they acknowledge the efforts of others in their work; they promote the commons and commoning as a mode of scholarly effort.
+Because the Commons is owned and led by its community, volunteers are given the responsibility to envision and build it as the destination for the future of open science and scholarship. All commoners will benefit from the impacts that the commons will make on the academy’s research and communication capabilities. Volunteer leaders will also gain satisfaction that their time and efforts will grow this resource for the benefit of all and the advancement of knowledge.
+Operationalization
+Operationalization of this principle involves participants adopting the practice of open, machine-processable sharing as their main stance in scholarly communication--as the intentional but reflexive cultural mode for the academy. Commoners will need to shift their attention and their trust into the commons. People are essential today to build the vision and the infrastructure of the scholarly commons, and tomorrow to sustain this vision and the wealth of open scholarly objects into a shared future.
+
+Discussion points
+●	Can the commons really exist without official governance? Without an official platform? Without an official certification? In our discussions of this point, we kept coming back to questions of platform.
+●	An agreement as to inclusion implies a concomitant agreement to exclude. Who determines what is outside the commons and does this matter?
+●	An early version of this principle was “people are the most important resource in the commons”. Is this better?
+●	Is this too high-level?
+E2 - The commons is open to all participants who accept its principles
+“Before every great idea is a crazy idea.” Jono Bacon
+
+“The world’s cognitive surplus is so large that small changes can have huge ramifications in aggregate.” Clay Shirky
+ Principle
+The commons supports a diversity of skills and knowledge without privileging any. All commoners will find a home for their knowledge and their interests. Participation in the commons is not restricted on the basis of accreditation, professional standing or reputation, or any other criteria except willingness to contribute and uphold the principles of the commons. Content and behaviour are the only criteria for moderation within the Commons.
+Discussion
+The Commons is an intellectual space that values active sharing and collaboration to produce the best scholarship and research and its broad dissemination above all else. People serve these requirements in different ways across the spectrum of stakeholders. The commons does not require a specific volume or genre of contribution, a particular professional, educational, or social background, affiliation, certification, or status. It is not restricted to participants from any single sector or region. It provides a home for the work of full professors, citizen-scientists, entrepreneurs, and bloggers. It recognises the comment, the scholarly monograph, the dataset, the discussion, and the commercial product or service. It provides a home and recognition for programmers, statisticians, bench scientists, and literary critics. It welcomes the most narrowly focussed specialist work and the broadest popularisation. Above all, it encourages commoners to collaborate and share their specialisations and interests.
+Each commoner gets more value than they give as they grow the scholarly Commons. The return on investment (ROI) for the commoner demonstrates how the commons as a whole is more valuable than any of its pieces. One part of this equation is due to the network effect, which amplifies the value of participation and also the utility of each object being shared in the network. Commoners also grow networks inside the commons as their contributions get reused. These networks reflect a shared ethos and a capacity for more trustful interactions. The act of commoning builds the commons as a scholarly community.
+The Commons can also be subdivided by interests, disciplines, experiences, and goals. “The Commons” is really a collection of multiple Commons that build on the same core principles, while adding or modifying them in a ways that make sense to their participants. Commoners across the planet will be linked through the Commons in which they participate. These Commons will tap into a bit of the cognitive surplus of this crowd to address an immediate problem of any member. Expert teams can be assembled to acquire the funding needed to address larger problems using the resources of the Commons.
+Operationalization
+The operationalization of this principle involves respect for the many skills required to perform the functions of the commons. These skills are manifested in explicit ways when working with digital objects at various stages of their lifecycle .  The commons does not segregate these individuals into academic and non-academic tracts.  The commons provides the means for Commoners to be known by what they do and not where they work.  Commoners must respect the contributions of others without regard to the status of contributor or the genre or focus of the contribution.
+●	“People could contribute to the network from a variety of perspectives; each contribution would be immediately accessible globally by others.”-FORCE11 Manifesto
+●	FAIR tools for commenting and annotating each scholarly object
+●	Moderation should be based on content and behaviour alone
+●	Funding should support the rapid and flexible formation of teams to address particular problems
+●	Participants should be careful about filtering content using non-essential indicators of professional, social, or regional standing (e.g. access to a University email address, a specific number of publications or status within such publications, broad-band access, degree or certification). Whenever such attributes are used for non-accidental reasons (e.g. previous record as PI as proxy for determining leadership experience), they should be carefully justified and thought should be given to potential alternatives.
+●	Participants should avoid establishing a hierarchy among contributions using non-essential attributes: e.g. genre, word-count, citation counts, impact factors.
+●	Adjudication systems should recognise the validity of all skill-sets involved in collaborative research--i.e. full attribution to enable, amongst others, credit for all aspects of participation in research dissemination: observation, writing, statistical work, archival work, translation, and so on. 
+Discussion points
+●	Is this a better plain-language expression of the principle: “Content and behaviour are the only criteria for moderation within the Commons”?
+●	How do Commoners make themselves known to the Commons?  Does everyone have a home page?  A domain of one's own?  An API to oneself?
+●	How do we determine accidental from substantive criteria for adjudication?
+●	Is the Commons a unitary entity or a collection of commons?  Or an umbrella that organizes different sub-commons?
+●	What about differential prestige: i.e. is there really no difference between the “author” of a piece (however defined) and other participants? If (as seems likely) some types of recognition will be more valuable than others, how do we stop (or do we want to prevent) the current binary system between “author” (who gets the rewards) and “everybody else” (who get acknowledgements) from replicating?
+●	What about fields that have a hierarchy of publication based on specific criteria (e.g. word count in the Humanities; journal prestige (however defined) in many disciplines; reviews vs. original work?
+
+E3 - The commons welcomes and encourages participants of all backgrounds
+“Definitions belong to the definers, not the defined.” - Toni Morrison
+Principle
+The Commons welcomes and encourages participants of all genders, social, regional, ethnic, linguistic, and disciplinary backgrounds. It also recognises that disagreement is an inherent part of research communication, including disagreement as to fundamental principles and theories.
+Discussion
+The Commons is an ecosystem that is defined by the interactions of each and every commoner that participates in jointly building the commons. Just like every other ecosystem, the commons can not be a monoculture, instead it needs diversity in order to survive and thrive. This means that the Commons needs to be welcoming to participants regardless of gender, social, regional, ethnic, linguistic, or disciplinary background.
+While many scholarly disciplines differ in their culture of how to generate, treat and store their scholarly objects, the Commons must be open to all of them. In the same vein they can not be biased towards a fixed set of cultural expectations. Traditionally language has been one of these roadblocks. With English as the dominating language this also leads to an expectation of Latin-derived, left-to-right direction-biased systems, making participation hard for commoners outside this frame of reference.
+In a similar way, The Commons can not only rely on the expertise of traditional scholars. Instead it needs to be open and accessible to commoners that don't fit the academic stereotypes, or indeed never were in academia. Creating scholarly objects and performing scholarly activities is not limited to the traditional academic scholarly community. This means that the commons must be open to non-traditional research questions and answers, including those proposed by non-professionals.
+As the Commons are not a piece of infrastructure this dedication to diversity and inclusion does not only need to be reflected in the technical systems supporting it, but also (and much more importantly) in the actions of each commoner.
+Operationalization
+The operationalisation of this principle involves vigilance with regard to hidden and structural biases and impediments and humility and open-mindedness with regard to the life-experiences of others. Because the Commons is an agreement rather than an organisation, the onus for ensuring equality and diversity of access is on the Commoners themselves.
+●	Vigilance must be shown to ensure that tools, platforms, and techniques do not unnecessarily exclude the participation of Commoners from specific regions, genders, ethnic, cultural, or linguistic groups, disciplinary backgrounds or structural category. In particular, this means that participation should be monitored by those working within the Commons to look for unforeseen structural problems preventing access or participation by specific groups. In some cases, restrictions will be appropriate (e.g. restricting approaches to a specific discipline or approach); at all times, however, such restrictions should be critically considered to ensure that they represent truly necessary. Because there is no central organisation or officers who can do this monitoring or analysis, the onus falls on Commoners to be aware of these issues in their day-to-day participation.
+●	Functionality should be built into (organisational and technical) systems wherever possible to ensure as broad as possible linguistic and regional participation: e.g. software, standards, and meetings should support localisation and internationalisation; care needs to be ensured, for example, that systems degrade elegantly with minimal loss of information, and that the minimum possible computing power and bandwidth is required (better to ensure participation from researchers in mid- and low-income economies)
+●	When Commoners organise, they should consider statements on inclusivity and language policy, because these encourage critical reflection on structural impediments
+●	Exclusion of participation based primarily on formal degrees and academic rank is discouraged. When such criteria are used, alternative routes to participation should be provided.
+Discussion points
+How do we balance the need for inclusivity with the need to discriminate (i.e. on the basis of accuracy, “correctness,” “soundness,” disciplinary or theoretical congruence, etc.). For example, popular understanding of linguistics often clashes with professional linguistic theory. How do we accommodate research questions that seem naive to the professional linguist?
+Likewise, degrees and professional affiliations are often used as a proxy for evaluating professional training (a Ph.D. in a subject suggests an acquaintance with certain recognised bibliography and techniques). Is such discrimination always bad?
+How should software be engineered so that it can be used in situations with minimal computing power and bandwidth?
+How can access be provided beyond the digital realm if our goal is to share digital research objects?
+How is translation across languages supported?
+What about the obligation to “minimal computing”? Given the differences in access around the world, does the Commons require participants from high-income, high-computing environments to consider access considerations when designing their own work?
+How do we deal with trolls and cranks?
+
+E4 - All contributions are attributed
+Principle
+The scholarly Commons is constructed so that all activities that contribute to human understanding and scholarship are attributed unambiguously. This is both to recognise contribution and establish provenance and responsibility. While this recognition can be used by other systems as the basis for the assignment of rewards (e.g. pay, promotion, positions, and honours), the commons itself does not impose an intrinsic hierarchy on participation: attribution is the primary goal within the commons; what work is valuable and to whom is left up to the various other communities and systems to decide.
+Discussion
+Attribution is the hallmark of scholarship: statements and works are attributed so that credit can be assigned and provenance and responsibility can be determined. Explicit attribution to a stable identity is also an important safeguard against malicious or irrelevant works within the Commons, e.g., spam.
+Currently, in many disciplines, only writing is rewarded and only for those individuals fortunate enough to be officially deemed authors. Much of the collaborative work that leads to great scholarship is obscured and ignored in this system. Even in disciplines where collaborative work is credited, the value systems that overlay this credit (e.g. first- and last- vs. middle authorship, byline vs. acknowledgement) create hierarchies that devalue some forms of participation.
+A similar problem pertains to adjudication and editorial work, which is also in many disciplines largely anonymous. This both prevents participants from claiming recognition for their adjudication work and prevents responsibility from being assigned.
+Participants in the scholarly commons willingly recognize and nurture the full sweep of activities that comprise the scholarly enterprise. This maximally inclusive commons requires new approaches to providing attribution. Basic principles must be that all contribution to research and its dissemination and adjudication is attributed (i.e. recognised explicitly), that such attribution is focussed on description rather than valorisation, and that attribution systems be unambiguous and machine-readable.
+This approach requires attribution taxonomies and a reconsideration of traditional loci and forms of attribution : e.g. “authorship” vs. microcredit, open vs. blind peer review. While open attribution and responsibility is a core value of the commons, attribution may be made to a stable, pseudonymous identity when required for ethical reasons or to ensure personal safety.
+Operationalization
+All activities and objects (and ideally also sections/elements/words within those objects) are attributed to persons or combinations of persons. In (extreme) cases of potential threat/harm to persons pseudo-anonymity using aliases should be possible. Everyone involved in creating a research object (whether a full length monograph or a one line comment) should be attributed. Attribution is by name and ID where IDs should be part of a system that is interoperable with other ID systems, allowing mappings. Attribution typologies should be available and used to describe contributions. Care should be exercised in avoiding loaded terms for some forms of participation (e.g. “participated in writing” rather than “author”).
+There is also an obligation on researchers within the Commons to make themselves identifiable when this does not conflict with the demands of personal security or other ethical considerations. Researchers should establish unambiguous identifiers for themselves so that any work that would be expected to be attributed to that individual can easily be done so.  However, as is common in some fields, an individual may choose to perform work under multiple personas, some of which may be pseudonymous.
+Discussion points
+●	This principle generated a lot of discussion and disagreement.  The crux is whether true anonymity is allowed.  All agreed that pseudonymity was allowed and absolutely required in cases where identifying an individual would harm that individual or the objects of their study. We encourage everyone to think carefully about this.
+●	Is pseudonymity enough to protect vulnerable individuals or is complete anonymity required?
+●	Are single blind activities allowed, e.g., peer review?
+●	Must the attribution be an individual or can it be some other type of entity, e.g., an organization?
+●	Is it fair to say that the representation of individual humans in the commons should adhere to the FAIR standard:  Findable, Accessible, Interoperable and Re-usable?
+●	Are role taxonomies a feature of the Commons?
+●	How do we deal with threats and harassment?
+●	What about human subjects? Are they commoners? Are they credited?
+●	In developing this principle, we have had a number of tough cases and questions that we haven’t known what to do with:
+a.	How strong is the obligation for commoners to create an unambiguous profile? Is this not embedding a specific technology or process (e.g. ORCID)? Or an oligarchy of specific methods? Can Commoners create their own unambiguous identifier? How?
+
+E5 - The commons accepts all contributed objects that adhere to its guidelines on an equal basis regardless of form
+Principle
+All research objects that conform to the parameters of the Commons can be housed in or referenced by the Commons on an equal basis. There are no intrinsically preferred forms, genres, or approaches.
+Discussion
+In order to improve the breadth and pace of knowledge generation, the Commons will accept any contributed object that adheres to its guidelines. Because the Commons is grounded by a logic of abundance and a goal of reuse, it does not serve as a gatekeeper or pretend to know the ultimate knowledge-value of any of its objects.
+This means that there is no test of value, impact, significance, relevance, or endorsement that can be used to determine what belongs within the Commons. Blog postings are as eligible as scholarly monographs. Highly cited papers are as welcome as pre-prints. Ground-breaking studies are as welcome as replication studies.
+Once an object is in the Commons, it is available for additional services. For example, Commons services could be implemented to help commoners search for objects. Early versions of objects can be peer-reviewed. Objects can earn citations.  Objects may be further curated or aggregated into collections by other commoners based on their expertise.
+Some services will not be provided inside the Commons. For example, others in the academy may want to add metrics or rankings to objects in the Commons. The Commons has no objection to these services, however all forms of metrics should be built on transparent and open standards so that they may be reproduced and understood.  Rankings will be made external to the Commons and will not be housed inside the Commons.
+
+Mappings
+
+1.	Rethink the unit and form of the scholarly publication.  Recommendation 3.1, The FORCE11 Manifesto
+2.	Add data, software, and workflows into the publication as first-class research objects. Recommendation 3.2, The FORCE11 Manifesto
+Operationalization
+The hardest part of this to operationalise is the agnosticism towards value. In a print-based publishing system scarcity was a reality -- library shelves, paper and ink all cost money. These costs have all vanished with digital dissemination, and yet the scarcity mindset still influences “publish or perish” thinking.
+Operationalization also means, however, that the objects themselves and are treated as scholarly objects, that is, they are FAIR (see Principle O4) and should be citable.
+1.	Joint Declaration of Data Citation Principles (Data citation is a computational problem)
+2.	Software Citation Principles
+Discussion points
+●	Does the Commons require a level of transparency as defined by the Vienna Principles (#5)
+●	How realistic is this separation between internal and external services? Are there principled distinctions between them? Is peer review and adjudication an internal service? Is metrics an external service? At what point does the addition of a service take actions outside the commons?
+●	Platforms/tools carrying these metrics can still be part of the commons with other sections of their service. Example: the Altmetric score is not a part of the commons, but links Altmetric offers between research objects can be very useful in the commons.
+●	When does the value-add leave the Commons? For example: a pharmaceutical company wants to hire experts to peer review a body of research on a new potential drug. Is that peer review part of the commons or is it an instance of the sort of activities that take place outside and remain outside the commons?
+
+E6 - The commons has no intrinsic hierarchies, rankings, or reward systems
+John Wilbanks: “Going back to the beginning of science: it used to belong to all of us.”
+Smaldino and McElreath (2016):  “when a measure becomes a target, it ceases to be a good measure”
+ Principle
+The commons’ emphasis on equity, openness, sustainability, and research- and culture driven structures means that it cannot have any intrinsic hierarchies or rankings. All participants and all research objects that conform to the principles of the commons are equally appropriate and available for dissemination and reuse. Attribution systems and formats are driven by the demands of transparency and the intrinsic nature of research, rather than the requirements of any reward system.
+Discussion
+Hypercompetition and the demands of hierarchical rating systems are having a demonstrably perverse effect on research and research communication. They encourage short-term gaming, result and effect inflation, and, in the most serious cases, fraud. They discourage crucial aspects of “Normal” science, including replication and the reporting of negative results.
+The fundamental properties of the Commons are incompatible with the development of internal  hierarchies, rewards, or reward systems. As the Commons is built to produce the best scholarship and research and make knowledge accessible so that it can be used, the motivation for commoners is to contribute towards these goals and not prestige. Attribution and credit taxonomies allows for credit for specific activities so that a Commoner’s participation in the commons is explicit.   All contributors are acknowledged on an equal basis (meaning there is no intrinsic difference between authorial and other acknowledgements); all forms of dissemination are accepted on an equal basis (meaning there is no hierarchy among genres or formats). Commoners are expected to match the form of dissemination to the needs of the research output rather than the demands of a reward system. None of this is compatible with systems that create hierarchies among types or forms of contribution or encourage dissemination in one format over another.
+This does not preclude others from developing ranking or rewards systems as a means of encouraging (or discouraging) specific types of work. Promotion or tenure might still require a demonstration of certain types or amounts of work. Projects might wish for budgetary or other reasons to focus on some kinds of research and not others. Participation in the Commons, however, requires Commoners to consider such use of hierarchies extremely cautiously, and recognise the potential for harm such systems have historically posed.
+Operationalization
+The Commons inherently supports metrics of citation by ensuring that all content is FAIR, as it is a hallmark of scholarship and research that the provenance of work be known and cited when it is reused or referenced.  Scholars and scientists will require these metrics to create filters for their content. Works created, modified or cited within the Commons should have machine-readable means to determine contributors to a work. Such contributions may be augmented by role typologies. The Commons itself merely provides the means to indicate and compute roles;  it makes no statement about how these roles are valued or rewarded.  The fundamental premises of the commons is incompatible with “scooping”, because the commons does not require these ideas to be new or unique as a condition of entry, even though the commons tracks when and where ideas and objects enter the commons.
+Although the Commons will enable multiple and richer metrics about influence of individuals and works to be easily obtained through FAIR open standards,  this principle exhorts commoners to be vigilant about the development of non-transparent and/or simple proxies for quality that introduce reward systems that interfere with the production of good scholarship and research, e.g., journal impact factor. Commoners need to also remain vigilant about inadvertently or subconsciously introducing hierarchies into their understanding of credit systems, e.g., inferring importance of contribution from author order.
+Mappings
+1.	“We reaffirm the principle that only the intrinsic merit of the work, and not the title of the journal in which a candidate’s work is published, will be considered in appointments, promotions, merit awards or grants.”-Bethesda Statement on Open Access Publishing, 2003.
+2.	“Do not use journal-based metrics, such as Journal Impact Factors, as a surrogate measure of the quality of individual research articles, to assess an individual scientist’s contributions, or in hiring, promotion, or funding decisions.”-DORA
+3.	Challenge research assessment practices that rely inappropriately on Journal Impact Factors and promote and teach best practice that focuses on the value and influence of specific research outputs. DORA
+4.	“No one can read everything.  We rely on filters to make sense of the scholarly literature, but the narrow, traditional filters are being swamped. However, the growth of new, online scholarly tools allows us to make new filters; these altmetrics reflect the broad, rapid impact of scholarship in this burgeoning ecosystem. We call for more tools and research based on altmetrics.”-Altmetric Manifesto
+Discussion points
+Is this distinction between internal and external hierarchies viable? Do external hierarchies not create problems within the Commons? Do we need to eschew hierarchies entirely for the commons to succeed?
+How do people make their skills known to the Commons in a way that doesn’t exclusively rely on academic pedigree?
+This principle can be read as a subset of the preceding one, though it is also possible to read the previous one as being about genre and this one about metrics. It was strongly endorsed by some participants as a necessary, self-standing principle. Should it stay like this?
+No metrics vs new metrics:  The FORCE11 Manifesto explicitly calls for new metrics to be developed rather than no metrics:  “Derive new methods and metrics for evaluating quality and impact that extend beyond traditional print outputs to embrace the new technologies”-Recommendation 3.6, FORCE11 Manifesto.  Discuss!
+O1 - The Commons is open by default
+
+“...[I]f we could solve the problem of open access within the university—that is to say, prove that the economic equation of doing research, reviewing it, and making it freely available for everyone works, then we could prove that the tyranny of the margin need not operate everywhere.” Christopher Kelty
+“Our mission of disseminating knowledge is only half complete if the information is not made widely and readily available to society.”-Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities, 2003
+“Computer analysis of content in all formats, that is content mining, enables access to undiscovered public knowledge and provides important insights across every aspect of our economic, social and cultural life.”-Hague Declaration on Knowledge Discovery in the Digital Age
+“When intellectual property law allows content to be read and analysed manually by humans but not by their machines, it has failed its original purposes.”-Hague Declaration on Knowledge Discovery in the Digital Age
+
+Principle
+Openness is the core value for the Commons. It is intentionally and reflexively open and entirely free to use, read, reuse, and remix by humans and machines, unless there is a compelling reason to restrict access, e.g., personal health information. Scholarly commoning starts with openness as a norm, and supports activities that explore open scholarship fully. Sharing is the main activity in the Commons.
+Discussion
+The Commons uses standards and guidelines developed by other organisations (e.g., OKFN Open Definition,  Budapest Open Access Initiative guidelines, and the Open Source Initiative definition) to inform its core definition of open content and access. Openness includes outcomes from the Commons, and so it will be reinforced through the use of licenses that support the sharing of outcomes, such as knowledge gained by mining the Commons, research undertaken using Commons resources, and software derived for Commons code. The Commons will support a variety of open licenses. In their daily practice, commoners heed the requirements of these licenses and add their own content through them. Open includes promoting machine access to resources and metadata.
+Openness includes the right to deposit as well as to access, read, analyze, cite, quote, and mine.
+Where privacy is important to protect the rights of data providers or subjects, the Commons will select a best-practice method of securing these data.
+Operationalization
+Content, standards, procedures, protocols, software and hardware descriptions are free to use and reuse by humans and machines, with health, privacy and certain safety/security issues as allowable exceptions.  This necessitates a radical rethink by stakeholders in their relationship with research assets produced by ‘their’ researchers, using ‘their’ funding, published within ‘their’ publications. The openness of the commons allows the development of external services that can be more closed, proprietary, or involve ranking and selection: e.g. aggregation and indexing services, as long as they do not devalue the commons.
+Operationalization of “open by default” implies:
+1)	The work must be in the public domain or provided under an open license (as defined in Section 2). Any additional terms accompanying the work (such as a terms of use, or patents held by the licensor) must not contradict the work’s public domain status or terms of the license.  (OKFN Open Definition)
+2)	The work must be provided as a whole and at no more than a reasonable one-time reproduction cost, and should be downloadable via the Internet without charge. Any additional information necessary for license compliance (such as names of contributors required for compliance with attribution requirements) must also accompany the work.( OKFN Open Definition)
+3)	OR:  To facilitate data integration and open access data sharing, any implementation of this protocol MUST waive all rights necessary for data extraction and re-use (including copyright, sui generis database rights, claims of unfair competition, implied contracts, and other legal rights), and MUST NOT apply any obligations on the user of the data or database such as “copyleft” or “share alike”, or even the legal requirement to provide attribution. Any implementation SHOULD define a non-legally binding set of citation norms in clear, lay-readable language.  Principle 4.1, Commons Protocol for Implementing Open Access Data
+4)	Requesting behavior, such as citation, through norms rather than as a legal requirement based on copyright or contracts, allows for different scientific disciplines to develop different norms for citation. This allows for legal certainty without constraining one community to the norms of another.-Principle 4.1, Commons Protocol for Implementing Open Access DataThe work must be provided in an open format and provide an open API. An open format is one which places no restrictions, monetary or otherwise, upon its use and can be fully processed with at least one free/libre/open-source software tool. (OKFN Open Definition)
+5)	Open access should not compromise the confidentiality of research subjects, and will comply with principles of data security defined by HIPAA, FERPA, and other privacy guidelines.-Denton Principle #13
+6)	Community standards, rather than copyright law, will provide the mechanism for enforcement of proper attribution and responsible use of the published work, as they do now.-Bethesda Statement on Open Access Publishing, 2003
+7)	Legal tools for an open access data sharing protocol must be developed with three key principles in mind: 3.1 The protocol must promote legal predictability and certainty;  3.2 The protocol must be easy to use and understand;  3.3 The protocol must impose the lowest possible transaction costs on users. - Principle 3 of Science Commons Protocol for Implementing Open Access Data
+8)	Attribution stacking:  ...there is a problem of cascading attribution if attribution is required as part of a license approach. In a world of database integration and federation, attribution can easily cascade into a burden for scientists if a category error is made. Would a scientist need to attribute 40,000 data depositors in the event of a query across 40,000 data sets? How does this relate to the evolved norms of citation within a discipline, and does the attribution requirement indeed conflict with accepted norms in some disciplines? Indeed, failing to give attribution to all 40,000 sources could be the basis for a copyright infringement suit at worst, and at best, imposes a significant transaction cost on the scientist using the data.  Therefore, a legal obligation to give attribution violates the principle of low transaction costs.-Principle 5.3 of Science Commons Protocol for Implementing Open Access Data
+
+Mappings
+1.	 “Open access contributions must satisfy two conditions:The author(s) and right holder(s) of such contributions grant(s) to all users a free, irrevocable, worldwide, right of access to, and a license to copy, use, distribute, transmit and display the work publicly and to make and distribute derivative works, in any digital medium for any responsible purpose, subject to proper attribution of authorship (community standards, will continue to provide the mechanism for enforcement of proper attribution and responsible use of the published work, as they do now), as well as the right to make small numbers of printed copies for their personal use.”-Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities, 2003.
+2.	Definition of Open Access:  “A complete version of the work and all supplemental materials, including a copy of the permission as stated above, in an appropriate standard electronic format is deposited (and thus published) in at least one online repository using suitable technical standards (such as the Open Archive definitions) that is supported and maintained by an academic institution, scholarly society, government agency, or other well-established organization that seeks to enable open access, unrestricted distribution, inter operability, and long-term archiving.”-Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities, 2003.
+3.	“The author(s) and copyright holder(s) grant(s) to all users a free, irrevocable, worldwide, perpetual right of access to, and a license to copy, use, distribute, transmit and display the work publicly and to make and distribute derivative works, in any digital medium for any responsible purpose, subject to proper attribution of authorship[2], as well as the right to make small numbers of printed copies for their personal use.-Bethesda Statement on Open Access Publishing, 2003
+4.	Open access is a property of individual works, not necessarily journals or publishers.-Bethesda Statement on Open Access Publishing, 2003.
+5.	Community standards, rather than copyright law, will continue to provide the mechanism for enforcement of proper attribution and responsible use of the published work, as they do now.-Bethesda Statement on Open Access Publishing, 2003
+6.	The principles of open access should not be in conflict with the intellectual property rights of researchers, and a culture of citation and acknowledgement should be cultivated rigorously and conscientiously among all practitioners. Denton Principle #12:
+7.	See the Hague Declaration on Knowledge Discovery in the Digital Age, for operationalization around content mining
+8.	There are sound reasons why the openness of research data may need to be restricted but any restrictions must be justified and justifiable. Principle 5, Concordat on Open Research Data, V 10, Research Council UK
+9.	A fundamentally new approach towards optimal reuse of research data. Data sharing and stewardship is the default approach for all publicly funded research. This requires definitions, standards and infrastructures. Amsterdam Call to Action on Open Science, Action Item #2
+Discussion Points
+●	Does this and other other principles concerning openness presuppose specific types of licences? E.g. CC-0? CC-BY? Is CC-BY-NC or CC-BY-ND a non-commons license
+○	Must core infrastructure for the commons, e.g., identifier systems, always be the equivalent of CC0?
+●	Do the conditions laid out by the Open Definition for acceptable licenses still hold?  See also the Panton Principles.  See also the OKFN defnition vs Science Commons. Should attribution be via norms or license?
+●	Does principle #2  from the Hague Declaration apply to the Commons:  “2. PEOPLE SHOULD HAVE THE FREEDOM TO ANALYSE AND PURSUE INTELLECTUAL CURIOSITY WITHOUT FEAR OF MONITORING OR REPERCUSSIONS:  Providers of content should respect the intellectual privacy of individual readers and should take measures to protect readers’ privacy from interference by any external body. Any exception, which for example would result in an encroachment of individual privacy, will need to be necessary and proportionate and provided for by law. The use of facts, data and ideas must not prejudice the legitimate rights of individuals to privacy and a private life.”
+O2 - Scholarly objects and content in the commons is  FAIR:  Findable, accessible, interoperable and reusable by humans and machines.
+Principle
+Because the Commons is explicitly launching in the age of machine- and human-based networks, all scholarly objects and content is to conform to FAIR principles (Wilkinson et al., 2016).  While the original FAIR principles explicitly referenced data, in the Commons, the idea of FAIR is extended to all types of digital outputs, including conversations, annotations, comments.  FAIR lays out a set of criteria for ensuring that objects in the commons are findable, accessible, interoperable and re-usable by both machines and humans.  FAIR provides for the identifiability and stability of digital objects over time,  a critical requirement for a system of scholarship.
+Discussion
+The following represent a modification of the FAIR principles wherein “data” has been replaced by “object”.
+To be Findable:
+F1. All objects in the commons are assigned a globally unique and eternally persistent identifier.
+F2. Objects are described with rich metadata.
+F3. Objects are registered in a searchable resource.
+F4.  Objects  specify the identifier.
+
+To be Accessible:
+A1  Objects are retrievable by their identifier using a standardized communications protocol.
+A1.1 the protocol is open, free, and universally implementable.
+A1.2 the protocol allows for an authentication and authorization procedure, where necessary.
+A2 metadata are accessible, even when the object they reference is no longer available.
+
+To be Interoperable:
+I1. Objects use a formal, accessible, shared, and broadly applicable language for knowledge representation where available and applicable.
+I2. Objects use vocabularies that follow FAIR principles.
+I3. Objects include qualified references to other objects.
+
+To be Re-usable:
+R1. Objects have a plurality of accurate and relevant attributes.
+R1.1. Objects are released with a license consistent with the values of the Commons.
+R1.2. Objects are associated with their provenance.
+R1.3. Objects meet domain-relevant community standards.
+
+However, the Commons needs to extend the notion of accessible in several important ways.  “Accessible” also means that the content needs to be accessible by non-scholars if it is to achieve its objective.  A new type of Commoner is envisioned whose job it is to translate the intellectual output of the scholarly community so that it is understandable by a lay audience, either as a matter of course or on demand.  One can envision that these communication specialists would be employed by Universities and other places where scholarship is created.
+Accessible also needs to be understood in terms of disparities in networking and infrastructure.  Networks are not all equal and even scholars at the best-endowed University in the world may find themselves in a remote area where connectivity and compute cycles are minimal.  The idea of “graceful degradation” of software supporting the Commons that can be used under multiple contexts and devices should be considered.  Also, anyone getting to an endpoint of the Commons, at this point in time, a terminal or a mobile device, should have the capacity to print a copy of a work for greater distribution.
+Accessible also means for those with disabilities:  Marrakesh Treaty to Facilitate Access to Published Works for Persons Who Are Blind, Visually Impaired or Otherwise Print Disabled
+Reference:  Wilkinson, M. et al. The FAIR guiding principles for scientific data management and stewardship.  Nature Scientific Data, http://www.nature.com/articles/sdata201618
+Operationalization
+All digital content in the commons adheres to the FAIR principles: findable, accessible, interoperable and reusable.  But, in the spirit of FORCE11, we extend the idea of FAIR not only to the scholarly objects themselves, e.g., narrative, software and data, but to the explicit actions that people perform that are acts of scholarship or that reference these objects -discussion, review, commenting, annotation- and the entities that are referenced within these works:  people, research resources, concepts, organizations.  The assigning of a unique identifier for many of these entities is one way to ensure that they can be tracked and aggregated. Mappings
+●	“A complete version of the work and all supplemental materials, including a copy of the permission as stated above, in an appropriate standard electronic format is deposited (and thus published) in at least one online repository using suitable technical standards (such as the Open Archive definitions) that is supported and maintained by an academic institution, scholarly society, government agency, or other well-established organization that seeks to enable open access, unrestricted distribution, inter operability, and long-term archiving.”-Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities, 2003.
+●	We see a future in which scientific information and scholarly communication more generally become part of a global, universal and explicit network of knowledge; where every claim, hypothesis, argument—every significant element of the discourse—can be explicitly represented, along with supporting data, software, workflows, multimedia, external commentary, and information about provenance. In this world of networked knowledge objects, it would be clear how the entities and discourse components are related to each other, including relationships to previous scholarship; learning about a new topic means absorbing networks of information, not individually reading thousands of documents. Adding new elements of scholarly knowledge is achieved by adding nodes and relationships to this network. People could contribute to the network from a variety of perspectives; each contribution would be immediately accessible globally by others. Reviewing procedures, as well as reputation management mechanisms, would provide ways to evaluate and filter information.”-FORCE11 Manifesto
+●	“The production of knowledge serves mankind and increases prosperity. Free and open dissemination of knowledge within the scientific community and beyond facilitates exchange, collaboration and the application of research results. There should be no technical, financial or legal obstacles delaying or preventing the accessibility of research findings. All research results should be accessible to people that are diverse in physical, economic and other conditions. Access should be ensured in the long-term.”-Principle #1, Accessibility, Vienna Principles
+●	“Scholarly communication should facilitate search, exploration and discovery. There have never been as many scholars as today, and never have they been as prolific as today due to new modes of communication and technology that is cheaper and more widely available. Researchers spend considerable time not only with communicating their own research, but also with staying up-to-date with the work of their colleagues. A system of scholarly communication should therefore organise scientific knowledge in such a way that it enables researchers and their stakeholders to efficiently and effectively identify research that is relevant to them. In addition, researchers should be able to find feedback on their own work and activities connected to it as easily as possible.-Principle #2, Discoverability, Vienna Principles
+●	“Scholarly communication should enable everyone to effectively build on top of each other’s work. Following Newton’s phrase “Standing on the shoulders of giants”, modern scholarship is based on cooperation. Ideas are not created in a vacuum. Reuse of research processes, methods and results as well as abstraction and extension should therefore represent basic values of scholarly communication. The possibility to reuse data, materials and results enables researchers and communities to learn from each other and to speed up the production of new knowledge. Consequently, while appropriate attribution of authorship must be ensured, a maximum of reuse and processing should be permissible.”-Principle #3, Re-usability, Vienna Principles
+●	Scholarly communication should provide research in a clear, concise and understandable way adjusted to different stakeholders. A fruitful dialogue among researchers and between researchers and their stakeholders is mutually beneficial for both research and society. Keeping communication as clear and concise as possible facilitates knowledge transfer and exchange within research and beyond. What is considered clear and concise, however, is very dependent on the recipient and the situation. Communication amongst researchers usually involves a high degree of abstraction and special language, whereas communication with interested citizens requires more broadly understandable language. Scholarly communication should therefore be adapted for different stakeholder groups inside and outside of academia, by taking into account specific requirements in order to make it more meaningful and allowing for further involvement and participation. Understandability Principle #6, Vienna Principles
+●	[The goal of Annotating All Knowledge Coalition]  is to develop and implement a strategy for bringing an open, interoperable web-based annotation capability to all scholarly works within 3 years-FORCE11 Annotating All Knowledge Working Group
+
+Discussion points
+Does this really apply to all objects in the commons? If so, are para-scholarly objects such as peer-reviews Commons objects? I.e. must peer reviews also be FAIR? See above E4-6.
+When and how are unique identifiers assigned?  Does everything need an ID?
+What are the obligations of those who manage these ID’s?
+How does the human requirement for accessibility (accessible to the public, accessible across the globe, accessible to those with disabilities) get “expressed in software”?
+The Vienna principles list “reproducibility” (Principle #4) as one of the requirements.  Does the Commons have anything to say about that?
+
+O3 - A publisher in the Commons is any entity that will ensure that outputs are open and FAIR.
+ Principle
+Any person, organization or other entity can make scholarly work public. As long as the criteria for FAIR output are met, this is considered publishing a work. There will be no action in the Commons that is restricted to publishing companies or entities that currently act as such (e.g. scholarly societies), nor are they excluded.  In order to participate in the Commons, publishers must ensure that work adheres to ethical guidelines for treatment of human and animal subjects and reject work that does not.
+Discussion
+Any person, organization or other entity (including publishing companies or entities that currently act as such, e.g. scholarly societies) will be welcomed in the Commons for providing services that help the publication, preservation, dissemination and assessment of scholarly work, as long as these services and the outputs they produce comply with the principles of the Commons. Commoners will, as a best practice, use publishers that are in the Commons.  Publishers may charge for their services;  they may not charge for access to the full content.
+-	Good examples: preprint servers, overlay journals, open peer review platforms, The Winnower, Matters
+-	Bad examples: journals not accepting articles made available as preprints, publishers restricting deposition of publication in a repository
+-	How to assess:
+-	variety of publication forms, publication platforms
+-	variety in types and forms of publication that are accepted by funding agencies and tenure and promotion committees
+-	no restrictions made by publishers (of any kind) as to the use and re-use of published work
+-	persistent versioning of scholarly works across publication platforms
+Operationalization
+All publication platforms that adhere to the FAIR principles will be be recognized as such. There will be no restrictions made by publishers (of any kind) as to the use and re-use of published work. There is persistent versioning of scholarly works across publication platforms. Platforms and services will point to publishers that are in the Commons
+Operational principles for those provide infrastructure for the Commons are laid out in  :  “Bilder G, Lin J, Neylon C (2015) Principles for Open Scholarly Infrastructure-v1,retrieved [date], http://dx.doi.org/10.6084/m9.figshare.1314859”
+●	Governance
+●	Sustainability
+●	Insurance
+
+Mappings
+“A complete version of the work and all supplemental materials, including a copy of the permission as stated above, in a suitable standard electronic format is deposited immediately upon initial publication in at least one online repository that is supported by an academic institution, scholarly society, government agency, or other well-established organization that seeks to enable open access, unrestricted distribution, interoperability, and long-term archiving (for the biomedical sciences, PubMed Central is such a repository).”-Bethesda Statement on Open Access Publishing, 2003.
+III. Versioning and dissemination: Scholars respond to reviews and public commentary and archive new versions of their work. A free public access revised article linked to the independent peer review of its previous version, constitutes an Open Publication which is indexed and citable. Academic journals can solicit open publications from the authors and use all available technological means to efficiently package and distribute them to relevant audiences as a value-added service.-Independent Peer Review Manifesto
+Discussion Points
+How will researchers/scholars be able to judge whether a publisher is competent to make things FAIR?
+What specific things does a publisher have to offer?
+Are the Data Seal of Approval Guidelines relevant?
+Are there any inter-publisher agreements that need to be put in place to ensure stability and long term preservation?
+Is there anything in the principles that precludes professional services or commercial publishers from making objects FAIR?
+Do the operational principles for those provide infrastructure for the Commons laid out in “Bilder G, Lin J, Neylon C (2015) Principles for Open Scholarly Infrastructure-v1,retrieved [date], http://dx.doi.org/10.6084/m9.figshare.1314859” work to keep out those who might seek to masquerade as legitimate providers of services?
+“The right to read is the right to mine”:  Do all publishers need to ensure that their content is mineable?
+O4 - All outputs are considered published when they are made available according to the principles and standards of the Commons.
+“Don’t publish, release”- Carole Goble
+Principle
+The Commons explicitly rejects the current model of publishing scholarly works which emphasizes the release of works only when they have undergone the peer review process.  In the Commons, a work is considered published when it is made FAIR and open via a publisher;  such works may not be “finished” in the current sense, but may, in fact, be a version of a work that gets subsequently refined, similar to the way that open source software is released and then refined.  We can also envision the Commons as being made up of multiple interlocking spaces:  a place where studies or works are being actively conceived and performed, a place where works are being prepared for dissemination and a place where finished work is represented.  Objects move across these spaces in different stages of the scholarly publication workflow.
+Discussion
+Note that nothing in the Commons prevents peer review from being performed on any work for which it is required.  Also, as per S4, researchers and scholars are expected to perform service within the Commons, some of which should be to help colleagues make their ideas and works better.  This work is expected to be done openly unless there is a compelling reason not to do so (see E4).  However, we envision that additional layers of curation, peer review and editing will be performed on works as needed for purpose.  Note that these comments, discussions, annotations are themselves scholarly objects.
+ Operationalization
+All research outputs that adhere to the FAIR principles and open access requirements will be considered published. Publishing a work does not imply that it is “finished”, rather, publishing marks the release of the work into the Commons.  But just as with software, works may be in different stages and a system of versioning should indicate at what stage the work is considered to be by the authors.  There is persistent and consistent versioning of scholarly works across publication platforms.  Publishing platforms will be open and interoperable with other services to enable peer review, sharing, re-use and enrichment of published works.
+Peer review is not a necessary condition of entry into the Commons, but the contribution of constructive criticism and feedback to works is one type of service within the Commons.  This level of peer review is open and transparent and is a scholarly object in its own right:
+I. Independent peer review: With the consent of authors, research output is independently reviewed by an unlimited number of voluntary peers whose reviews should be signed, made immediate public access, and conform to a standard digital format so that metadata can be indexed and harvested as for published articles. Reviews are licensed and assigned a persistent digital object identifier so that reviewers receive proper academic credit for their work. It is important that no limit is imposed on the number of independent assessments so that collective wisdom can be used as a resource to filter out biased views. Openness and transparency in the review process will allow the community to control possible conflicts of interest.-Independent Peer Review Manifesto.
+Additional peer review may be commissioned by any entity that wants independent evaluation of work for a particular purpose, but that is not a concern of the Commons.
+Discussion Points
+●	Are there any implications for ‘trust’ here?
+●	Do APCs fit the principles?
+●	How does persistent versioning work in practice?  Who decides when something is a new version?  How do people interact with these objects to provide feedback?
+●	How would a narrative work flow between the writing stage, e.g., in Authorea or some online tool, to a pre-print server to a Commons Journal?  Are all links bidirectional?
+●	Could we treat review simply as another kind of genre, subject to the commons in its own right, rather than a special kind of object with differential relationship to other objects in the commons?
+S1 - There is global commitment and participation in the Commons’ long-term viability and preservation.
+“Building a small ecosystem of capped returns is all well and good, but it won’t make much of a difference in the grand scheme of things. This idea has the most potential for impact if it becomes the new norm and displaces indefinite returns significantly – maybe entirely.” P2P Wiki
+“Effective institutions at all levels require continuous engagement, because they all unravel over time.” Yochai Benkler 2015
+“A country, after all, is not something you build as the pharaohs built the pyramids, and then leave standing there to defy eternity. A country is something that is built every day out of certain basic shared values.” Pierre Trudeau.
+“Communal values must be taught, and renewed, continuously.” Peter Linebaugh
+Principle
+A global community is needed to actively grow and sustain the Commons in the long-term. The Commons will not flourish without the participation of Commoners (see also E1).
+Discussion
+Such an economy enables partnerships between those who conduct scholarly work as well as those who fund it - both academical and commercial. And the Commons benefits through added value provided by the growing utility of its collections and services. As the intrinsic value of this system of scholarly communication grows, these partnerships will evolve to include new avenues for funding scholarship.
+In order to build intrinsic value, the scholarly community is expected as of their regular practice to participate in improvements on scholarly communication content and services to help maintain the commons. This work can be recognised (by internal as well as external entities).
+Operationalization
+●	Knowledge workers (researchers, citizen scientists) need to be enabled to conduct sustaining activities. Incentive and control structures (e.g. reward systems and time allowances) should not be constructed so as to demotivate Commons-sustaining activities (see also RC 2).
+●	Institutions and funders can introduce substantial elements in their policies that align with the commons principles, and/or provide services that can be considered part of the commons
+○	Employers of Researchers will seek to provide appropriate access to infrastructure systems and services to enable their researchers to make research data open and usable.
+○	Funders of Research will support open research data through the provision of appropriate resources as an acknowledged research cost. (Concordat on Open Research Data, V 10, Research Council UK Principle 1.
+●	New practices - in terms of what constitutes a ‘complete’ scholarly project - need to evolve and be integrated into the research cycle.
+●	Money that currently goes towards making content unFAIR must go towards making it FAIR
+Discussion Points
+●	Is the maximal goal to arrive at a state where an internal economy can sustain scholarly communication resources into a shared future for all researchers?
+●	How will internal funds for research will also be generated?
+●	Engagement across the entire research community is not just one activity of the system of scholarly communication. It is its core activity. Is this correct?
+●	How does the Commons relate to external reward systems? These might include reputational gain, funding, improved scholarly opportunities. Or  should the Commons focus on preventing reward systems that disincentivise Commons-Supporting behaviour (cf. Alfie Kohn, Published by rewards)?
+●	How are contributions and their levels assessed/enforced?
+●	Who are these knowledge workers and what is their career path?
+S2 - All activities and outputs that take place in in the Commons remain in the Commons.
+“An economics of abundance seek out these kinds of strategies of providing for our needs; it is not an economics that assumes that abundance exists, but one that analyzes modes of scarcity generation..., and that points out ways to counteract them.” Wolfgang Hoeschele
+“It seems like if we could re-frame the way we think about these problems, and find new abstractions, new places to stand and see the issues we might be able to break through at least some of those that seem intractable today. How might we recognise the unexpected places where it is possible to create abundance?” Cameron Neylon
+Principle
+All content and services in the Commons will be publicly shared. All resources are openly available and may not be removed.
+Discussion
+Currently, academic research is surrounded and interpenetrated by an economic logic that manufactures scarcity as a means to grow arbitrary value and improve profit margins. Scholarly communication needs to grow its own digital economy. And for this, it needs to capture the value that researchers invest into it. One part of this exchange value will come from the expansion of internet-enabled services, another from the increase of its digital resources, and a third from the contributions of scholarly talent and funding sources from other markets.
+All organizations that adhere to these principles will be embraced as part of the Commons. Their activities contribute to the economy of the Commons.
+Operationalization
+●	All active commoners - individuals and institutions - need to understand and adapt their behaviours towards the transformed economic state of the scholarly commons.
+●	The relation between academic and commercial organisations and interests needs to be calibrated to effect the greatest possible benefits to all. FAIR is one of the main building blocks of the commons.  Entities that perform these services may be paid for these services, but the goal of liberalizing access to the commons should also mean that there are a range of options for those who wish to make their research FAIR and that different cost models will be available.
+●	In practice, all commoners and actively commoning organizations (including researchers and commercial entities) will be challenged to return the results of research enabled by this system back into the system.
+●	Researchers will, as a best practice, direct their research attention to activities and outputs in the Commons.
+Discussion Points
+●	In practical terms, can the Commons be developed into the top research resource and priority, as in the place where scholarly endeavour takes place, and where outputs are preserved?
+●	Are all metrics systems external to the Commons? Can they be proprietary?
+
+
+
+
+S3 - Use of the Commons cannot devalue the Commons.
+“With ‘subtractive’ resources such as fisheries, for instance, one person’s use reduces the benefits available to another. High subtractability is usually a key characteristic of common-pool resources. Most types of knowledge have, on the other hand, traditionally been relatively nonsubtractive. In fact, the more people who share useful knowledge, the greater the common good.” Hess and Ostrom 2007
+Principle
+The logic of scholarly communication starts with the notion of abundance. One mission of the Commons is to manage a full range of science objects, without needing to reject some because of an arbitrary constraint on capacity or a responsibility to judge their value. The aim then is to maximize the usefulness and usage of these objects by supporting discoverability, mining, sharing, and reuse. The Commons is made to be used globally and without constraint. Using it this way adds value to it, and returns value to the academy.
+Discussion
+Unlike natural resources (a fishery, a forest, etc.) the digital objects in scholarly communication are non-rivalrous (apart from bandwidth competition!). Their use by one member does not devalue their use by another. Overconsumption is not a concern. The optimal state for the Commons is one that supports as much consumption of its resources as is technically possible.
+Similarly, Commons contributions are encouraged across all disciplines and locales. All reputable contributions add value. In daily practice, researchers maximize this value by making their objects more discoverable, mineable, and reusable. Researchers also work to build services that add value to collections of scholarly communication objects. These services will be designed to be used by anyone.
+Operationalization
+The consumption of digital objects and use of services has no influence on the availability of those objects or services, other than through sheer technical limitations (e.g. server capacity). When operational costs rise through increasing demand these are met by shared funds, not by introducing fees that impede participation by individual scholars and scientists.
+Discussion Points
+●	Currently, this principle doesn’t state any constraints on the usage. Are there issues of misuse or a need to build in trust/security mechanisms?
+●	The Commons is a daily practice?
+●	Does the commons have a code of conduct?
+●	Does the Commons need to be free at the point of use for individuals?
+●	Can corporations and institutions be charged for using the Commons?
+S4 - There is an expectation of service by Commoners to support research and scholarship in the Commons.
+Do-ocracy: “Responsibilities attach to people who do the work, rather than elected or selected officials.” P2P wiki.
+Principle
+Scholarly communication will establish its own form of do-ocracy. Leadership will be gathered from its edges, where new working groups will be building and expanding the collection and its services. Effective group leaders will find that their service opens up new doors for greater service (no good deed goes unpunished). A reputation for accomplishing significant work will form the basis for participation in leadership roles.
+Discussion
+In their daily practice, researchers will be given the opportunity and responsibility to use agreed-upon methods, standards, and principles when adding or reusing scholarly communication content. Researchers will be expected to advance scholarly communication in their daily professional life, in the home institutions and learned societies. Researchers are responsible for celebrating these principles of scholarly communication, including revising them whenever their own conscience demands this.
+Every researcher is expected to respect and improve the Commons towards its mission . At the same time the Commons is expected to serve the needs of each researcher in a manner that does justice to their service. Each researcher should help guide the system of scholarly communication to more fully fulfill the needs and ‘commonwealth’ of all.
+Operationalization
+All current academics are expected to serve their domains at the local, national and international level through activities such as peer review, mentoring and sharing their expertise at workshops and other venues. These activities are largely uncompensated.  The Commons therefore builds on this tradition of service, although the types of activities that constitute service are expected to be enlarged and their capacity for documentation enriched, e.g., participation in discussion forums.  People using and contributing to the commons and organizations offering services as part of the commons gain more influence on the way the scholarly commons develops as they invest more in it. However, the value proposition that a vibrant commons represents needs to be expressed explicitly on an individual, institutional, functional, disciplinary, national and global basis. The question: “What does this mean and how does it benefit me/my institution/subject/country?” has to be addressed in a compelling fashion to incentivize action, change policy and influence decision-making at all levels.
+For instance, 'it might take more time to do something in the short-term, but in the medium to long term my discipline's source material is enriched, opportunities to collaborate will have increased and the additional efficiency of the system will enable us to progress our investigations much faster'.
+
+Discussion Points
+●	Review the Open Science Reviewer’s Oath.  Does this reflect an operationalization of how scholars should engage with other scholars to help improve their work?
+●	If there is no central governance, does that imply no one needs to supervise the operation of infrastructure, as all infrastructure is owned and led by other parties or steered by various decentral Commons communities?
+S5 - The Commons itself is continuously required to respond to the requirements of Commoners.
+“Single loop organizations fix problems... Double loop organizations fix problems and fix the situations that caused the problems.” Clay Shirky, 2011
+“How do we ensure that the system is run “humbly”, that it recognises it doesn’t have a right to exist beyond the support it provides for the community and that it plans accordingly?”-Bilder, Geoffrey; Lin, Jennifer; Neylon, Cameron (2015): Principles for Open Scholarly Infrastructures-v1. Figshare. https://dx.doi.org/10.6084/m9.figshare.1314859.v1
+
+Principle
+The Commons will need to be reflexively learning to address internal and external issues. The way forward requires an effort that spans the entire practice of scholarship, from intellection to publication. Researchers face the task of redesigning the scholarly workflow, while they inject these new modes of doing research and publication into the broader academy.
+Discussion
+Scholars and scientists want to accomplish their research, see this research broadly communicated and reused, and get noticed and rewarded for their efforts. They build and use a system for scholarly communication to enable their scholarship within an environment they govern and on which they can collectively improve. The life of a scholar is rigorous and difficult, but also includes opportunities for personal and collective fulfillment. Scholarly communication will support these.  At the same time, members require scholarly communication to address a wide range of issues that negatively impact their ability to realize their scholarly goals.
+Researchers across the globe will have wide variety of local issues to bring to the Commons. The Commons is committed to help resolve issues across the planet.
+Operationalization
+Organizations running tools/platforms or deciding on standards continuously try to improve these based on changing needs of users/contributors and not stick to perhaps once-innovative but now redundant ways of working and also not try to get short term gains that diminish long term development of the Commons.
+Operational principles are laid out in :  “Bilder G, Lin J, Neylon C (2015) Principles for Open Scholarly Infrastructure-v1,retrieved [date], http://dx.doi.org/10.6084/m9.figshare.1314859”
+
+Discussion Points
+●	Who decides what’s required?
+●	In relation to E1 and RC1 - is this principle required?
+
+
+RC1 - The Commons exists independently of the technology, funding, and business models that support and enable it
+Principle
+The Commons is enabled but not controlled by technology, funding or business models. Its mode of operation accommodates, facilitates, stimulates and adapts to any developments in these areas that promote the goal of the Commons. Because the needs of commoners and the means to meet these will be emergent, and the Commons must remain nimble and able to pivot.
+Discussion
+Practices in the Commons must be open to change as new possibilities in technology, funding and business models arise that support the goals of the Commons and the needs of the community.
+●	Practices should be platform independent and not identified inextricably with a single mode of operation, whether this is a technology, business model, or funding source.
+●	Practices should be designed to allow and encourage further or alternate development.
+●	Technology, funding and business models should be designed to allow for their replacement if and when when they no longer serve the changing needs of the community (“Bilder G, Lin J, Neylon C (2015) Principles for Open Scholarly Infrastructure-v1,retrieved [date], http://dx.doi.org/10.6084/m9.figshare.1314859”) This affects 
+○	Governance (preferably community-governed, specification of the purpose it serves)
+○	Financing (time-limited funds used only for time-limited activities, having a contingency fund to support an orderly wind down)
+○	Implementation (open source, non-restrictive APIs; software that is open and forkable)
+Operationalization
+●	One aspect of operationalizing this principle is avoiding vendor lock-in and proprietary systems.  It also affirms that there will be costs associated with making things open, just as there are costs to making things closed, and that these costs must be built into the system.
+
+Mappings
+1.	“We realize that moving to open and free access, though probably decreasing total costs, may displace some costs to the individual researcher through page charges, or to publishers through decreased revenues, and we pledge to help defray these costs. To this end we agree to help fund the necessary expenses of publication under the open access model of individual papers in peer-reviewed journals (subject to reasonable limits based on market conditions and services provided).”-Bethesda Statement on Open Access Publishing, 2003.
+Discussion Points
+●	How would we know if the practices in place in the Commons are harming our ability to make knowledge available for the public good?
+●	How does this principle interact with proprietary systems external to the Commons? I.e. aggregation, reward systems?
+RC2 - The Commons stimulates behaviours that support openness in all stages of the research cycle.
+Principle
+Incentives in the commons are designed to stimulate behaviours that support the production and dissemination of the best scholarship and science. They encourage respect for the principles of the Commons and they discourage behaviours and practices that inhibit participation. They apply to all stages of and participants in the research cycle. They respect and support non-standard research outputs (such as datasets, software) and parascholarly activity (e.g. leadership, community service, peer review, and adjudication).
+Discussion
+Many incentives in Scholarly Communication currently incentivise behaviour that is antithetical to the production and dissemination of the best possible science and scholarship (Moore et al. 2016). Examples include
+●	Rewarding authorship rather than participation in science and scholarship
+●	Disincentivising community activities (e.g. peer review, community service and/or leadership)
+●	Refusing to share data or methods
+●	Disincentivising reproduction studies
+●	Incentivising “prestige” over “soundness”
+The Commons incentivises the production and dissemination of the best possible scholarship. The Commons ...
+●	Encourages contributions using standard tools and taxonomies
+●	Encourages the publication and reuse of data
+●	Encourages replication and the publication of null-results
+●	Supports and enables ways to do nuanced and transparent assessment
+Operationalization
+Although incentives are not themselves part of the Commons (see E4 and E5), incentives remain an important part of research communication. Operationalisation of this principle requires commoners and institutes to evaluate existing incentive structures to eliminate or reduce perverse incentives to counter-productive behaviour. It also requires them to consider the development of new incentives designed to promote preferred behaviour and also to consider the need for incentives in cases where participation in the commons is a reward in its own right (see E2).
+Workshop discussion points
+●	How does the commons relate to external reward systems? I.e. Alfie Kohn (Punished by rewards) argues that all reward systems, by their very nature, substitute something else (the reward) for the desired behaviour and are, as a result, both antithetical to higher-level activity like research and inherently about being gameable.
+●	Should all incentive systems, even “good” ones be external to the Commons? See RC3
+
+
+Acknowledgements
+The Scholarly Commons owes its existence to the many different declarations, discussions, workshops, conversations, blogs, articles and other works that have been carried out around the world over the past few decades.  In our ideal commons, these would all be explicitly referenced, but we are not there yet.
+Introduction:
+1)	 “We see a future in which scientific information and scholarly communication more generally become part of a global, universal and explicit network of knowledge; where every claim, hypothesis, argument—every significant element of the discourse—can be explicitly represented, along with supporting data, software, workflows, multimedia, external commentary, and information about provenance. In this world of networked knowledge objects, it would be clear how the entities and discourse components are related to each other, including relationships to previous scholarship; learning about a new topic means absorbing networks of information, not individually reading thousands of documents. Adding new elements of scholarly knowledge is achieved by adding nodes and relationships to this network. People could contribute to the network from a variety of perspectives; each contribution would be immediately accessible globally by others. Reviewing procedures, as well as reputation management mechanisms, would provide ways to evaluate and filter information.”-FORCE11 Manifesto
+2)	“For the first time ever, the Internet now offers the chance to constitute a global and interactive representation of human knowledge, including cultural heritage and the guarantee of worldwide access.”-Preface to the Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities, 2003.
+3)	“Scholarly communication should expand the knowledge commons. Scientific knowledge is critical for the development of society. As scientific knowledge is intangible in nature, its use by one person does not preclude its use by another person. On the contrary, knowledge tends to grow when it is shared. Therefore, no barriers should be established to restrict the use and reuse of research results. Scientific knowledge should be a public good and as such part of the knowledge commons, in order to enable everyone in society to benefit from this knowledge.”-Principle #12, Innovation, Vienna Principles
+RC3 - In the Commons, the form research is disseminated in is determined by the needs of the research itself
+Principle
+The commons encourages research to be disseminated in the form that makes the most sense for that research: i.e. as a dataset, software, clinical practice notes, letters, blogs... or articles and monographs. It discourages the use of inappropriate forms solely for reasons of tradition, metrics,  or to satisfy reward or evaluation systems (e.g. the publication of an article in order to claim credit for a dataset or a print monograph to satisfy the needs of a tenure committee).
+Discussion
+Research outputs are anything that comes out of scientific/scholarly endeavors: ideas, drafts, data, texts, protocols, code, discussions, analyses and more. These research outputs are disseminated through the conscious, discrete/continuous, manual/automatic act of making research objects available to people and machines other than (those of) the creator.
+Current reward systems in scholarship essentially recognize only two types of outputs, depending on the domain and discipline:  the journal article or the book.  Within these categories, there are variants, e.g., letters, preprints; but essentially all scholarly outputs must be turned into narrative. Likewise, our current citation system, on which many reward metrics are based, treats publication in textual narrative form as the norm.
+The problem, however, is that this requires researchers to shoehorn all research results into this narrative format, regardless of the intrinsic appropriateness for the output itself. The most famous example, perhaps, is provided by Phil Bourne, where he wrote a paper that “nobody reads” about the Protein Data Bank (PDB), which is heavily cited. The PDB itself is heavily used, but without a system of data citation in place, the use is woefully underreported. Similar problems are also commonly reported in the Digital Humanities, where researchers are required to produce print formats (particularly the scholarly monograph) to satisfy tenure and promotion committees.
+This system is wasteful at best and a hindrance to scholarship at worst. It encourages works which clearly should be disseminated in one form (e.g. as software, a database, a blog, a tweet, or an annotation) to be turned into papers in order to be counted for credit. It in some disciplines also encourages the piecemeal publication of results (“minimal publishable units” or “salami slicing”) to the detriment of larger synthesis and conclusions. In yet other fields, it has the opposite effect, encouraging publication in monograph form of material that is better suited to shorter formats.
+This principle is closely associated with the principles of attribution (e.g. E4). The current situation is encouraged by reward systems which are themselves not part of the Commons (see E5 and RC2). Overall the two main things holding developments back are sticking to print culture in an online environment and using the scholarly communication system for career advancement.
+Operationalization
+Operationalisation of this principle requires collaboration with external organisations and, since the Commons is self-governing (E1), Commoners themselves. Steps that can be taken include:
+1.	Commoners insisting on the logic of abundance (E5) in their work on external adjudication (funding, tenure and promotion, hiring) committees and organs
+2.	Commoners who are in a position to do so (e.g. already tenured/senior) insisting on using appropriate forms of publication for non-narrative research outputs
+3.	Commoners insisting on the implementation of the commons principles in their own work:
+a.	Seeking fast, immediate publication
+b.	Separating publishing from reviewing/curation
+c.	Complete publication, including support material, data etc.
+d.	Reusable
+e.	Machine readable
+f.	Hassle free mining
+g.	Deep linkable (e.g. at the sentence level or better)
+h.	Deep citable (e.g. at the sentence level or better)
+i.	Using open, non proprietary techniques/standards
+j.	Etc…
+4.	All platforms/services that keep using the publication system for supporting career advancement in such a way that it impedes timely, efficient and full sharing of protocols, data and texts cannot be seen as part of the scholarly commons. Of course one must allow time to make changes but at least the stated intention and preferably a time path to make the change should be present.
+
+
+Mappings
+1.	“Open access contributions include original scientific research results, raw data and metadata, source materials, digital representations of pictorial and graphical materials and scholarly multimedia material.”-Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities, 2003.

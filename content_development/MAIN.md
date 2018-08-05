@@ -93,9 +93,9 @@ There are two ways too look at this. First, some might argue that the power of a
 
 ## Principles of Open Science <a name="Principles"></a>
 
-Now, there are no rules about Open Science, and no one individual or organisation is setting the agenda. However, what is commonly recognised is that Open Science is underpinned by specific, core principles and values.
+Now, there are no rules about Open Science, and no one individual or organisation is setting the agenda. However, what is commonly recognised is that Open Science is underpinned by specific, core principles and values. In recognition of this, there are now around [100 charters and declarations](https://docs.google.com/spreadsheets/d/1-aRXFiRg-VL9hpLpxoJqX6-OC-A0R2oCogHfIx52Nug/edit#gid=956616118) to do with data sharing and scholarly communication and publishing.
 
-Note that often you will find things described as Open Sciene, but that do not seem to embrace these principles. These things are probably not 'true' Open Science, but more just attempting to surf the wave or join the bandwagon as a PR stunt. Such things are often called 'open washing'.
+Note that often you will find things described as Open Science, but that do not seem to embrace these principles. These things are probably not 'true' Open Science, but more just attempting to surf the wave or join the bandwagon as a PR stunt. Such things are often called 'open washing'.
 
 [![Open & Collaborative Science Manifesto
 ](https://img.youtube.com/vi/Y1X0xtB_JcY/0.jpg)](https://www.youtube.com/watch?v=Y1X0xtB_JcY)
@@ -186,6 +186,11 @@ Having Open Science as a core value in research departments sends a strong messa
 
 [Including FOSTER taxonomy]
 
+[![Open & Collaborative Science Manifesto
+](https://img.youtube.com/vi/Es7qvO_2kSg/0.jpg)](https://www.youtube.com/watch?v=Es7qvO_2kSg)
+
+<p align="center"><i>Intersections of Openness: Open Access, Science, & Education. By Abby Elder, CC BY 4.0 International License. <a href="https://www.youtube.com/watch?v=Es7qvO_2kSg" target="_blank">Source</a></i></p>
+
 <br/>
 
 ## Barriers to Open Science <a name="barriers"></a>
@@ -207,6 +212,14 @@ All of these elements can be documented as part of a 'lab notebook', and comes w
 <br/>
 
 ## Making Open Science part of your daily research workflow <a name="workfloww"></a>
+
+As you might now see, Open Science impacts almost every aspect of the typical research workflow. There are a number of tools, services, platforms, and practices for you to engage with, and this will likely differ for each individual, lab group, or community.
+
+There are no set rules though. Open Science gives you the freedom to explore processes that work best for you, your research, and the impact that can have on your wider community. Below is just one combination of examples of tools that can make your research workflow more open all the way from an initial grant proposal through to research assessment.
+
+![Rainbow of Open Science Practices](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/rainbow-of-open-science-practices.png)
+
+<p align="center"><i>Kramer, Bianca, & Bosman, Jeroen. (2018, January). Rainbow of open science practices. Zenodo. a href="http://doi.org/10.5281/zenodo.1147025" target="_blank">http://doi.org/10.5281/zenodo.1147025</a> </i></p>
 
 
 <br/>
@@ -275,3 +288,13 @@ There is so much potential reading material out there that it would take years o
 ### Additional tools and services
 
 * The [FOSTER Open Science Training courses](https://www.fosteropenscience.eu/toolkit) are an excellent series for developing your Open Science skills. Each course takes about 1-2 hours to work through and you’ll receive a badge upon completion. The courses include practical tips on getting started with Open Science as well as providing information on discipline specific tools and resources you can use.
+
+* The [Joint Roadmap for Open Science Tools](http://jrost.org/), a community working link together existing Open Science platforms and services into a unified infrastructure.
+
+* The [Open Research Glossary](http://www.righttoresearch.org/resources/OpenResearchGlossary/index.shtml), designed to help provide some insight into some of the language surrounding 'Open Scholarship'.
+
+* The Berkeley Initiative for Transparency in Social Sciences (BITSS) have an excellent MOOC on [Transparent and Open Social Science](https://www.bitss.org/events/mooc-transparent-and-open-social-science/).
+
+The [Scholarl Communication](https://www.scienceopen.com/search#collection/69988c7e-1855-4007-ba94-caa4c4638b1f) Super Collection at ScienceOpen contains more than 1000 research articles, thematically organised on the topic. Most of these are also Open Access.
+
+* [Why Open Research?](http://whyopenresearch.org/) is a fantastic website by Erin McKiernan, providing illustrations and information that help to support a strong case for Open Research.

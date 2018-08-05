@@ -211,7 +211,7 @@ All of these elements can be documented as part of a 'lab notebook', and comes w
 
 <br/>
 
-## Making Open Science part of your daily research workflow <a name="workfloww"></a>
+## Making Open Science part of your daily research workflow <a name="workflow"></a>
 
 As you might now see, Open Science impacts almost every aspect of the typical research workflow. There are a number of tools, services, platforms, and practices for you to engage with, and this will likely differ for each individual, lab group, or community.
 

@@ -45,7 +45,7 @@ This module will introduce to you the guiding principles, values, and practices 
 
 This module is designed primarily for students and researchers at the graduate and undergraduate level. However, this can also be useful training material for postdocs and even more senior researchers too. It is a cross-disciplinary module, and therefore covers all research branches, including Engineering, Medicine, Maths, Social Sciences and Humanities, Arts, and STEM subjects. 
 
-> Quote from Mick
+> "Open science describes the practice of carrying out scientific research in a completely transparent manner, and making the results of that research available to everyone. Isn’t that just ‘science’?!" - Mick Watson [(source)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0669-2)
 
 <br/>
 

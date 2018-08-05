@@ -17,9 +17,9 @@
   - [Changes in research evaluation](#evaluation)
   - [Potential impact on your career](#career)
   - [Creating your digital profile; **TASK 2**](#profile)
-- [Open licensing, copyright, and the 'legalise' behind Open Science](#legalise)
 - [The different dimensions of Open Science](#dimensions)
 - [Barriers to Open Science](#barriers)
+  - [Moving away from tradition and the status quo](#tradition)
 - [Open Science and reproducible research](#reproducible)
 - [Making Open Science part of your daily research workflow](#workflow)
 - [Where to go from here](#future)
@@ -73,7 +73,7 @@ However, what we know, is that sadly this ideal is often divergent from the real
 
 Open Science is about changing these research practices through a shift in culture. The power of modern Web technologies enables instantaneous sharing, global collaboration, and in an unrestricted fashion. This shift in research culture is often referred to as the [**Scholarly Commons**](https://www.force11.org/group/scholarly-commons-working-group), which seeks to explore and redefine what a modern scholarly communication ecosystem should look like. 
 
-The digital era is transforming the way in research is performed, and the limitations of the print era are gone. With this, new issues arise, which include the complexities of knowledge capture and communication. The framing of these complexities as a 'Commons' integrates the polticial, social, economic, and philosophical dimensions around knowledge.
+The digital era is transforming the way in research is performed, and the limitations of the print era are gone. With this, new issues arise, which include the complexities of knowledge capture and communication. The framing of these complexities as a 'Commons' integrates the political, social, economic, and philosophical dimensions around knowledge.
 
 
 ### History of Open Science and Open Cultures <a name="Cultures"></a>
@@ -118,19 +118,19 @@ Note that often you will find things described as Open Science, but that do not 
 
 This above video from [OCSDNet](https://ocsdnet.org/manifesto/open-science-manifesto/) is absolutely critical in framing the principles of Open Science. It outlines the importance of representation and inclusivity within Open Science, and the importance of these in challenging the core values of traditional science. They propose **seven principles** for Open and Collaborative Science:
 
-* **Principle 1**: Enables a knowledge commons where every individual has the means to decide how their knowledge is governed and managed to address their needs
+* **Principle 1**: Enables a knowledge commons where every individual has the means to decide how their knowledge is governed and managed to address their needs.
 
-* **Principle 2**: It recognizes cognitive justice , the need for diverse understandings of knowledge making to co-exist in scientific production
+* **Principle 2**: It recognizes cognitive justice, the need for diverse understandings of knowledge making to co-exist in scientific production.
 
-* **Principle 3**: It p ractices situated openness by addressing the ways in which c ontext, power and inequality condition scientific research
+* **Principle 3**: It practices situated openness by addressing the ways in which context, power and inequality condition scientific research
 
 * **Principle 4**: It advocates for every individual’s right to research and enables different forms of participation at all stages of the research process.
 
-* **Principle 5**: It fosters equitable collaboration between scientists and social actors and cultivates co-creation and social innovation in society
+* **Principle 5**: It fosters equitable collaboration between scientists and social actors and cultivates co-creation and social innovation in society.
 
-* **Principle 6**: It incentivizes inclusive infrastructures that empower people of all abilities to m ake, and use accessible open-source technologies.
+* **Principle 6**: It incentivizes inclusive infrastructures that empower people of all abilities to make, and use accessible open-source technologies.
 
-* **Principle 7**: It strives to use knowledge as a pathway to sustainable development, equipping every individual to improve the well-being of our society and planet
+* **Principle 7**: It strives to use knowledge as a pathway to sustainable development, equipping every individual to improve the well-being of our society and planet.
 
 Another widely-known vision for the future of scholarly communication is the [Vienna Principles](https://viennaprinciples.org/).
 
@@ -190,15 +190,11 @@ Having Open Science as a core value in research departments sends a strong messa
 
 <br/>
 
-## Open licensing, copyright, and the 'legalise' behind Open Science <a name="legalise"></a>
-
-
-<br/>
 
 ## The different dimensions of Open Science <a name="dimensions"></a>
 
 
-![FOSTER Open Science taxonomy](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/rainbow-of-open-science-practices.png)
+![FOSTER Open Science taxonomy](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/os_taxonomy.png)
 
 <p align="center"><i><a href="https://www.fosteropenscience.eu/about#download" target="_blank">FOSTER Open Science taxonomy</i></p>
 
@@ -213,11 +209,25 @@ Having Open Science as a core value in research departments sends a strong messa
 
 ## Barriers to Open Science <a name="barriers"></a>
 
-Open Science reflects the intentions of the researchers themselves, and is thereby subject to cultural bias.
+Open Science reflects the intentions of the researchers themselves, and is thereby subject to cultural bias. Open Science is not a perfect system by any means, and operates a hierarchy between different barriers. For example, Open Access seeks to remove barriers such as price for readers and re-use permissions, but often fails to address barriers such as connectivity or language, and also in cases erect new barriers, such as author-facing costs.
 
-Open Science is not a perfect system by any means, and operates a hierarchy between different barriers. For example, Open Access seeks to remove barriers such as price for readers and re-use permissions, but often fails to address barriers such as connectivity or language, and also in cases erect new barriers, such as author-facing costs. As such, while the core principles underlying Open Science are often focussed around accessibility, in practice there is often a trade-off within this hierarchy, and often with unforeseen consequences. 
+This is something which the Open Science movement is becoming more and more aware of, especially regarding the risks and impacts that progress towards Open Science can have, particularly on marginalised demographics or already higher-risk communities. Some of the major barriers towards Open Science include:
 
-Much of this is not due to the intentions of Open Science, but more about the difficulties in reconciling the different stakeholder viewpoints, which often leads to inherent conflict and complications around developments.
+* Forcing junior researchers to share their data at point of first publication, potentially compromising their future research based on those data;
+
+* High article processing charges (APCs) for publication, that discriminate 
+
+### Moving away from tradition and the status quo <a name="tradition"></a>
+
+While the core principles underlying Open Science are often focussed around accessibility, in practice there is often a trade-off within this hierarchy, and often with unforeseen consequences. Much of this is not due to the intentions of Open Science, but more about the difficulties in reconciling the different stakeholder viewpoints, which often leads to inherent conflict and complications around developments.
+
+[Include: lobbying, resistance to shifting away from impact factor, resistance to openness, co-opting of OA and Open Science by publishers. Need to add this section to TOC.]
+
+It is perfectly natural for researchers and industries that have made themselves successful or profitable based on a particular set of practices to resist any disruption towards that. Let us take two primary examples for this.
+
+1. Moving research evaluation away from journal brands and the impact factor.
+
+2. Moving away from a subscription model to one where all information is freely available.
 
 <br/>
 
@@ -266,7 +276,7 @@ There is so much potential reading material out there that it would take years o
 
 * [Open science is a research accelerator](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Woelfle%20et%20al.%2C%202011.pdf) (Woelfle et al., 2011).
 
-* [The Conundrum of Sharing Research Data](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Borgman%2C%202012.pdf) (Borgman, 2012) 
+* [The Conundrum of Sharing Research Data](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Borgman%2C%202012.pdf) (Borgman, 2012).
 
 * [Open Science: The Evolving Guide on How the Internet is Changing Research, Collaboration and Scholarly Publishing](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Bartling%20and%20Friesike%2C%202014.pdf) (Bartling and Friesike, 2014).
 
@@ -314,6 +324,6 @@ There is so much potential reading material out there that it would take years o
 
 * The Berkeley Initiative for Transparency in Social Sciences (BITSS) have an excellent MOOC on [Transparent and Open Social Science](https://www.bitss.org/events/mooc-transparent-and-open-social-science/).
 
-The [Scholarl Communication](https://www.scienceopen.com/search#collection/69988c7e-1855-4007-ba94-caa4c4638b1f) Super Collection at ScienceOpen contains more than 1000 research articles, thematically organised on the topic. Most of these are also Open Access.
+The [Scholarly Communication](https://www.scienceopen.com/search#collection/69988c7e-1855-4007-ba94-caa4c4638b1f) Super Collection at ScienceOpen contains more than 1000 research articles, thematically organised on the topic. Most of these are also Open Access.
 
 * [Why Open Research?](http://whyopenresearch.org/) is a fantastic website by Erin McKiernan, providing illustrations and information that help to support a strong case for Open Research.

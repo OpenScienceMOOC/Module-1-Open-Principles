@@ -27,6 +27,8 @@
 
 *THIS MODULE IS VERY MUCH IN PREP*
 
+Did you know that the Internet and the World Wide Web were both originally designed for research purposes? Researchers wanted a fast, easy, and low-cost way for sharing data with each other, and hence the Internet was born. Now, the Internet dominates almost all aspects of our daily lives, and has deviated from this original purpose. Yet, from this, science seems to have gone backwards compared to every other enterprise - Open Science is the movement to bring modern research into line with this original digital intent.
+
 ## Introduction <a name="Introduction"></a>
 
 Welcome to Module 1 of the Open Science MOOC: Open Principles. This is the first of 10 core modules to give you a solid grounding in all things Open Science. This module has been developed [in the open](https://github.com/OpenScienceMOOC/Module-1-Open-Principles) through collaboration by an international team of [Open Science wizards](#Development_team).
@@ -59,7 +61,7 @@ Designed primarily for students and researchers at the graduate and undergraduat
 
 ## What is Open Science? <a name="What_is"></a>
 
-The term 'Open Science' has not yet a universally accepted definition, but usually refers to one core theme: **Increasing knowledge availability as a public good**, typically with critical research aspects such as credibility, reproducibility, and verifiability thrown in in some combination.
+The term 'Open Science' has not yet a universally accepted definition, but usually refers to one core theme: **Increasing knowledge availability as a public good**, typically with critical research aspects such as credibility, reproducibility, and verifiability thrown in in some combination. There are many alternative terms to Open Science too, such as Open Research, Open Scholarship, Science 2.0, eScience, and here. Throughout this MOOC, we consider 'Open Science' to be fully inclusive of all of these terms, and to reflect the process of organised knowledge creation [(Bartling and Friesike, 2014)](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Bartling%20and%20Friesike%2C%202014.pdf).
 
 [Can we not cite Wikipedia here? Or also get a team work on the OS wikipedia entry?]
 
@@ -71,6 +73,8 @@ Key goals of the Open Science movement include:
 
 * Freely available access to all outputs of the research process;
 
+* Increased equity and inclusive participation in research;
+
 * Better and more diverse and creative interpretations of scientific results;
 
 * More rigorous, transparent evaluation of research processes and outcomes;
@@ -79,7 +83,9 @@ Key goals of the Open Science movement include:
 
 * More comprehensive research practices incentivised through more diverse reward systems;
 
-* Greater repriducibility of research results, enhancing trustability and integrity.
+* Accelerated innovation and public impact: and
+
+* Greater reproducibility of research results, enhancing trustability and integrity.
 
 [Mention some of the recent achievements and the estimated percentage of open vs closed science // is there a timeline graph somehwere how Research was gradually locked behind paywalls and now opens up again?]
 

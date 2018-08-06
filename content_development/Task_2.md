@@ -14,6 +14,10 @@ Estimated time to complete:  minutes.
 
 ## Getting started <a name="Getting_started"></a>
 
+* ORCID
+* Publons - note Clarivate caveat (integrate with ORCID) - make this optional
+* ImpactStory (integrate with ORCID)
+
 
 ## Checklist <a name="Checklist"></a>
 

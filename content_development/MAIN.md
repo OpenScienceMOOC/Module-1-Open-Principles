@@ -164,8 +164,8 @@ Now, there are no rules about Open Science, and no one individual or organisatio
 
 Note that often you will find things described as Open Science, but that do not seem to embrace these principles. These things are probably not 'true' Open Science, but more just attempting to surf the wave or join the bandwagon as a PR stunt. Such things are often called 'open washing'.
 
-<center>[![Open & Collaborative Science Manifesto
-](https://img.youtube.com/vi/Y1X0xtB_JcY/0.jpg)](https://www.youtube.com/watch?v=Y1X0xtB_JcY)</center>
+[![Open & Collaborative Science Manifesto
+](https://img.youtube.com/vi/Y1X0xtB_JcY/0.jpg)](https://www.youtube.com/watch?v=Y1X0xtB_JcY)
 
 <p align="center"><i>Open and Collaborative Science Manifesto. This video describes the 7 principles that constitute a more open and inclusive science in development. CC BY <a href="https://www.youtube.com/watch?time_continue=3&v=Y1X0xtB_JcY" target="_blank">Source</a></i></p>
 

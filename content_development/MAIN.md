@@ -235,7 +235,7 @@ The different aspects of this will be explored through different modules in this
 
 * **OPEN PEER REVIEW**: This is a highly dimensional concept, including aspects to do with publishing review reports, revealing the identity of reviewers, and making peer review a more continuous and collaborative process.
 
-* ** OPEN METHODS**: Where the process of the research has been documented in a sufficient detail to allow others to *repeat*, *reproduce*, or *replicate* the work.
+* **OPEN METHODS**: Where the process of the research has been documented in a sufficient detail to allow others to *repeat*, *reproduce*, or *replicate* the work.
 
 * **OPEN SOURCE**: Most modern science relies on code and software, and Open Source is about providing free access and re-use rights to this to maximise its utility.
 

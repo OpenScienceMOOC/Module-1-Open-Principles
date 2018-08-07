@@ -37,7 +37,7 @@ You are in the middle of a profound global scientific revolution. To innovate in
 
 This module will introduce to you the guiding principles, values, and practices of the 'Open Science movement', some of the barriers to these, and the positive impact that integrating Open Science into your daily research work can have on you. This module is not designed to be a 'one size fits all' approach, but rather a foundational plan that incorporates questions around the varying and dynamic dimensions, interpretations, and goals of Open Science across different communities.
 
-<img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/02_expectations.png" width="400" />
+<center><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/02_expectations.png" width="400" /></center>
 
 <p align="center"><i>Image license: CC0 1.0 Universal <a href="https://twitter.com/hochstenbach" target="_blank">Patrick Hochstenbach</a></i></p>
 
@@ -49,7 +49,7 @@ Designed primarily for students and researchers at the graduate and undergraduat
 
 > "Open science describes the practice of carrying out scientific research in a completely transparent manner, and making the results of that research available to everyone. Isn’t that just ‘science’?!" - Mick Watson [(source)](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Watson%2C%202015.pdf)
 
-<img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/open_science.png" width="800" />
+<center><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/open_science.png" width="800" /></center>
 
 <p align="center"><i>Melanie Imming, & Jon Tennant. (2018, June 8). Sticker open science: just science done right. Zenodo. <a href="http://doi.org/10.5281/zenodo.128557" target="_blank">http://doi.org/10.5281/zenodo.128557</a></i></p>
 
@@ -107,9 +107,9 @@ The foundational elements of traditional research communication, peer reviewed r
 
 One of the biggest focuses of the Open Science movement has been the liberation of research papers from behind paywalls to be freely available to anyone. What many people do not realise is that most scientific knowledge is locked away to most people on this planet. 
 
-<img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/OA.jpg" width="800" />
+<center><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/OA.jpg" width="800" /></center>
 
-<p align="center"><i>Number of articles (A) and proportion of articles (B) with OA copies, estimated based on a random sample of 100,000 articles with Crossref DOIs.<a href="https://peerj.com/articles/4375/#fig-2" target="_blank">Piwowar et al. (2018)</a></i></p>
+<p align="center"><i>Number of articles (A) and proportion of articles (B) with OA copies, estimated based on a random sample of 100,000 articles with Crossref DOIs. <a href="https://peerj.com/articles/4375/#fig-2" target="_blank">Piwowar et al. (2018)</a></i></p>
 
 <br/>
 
@@ -121,7 +121,7 @@ The digital era is transforming the way in research is performed, and the limita
 
 However, what Open Science gives us is a new set of standards, tools, principles, and practices to revolutionise the way we perform and disseminate research knowledge. And we are going to need all of this, if we want to help shape our world for the better; for example, through the United Nations Sustainable Development Goals:
 
-<img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/UN.png" width="800" />
+<center><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/UN.png" width="800" /></center>
 
 <p align="center"><i><a href="https://sustainabledevelopment.un.org/sdgs" target="_blank">UN Sustainable Development Goals</a></i></p>
 
@@ -164,8 +164,8 @@ Now, there are no rules about Open Science, and no one individual or organisatio
 
 Note that often you will find things described as Open Science, but that do not seem to embrace these principles. These things are probably not 'true' Open Science, but more just attempting to surf the wave or join the bandwagon as a PR stunt. Such things are often called 'open washing'.
 
-[![Open & Collaborative Science Manifesto
-](https://img.youtube.com/vi/Y1X0xtB_JcY/0.jpg)](https://www.youtube.com/watch?v=Y1X0xtB_JcY)
+<center>[![Open & Collaborative Science Manifesto
+](https://img.youtube.com/vi/Y1X0xtB_JcY/0.jpg)](https://www.youtube.com/watch?v=Y1X0xtB_JcY)</center>
 
 <p align="center"><i>Open and Collaborative Science Manifesto. This video describes the 7 principles that constitute a more open and inclusive science in development. CC BY <a href="https://www.youtube.com/watch?time_continue=3&v=Y1X0xtB_JcY" target="_blank">Source</a></i></p>
 
@@ -191,7 +191,7 @@ This above video from [OCSDNet](https://ocsdnet.org/manifesto/open-science-manif
 
 Another widely-known vision for the future of scholarly communication is the [Vienna Principles](https://viennaprinciples.org/).
 
-![Vienna Principles](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/vienna_principles.png)
+<center>![Vienna Principles](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/vienna_principles.png)</center>
 
 <p align="center"><i>The Vienna Principles, now in handy infographic form!</i></p>
 
@@ -221,9 +221,9 @@ The production of research knowledge is inherently geopolitical, as emphasised b
 
 Open Science, just like 'regular science', is a complicated construct. Thankfully, a lot of great work has already been performed to help frame the different contexts of Open Science. One of the most commonly used is the Open Science taxonomy from FOSTER, shown below:
 
-![FOSTER Open Science taxonomy](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/os_taxonomy.png)
+<center>![FOSTER Open Science taxonomy](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/os_taxonomy.png)</center>
 
-<p align="center"><i><a href="https://www.fosteropenscience.eu/about#download" target="_blank">FOSTER Open Science taxonomy</i></p>
+<p align="center"><i><a href="https://www.fosteropenscience.eu/about#download" target="_blank">FOSTER Open Science taxonomy</a></i></p>
 
 <br/>
 
@@ -241,9 +241,9 @@ The different aspects of this will be explored through different modules in this
 
 Other critical aspects of Open Science include **Public Engagement with Science**, **Open Educational Resources**, and **Open Advocacy** - all of which will be covered in later modules!
 
-<img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/moocpng.png" width="800" />
+<center><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/moocpng.png" width="800" /></center>
 
-<p align="center"><i>Modules covered throughout this MOOC <a href="https://opensciencemooc.github.io/site/Modules/" target="_blank">(Companion website)</a></i></p>
+<p align="center"><i>Modules covered throughout this MOOC <a href="https://opensciencemooc.github.io/site/Modules/" target="_blank"></a></i></p>
 
 <br/>
 
@@ -380,7 +380,7 @@ As you might now see, Open Science impacts almost every aspect of the typical re
 
 There are no set rules though. Open Science gives you the freedom to explore processes that work best for you, your research, and the impact that can have on your wider community. Below is just one combination of examples of tools that can make your research workflow more open all the way from an initial grant proposal through to research assessment.
 
-![Rainbow of Open Science Practices](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/rainbow-of-open-science-practices.png)
+<center>![Rainbow of Open Science Practices](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/rainbow-of-open-science-practices.png)</center>
 
 <p align="center"><i>Kramer, Bianca, & Bosman, Jeroen. (2018, January). Rainbow of open science practices. Zenodo. <a href="http://doi.org/10.5281/zenodo.1147025" target="_blank">http://doi.org/10.5281/zenodo.1147025</a></i></p>
 
@@ -390,7 +390,7 @@ There are no set rules though. Open Science gives you the freedom to explore pro
 
 Hopefully now you have come to see the importance of Open Scientific principles, values, and practices as a fundamental part of modern science. Open Science is an umbrella term for a range of ideals, values, practices, and principles, all of which are integrated together:
 
-[![Open & Collaborative Science Manifesto
+[![Intersections of Openness
 ](https://img.youtube.com/vi/Es7qvO_2kSg/0.jpg)](https://www.youtube.com/watch?v=Es7qvO_2kSg)
 
 <p align="center"><i>Intersections of Openness: Open Access, Science, & Education. By Abby Elder, CC BY 4.0 International License. <a href="https://www.youtube.com/watch?v=Es7qvO_2kSg" target="_blank">Source</a></i></p>

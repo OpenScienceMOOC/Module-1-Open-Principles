@@ -139,7 +139,13 @@ In the last two decades, there has been an explosive growth in the development o
 
 From this, what might be becoming a little more clear is that Open Science is about systemic change. It challenges the way research is conducted, at a practical and cultural level, the way it is evaluated, and the ways in which scientific knowledge is disseminated. Much of this is ingrained into research culture through self-reinforcing local governance systems, which are often imposed through external capitalist pressure. For example, the '*publish or perish*' mantra is a direct consequence of these pressures, which in turn are linked to the evolving neoliberal agenda imposed by modern research institutes.
 
-So now, if this makes sense to you, it might seem like Open Science is in almost direct conflict with a capitalistic culture. 
+So now, if this makes sense to you, it might seem like Open Science is in almost direct conflict with a capitalistic culture. This conflict is not new to science. In the 1940s, sociologist Robert Merton articulated some of the results of his sociology of science research as a set of four norms: principles that described the underlying ethos of science. Each of these norms is sharply diverent to how a free marketplace operates. You can read about the norms [here](https://en.wikipedia.org/wiki/Mertonian_norms). One of Merton's norms was "communism," (this is sometimes re-worded as "communalism"). 
+
+Quoting Merton's original 1942 article: "'Communism,' in the nontechnical and extended sense of common ownership of goods, is a second integral element of the scientific ethos. The substantive findings of science are a product of social collaboration and are assigned to the community. They constitute a common heritage in which the equity of the individual producer is severely limited." 
+Originally published as “Science and Technology in a Democratic Order,” *Journal of Legal and Political Sociology* 1 (1942): 115-26; later published as “Science and Democratic Social Structure,” in Robert K. Merton, *Social Theory and Social
+Structure*.  
+
+It is good to remember that Open Science principles rearticulate science norms that were historically considered to be intergal to science itself. And so, as the findings of science belong to the entire community, any attempt by individuals or corporations to capture these for profit is a practice based on a notion of equity that is both foreign and contrary to how science is meant to operate. 
 
 Open Science really hit the mainstream around 2016 due to a number of possible reasons. A combination of political activity and grassroots community-led initiatives really put it on the map, and now everywhere you go in science, openness is all around in one way or another.
 

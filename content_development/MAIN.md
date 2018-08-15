@@ -145,7 +145,7 @@ Quoting Merton's original 1942 article: "'Communism,' in the nontechnical and ex
 Originally published as “Science and Technology in a Democratic Order,” *Journal of Legal and Political Sociology* 1 (1942): 115-26; later published as “Science and Democratic Social Structure,” in Robert K. Merton, *Social Theory and Social
 Structure*.  
 
-It is good to remember that Open Science principles rearticulate science norms that were historically considered to be intergal to science itself. And so, as the findings of science belong to the entire community, any attempt by individuals or corporations to capture these for profit is a practice based on a notion of equity that is both foreign and contrary to how science is meant to operate. 
+It is good to remember that Open Science principles rearticulate science norms that were historically considered to be integral to science itself. Open Science reaffirms the right of the community to access the substantive findings of science. As the findings of science belong to the entire community, any attempt by individuals or corporations to capture these for profit is a practice based on a notion of equity that is foreign to, and contrary to, how science is meant to operate. 
 
 Open Science really hit the mainstream around 2016 due to a number of possible reasons. A combination of political activity and grassroots community-led initiatives really put it on the map, and now everywhere you go in science, openness is all around in one way or another.
 

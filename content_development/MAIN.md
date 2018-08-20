@@ -127,6 +127,25 @@ However, what Open Science gives us is a new set of standards, tools, principles
 
 <br/>
 
+### Open Scientists share objects to gain network effects for their work
+
+“Because we have to coordinate with one another to get anything out of our shared free time and talents, using cognitive surplus isn’t just about accumulating individual preferences. The culture of the various groups of users matters enormously for what they expect of one another and how they work together. The culture in turn will determine how much of the value that we get out of the cognitive surplus will be merely communal (enjoyed by the participants, but not of much use for society at large) and how much of it will be civic.”
+Excerpt From: Clay Shirky. _Cognitive Surplus_.
+
+Building on a civic culture of sharing, open science creates new value from every object (idea, data, method, software, results) that is openly shared. Some of this new value accrues to the scientist who shares, some goes to the benefit of all scientists working in the same research arena who reuse this object, and some goes to scientists who can open up new research from the collective resource that this object now enhances. This last value is the ultimate promise of open science: a shared surplus of research objects the can be openly mixed, mined, and melded into new, synthetic knowledge. McKiernan (et al, 2016), demonstrates the advantages of open sharing for citations, impacts, careers, etc. What the open scientist does to increase the holdings of the open corpus in their field adds a civic choice to these advantages. Growing the open research ecosystem helps every scientist on the planet.
+
+McKiernan, E.C., Bourne, P.E., Brown, C.T., Buck, S., Kenall, A., Lin, J., McDougall, D., Nosek, B.A., Ram, K., Soderberg, C.K. and Spies, J.R., 2016. How open science helps researchers succeed, ELife 5. See https://doi. org/10.7554/elife, 16800.
+
+Adding a new bit of research findings or experimental methods to an open repository is as easy (or easier) than submitting this to a closed collection (such as a for-profit publisher). However, open sharing scales better, particularly when it uses open standards-based platforms, and it is less fragile, as it can be migrated to new platforms and spread across multiple locations. Openness adds to discoverability and access, and contributes to reproducibility.
+
+Even as the value of, say, a telephone exchange, increases with each new telephone connection, the addition of a new data set, or a null result paper, or a specific finding, etc., builds numerous interconnections with the rest of the corpus. These interconnections (and their “network effects”) can lead to new knowledge, and they can serve as a mirror and a measure to reveal how each new bit of content solves (or critiques) a specific issue, and also potential problems with the newly added object. Rapid, open review opportunities arise. So too does rapid recognition and opportunities for new collaborations.
+
+A lot of these network effects will take place on the internet at a planetary scale. The interconnections made possible by open science build capacity for the free movement of objects and ideas directly linked back to their authors. This capacity—the almost instant global access to science products on the open web—is anathema to markets that need to claim ownership and restrict access in order to capture profits from these. Distributed data protocols (e.g., the Interplanetary File System) and other emergent technologies will reduce the cost of hosting science objects to a near zero margin. Open licenses make sharing science knowledge durable and its reuse legal. 
+
+As Cameron Neylon said at the metrics breakout of the Beyond the PDF conference some years ago, _reuse is THE metric_. Reuse reveals and confirms the advantage that open sharing has over current, market-based, practices. Reuse validates the work of the scientist who contributed to the research ecosystem. Reuse captures more of the inherent value of the original discovery and accelerates knowledge growth. Open science is a science knowledge and data reuse accelerator. Its network effects help make reuse available, and, in time, inevitable. However, active, open reuse has not been a part of science culture for most scientists today, and the cultural changes that can help open science realize the goal of widespread reuse is a major challenge we face.    
+ 
+
+
 ### History of Open Science and Open Cultures <a name="Cultures"></a>
 
 Science wants to be Open by default.
@@ -468,7 +487,7 @@ There is so much potential reading material out there that it would take years o
 ### Development Team <a name="Development_team"></a>
 
 - [Gareth O'Neill](https://twitter.com/gtoneill), Language Lubber
-- [Bruce Carron](https://twitter.com/junanaguy), Culture Work Architect
+- [Bruce Caron](https://twitter.com/junanaguy), Culture Work Architect
 - [Jo Havemann](https://twitter.com/Access2Perspectives), #ResearchinAfrica Highlighter
 - [Jon Tennant](https://twitter.com/protohedgehog), Dinosaur Whisperer.
 

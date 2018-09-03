@@ -38,7 +38,7 @@ You are in the middle of a profound global scientific revolution. To innovate in
 
 This module will introduce to you the guiding principles, values, and practices of the 'Open Science movement', some of the barriers to these, and the positive impact that integrating Open Science into your daily research work can have on you. This module is not designed to be a 'one size fits all' approach, but rather a foundational plan that incorporates questions around the varying and dynamic dimensions, interpretations, and goals of Open Science across different communities.
 
-<center><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/02_expectations.png" width="400" /></center>
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/02_expectations.png" width="400" /></p>
 
 <p align="center"><i>Image license: CC0 1.0 Universal <a href="https://twitter.com/hochstenbach" target="_blank">Patrick Hochstenbach</a></i></p>
 
@@ -46,9 +46,15 @@ This module will introduce to you the guiding principles, values, and practices 
 
 ### Who is this module for? <a name="Who_for"></a>
 
-Designed primarily for students and researchers at the graduate and undergraduate level this module can also serve as training material for postdocs and senior researchers. It is a cross-disciplinary module covering all research branches, including Engineering, Medicine, Mathematics, Biosciences, Social Sciences and Humanities, and Arts. 
+Designed primarily for students and researchers at the graduate and undergraduate level this module can also serve as training material for postdocs and senior researchers. It is a cross-disciplinary module covering all research branches, including Engineering, Medicine, Biosciences, Mathematics, Social Sciences, Humanities, and the Arts. 
 
-> "Open science describes the practice of carrying out scientific research in a completely transparent manner, and making the results of that research available to everyone. Isn’t that just ‘science’?!" - Mick Watson [(source)](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Watson%2C%202015.pdf)
+<br/>
+
+> "Open science describes the practice of carrying out scientific research in a completely transparent manner, and making the results of that research available to everyone. Isn’t that just ‘science’?!" 
+
+- Mick Watson [(source)](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Watson%2C%202015.pdf)
+
+<br/>
 
 <center><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/open_science.png" width="800" /></center>
 
@@ -60,7 +66,7 @@ Designed primarily for students and researchers at the graduate and undergraduat
 
 1. Understand the ethical, legal, social, economic, and research impact arguments for and against Open Science.
 
-2. Set up a personal profile for defining your impact: measure the social and academic attention on the full range of research processes and outputs.
+2. Set up a personal profile for defining your impact: Measure the social and academic attention on the full range of your research processes and outputs.
 
 <br/>
 
@@ -68,59 +74,62 @@ Designed primarily for students and researchers at the graduate and undergraduat
 
 > None of us is as smart as all of us. - Kenneth H. Blanchard.
 
-The term 'Open Science' has not yet a universally accepted definition, but usually refers to one core theme: **Increasing knowledge availability as a public good**, typically with critical research aspects such as credibility, reproducibility, and verifiability thrown in in some combination. There are many alternative terms to Open Science too, such as Open Research, Open Scholarship, Science 2.0, eScience, and here. Throughout this MOOC, we consider 'Open Science' to be fully inclusive of all of these terms, and to reflect the process of organised knowledge creation [(Bartling and Friesike, 2014)](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Bartling%20and%20Friesike%2C%202014.pdf).
+The term 'Open Science' has not yet a universally accepted definition, but usually refers to one core theme: **Increasing knowledge availability as a public good**, typically with critical research aspects such as credibility, reproducibility, and verifiability thrown in in some combination. Many other terms are being used synonymously with Open Science, such as Open Research, Open Scholarship, Science 2.0, eScience, and [?]. 
+Throughout this MOOC, we consider 'Open Science' to be fully inclusive of all of these terms, and to reflect the process of organised knowledge creation [(Bartling and Friesike, 2014)](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Bartling%20and%20Friesike%2C%202014.pdf).
+
+<br/>
 
 > [FOSTER](https://www.fosteropenscience.eu/) defines Open Science as: "The movement to make scientific research, data and dissemination accessible to all levels of an inquiring society."
 
 <br/>
 
-Open Science can broadly be viewed as a way of enhancing scientific progress through sharing of knowledge and methods, wider collaboration, and increased rigour. Would we all want this by default as part of our core values and Good Scientific Practices. Research can only thrive if shared and built upon. 
+Open Science can broadly be viewed as a way of enhancing scientific progress through sharing of knowledge and methods, wider collaboration, and increased rigour and is indirectly already postulated as part of our/researchers' collective core values and Good Scientific Practices. Research can only thrive if shared and built upon.
 
-Key goals of the Open Science movement include:
+Therefore, the key goals of the Open Science movement include:
 
-* **Freely available access to all outputs of the research process;**
+* **Freely available access to all outputs of the whole research process;**
 
-* **Increased equity and inclusive participation in research;**
+* **Equity and inclusive participation in research;**
 
-* **Better and more diverse and creative interpretations of scientific results;**
+* **Diverse and creative interpretations of scientific results;**
 
-* **More rigorous, transparent, and responsible evaluation of research processes and outcomes;**
+* **Rigorous, transparent, and responsible evaluation of research processes and outcomes;**
 
-* **Enhanced and collaborative re-use of research outcomes, reducing costs, waste and redundancy;**
+* **Collaborative re-use of research outcomes, reducing costs, waste and redundancy;**
 
-* **More comprehensive research practices incentivised through more diverse reward systems;**
+* **Comprehensive research practices incentivised through more diverse reward systems;**
 
 * **Accelerated research discovery, innovation and public impact;** and
 
-* **Greater reproducibility of research results, enhancing trustability and integrity.**
+* **Increasing reproducibility of research results, enhancing trustability and integrity.**
 
 <br/>
 
 If these things are all true, then we have to ask of ourselves: *Why isn't all publicy-funded science practised this way?*
 
-Often, it seems that Open Science is communicated in a way such that it is an *alternative* to traditional scientific methods. This is not true, and a communication failure on behalf of the community. Open Science is an *enhancement* of the traditional process, using new knowledge, skills, and technologies to how the process and outputs of research are communicated. Traditional 'closed' science is replete with traits that are not beneficial to science, such as secrecy, possessiveness, selfishness, unco-operativeness, and resistance. Open Science is about overcoming these weakness and making research fundamentally better.
+It seems that Open Science is often communicated as an *alternative* to traditional scientific methods. We argue that Open Science is an *enhancement* of the traditional process, using new knowledge, skills, and technologies to how the process and outputs of research are communicated. 
 
-The foundational elements of traditional research communication, peer reviewed research articles, are still a core part of this, acting as an important mechanism to summarise and communicate research.However, what Open Science does is expose the elements that go into making research papers, making them more rigorous and reliable, thereby enhancing trust in the scientific enterprise.
+The foundational elements of traditional research communication, peer reviewed research articles, are acting as an important mechanism to summarise and communicate research. [add here  reference to "new peer review models" and refer to the resp module] Open Science makes research articles more rigorous and reliable, enhancing trust in the scientific community.
 
 > Open Science is subject to the most rigorous peer review because the process never ends. - [(Woelfle et al., 2011)](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Woelfle%20et%20al.%2C%202011.pdf).
 
 <br/>
 
-One of the biggest focuses of the Open Science movement has been the liberation of research papers from behind paywalls to be freely available to anyone. What many people do not realise is that most scientific knowledge is locked away to most people on this planet. 
+Perhaps the most importnat aspect of the Open Science movement is the liberation of research papers from behind paywalls to be freely available to anyone. 
 
 <center><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/OA.jpg" width="800" /></center>
 
-<p align="center"><i>Number of articles (A) and proportion of articles (B) with OA copies, estimated based on a random sample of 100,000 articles with Crossref DOIs. <a href="https://peerj.com/articles/4375/#fig-2" target="_blank">Piwowar et al. (2018)</a></i></p>
+<p align="center"><i>Number of articles (A) and proportion of articles (B) with OA copies, estimated based on a random sample of 100,000 articles with Crossref DOIs. <a href="https://peerj.com/articles/4375/#fig-2" target="_blank">Piwowar et al. (2018)</a></i></p> 
 
 <br/>
 
-However, what we know is that this ideal is often divergent from reality: Research papers remain locked behind expensive paywalls, critical research data remains hidden away on a hard-drive somewhere, methods remain scantly documented, research results cannot be reproduced, and researchers are often evaluated on senseless criteria. These are just some examples of typical practices that contribute to what might be viewed as 'closed science'; or to look at it another way, bad scientific practices. 
+Still today (2018), research papers remain locked behind expensive paywalls and critical research data remains hidden away on hard-drives, methods remain scantly documented, research results cannot be reproduced, and researchers are often evaluated on senseless criteria [refs for all these claims]. These are just some examples of typical practices that contribute to what might be viewed as 'closed science'; or bad (unethical) scientific practices. 
 
-Open Science is about changing these research practices through a shift in culture. The power of modern Web technologies enables instantaneous sharing, global collaboration, and in an unrestricted fashion. This shift in research culture is often referred to as the [**Scholarly Commons**](https://www.force11.org/group/scholarly-commons-working-group), which seeks to explore and redefine what a modern scholarly communication ecosystem should look like. (See also the [Principles of the Commons](https://www.force11.org/scholarly-commons/principles). Accomplishing a cultural shift on a global scale is mainly done through the spread of shared cultural norms and values that are interpreted and celebrated in hundreds of local institutions: in your department, school, laboratory, university, professional association, publishing effort, open software platform developer company, funding agency, etc.. Each of these organizations fits itself into the cultural practices that members decide will work for them to become active in performing the cultural work of open science. Culture change must start from the ground up. Open science principles illuminate this ground.  
+Open Science is about changing these research practices through a cultural/paradigm shift. This shift in research culture is often referred to as the [**Scholarly Commons**](https://www.force11.org/group/scholarly-commons-working-group), which seeks to explore and redefine what a modern scholarly communication ecosystem should look like. (See also the [Principles of the Commons](https://www.force11.org/scholarly-commons/principles). Accomplishing a cultural shift on a global scale is mainly done through the spread of shared cultural norms and values that are interpreted and celebrated in hundreds of local institutions: in your department, school, laboratory, university, professional association, publishing effort, open software platform developer company, funding agency, etc. Each of these organizations fits itself into the cultural practices that members decide will work for them to become active in performing the cultural work of open science. Culture change must start from the ground up. Open science principles illuminate this ground.  
 
-The digital era is transforming the way in research is performed, and the limitations of the print era are gone. With this, new issues arise, which include the complexities of knowledge capture and communication. The framing of these complexities as a 'Commons' integrates the political, social, economic, and philosophical dimensions around knowledge.
+The power of modern web technologies enables instantaneous sharing and global collaboration in an unrestricted fashion. The digital era is transforming the way in which research is performed, and the limitations of the print era are gone. With this, new issues arise which include the complexities of knowledge capture and communication. The framing of these complexities as a 'Commons' integrates the political, social, economic, and philosophical dimensions around knowledge generation and sharing.
 
-However, what Open Science gives us is a new set of standards, tools, principles, and practices to revolutionise the way we perform and disseminate research knowledge. And we are going to need all of this, if we want to help shape our world for the better; for example, through the United Nations Sustainable Development Goals:
+Open Science gives us a new set of standards, tools, principles, and practices to revolutionise the way we perform and disseminate research knowledge. And we are going to need all of this, if we want to help shape our world for the better; e.g. through the United Nations Sustainable Development Goals:
 
 <center><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/UN.png" width="800" /></center>
 
@@ -507,4 +516,4 @@ There is so much potential reading material out there that it would take years o
 
 * [Why Open Research?](http://whyopenresearch.org/) is a fantastic website by Erin McKiernan, providing illustrations and information that help to support a strong case for Open Research.
 
-* The [Foundations for Open Scholaarship Strategy Development](https://open-scholarship-strategy.github.io/site/), a document that aims to agree on a broad, international strategy for the implementation of open scholarship that meets the needs of different national and regional communities but works globally.
+* The [Foundations for Open Scholarship Strategy Development](https://open-scholarship-strategy.github.io/site/), a document that aims to agree on a broad, international strategy for the implementation of open scholarship that meets the needs of different national and regional communities but works globally.

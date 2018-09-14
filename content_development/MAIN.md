@@ -150,7 +150,7 @@ Adding a new bit of research findings or experimental methods to an open reposit
 
 Even as the value of, say, a telephone exchange, increases with each new telephone connection, the addition of a new data set, or a null result paper, or a specific finding, etc., builds numerous interconnections with the rest of the corpus. These interconnections (and their “network effects”) can lead to new knowledge, and they can serve as a mirror and a measure to reveal how each new bit of content solves (or critiques) a specific issue, and also potential problems with the newly added object. Rapid, open review opportunities arise. So too does rapid recognition and opportunities for new collaborations.
 
-A lot of these network effects will take place on the internet at a planetary scale. The interconnections made possible by open science build capacity for the free movement of objects and ideas directly linked back to their authors. This capacity—the almost instant global access to science products on the open web—is anathema to markets that need to claim ownership and restrict access in order to capture profits from these. Distributed data protocols such as the [Interplanetary File System](https://ipfs.io/) and other emergent technologies will reduce the cost of hosting science objects to a near zero margin. Open licenses make sharing science knowledge durable and its reuse legal. 
+A lot of these network effects will take place on the internet at a planetary scale. The interconnections made possible by open science build capacity for the free movement of objects and ideas directly linked back to their authors. This capacity the almost instant global access to science products on the open web is anathema to markets that need to claim ownership and restrict access in order to capture profits from these. Distributed data protocols such as the [Interplanetary File System](https://ipfs.io/) and other emergent technologies will reduce the cost of hosting science objects to a near zero margin. Open licenses make sharing science knowledge durable and its reuse legal. 
 
 As [Cameron Neylon](https://en.wikipedia.org/wiki/Cameron_Neylon) said at the metrics breakout of the _Beyond the PDF_ conference some years ago, _reuse is THE metric_. Reuse reveals and confirms the advantage that open sharing has over current, market-based, practices. Reuse validates the work of the scientist who contributed to the research ecosystem. Reuse captures more of the inherent value of the original discovery and accelerates knowledge growth. Open science is a science knowledge and data reuse accelerator. Its network effects help make reuse available, and, in time, inevitable. However, active, open reuse has not been a part of science culture for most scientists today, and the cultural changes that can help open science realize the goal of widespread reuse is a major challenge we face.    
  
@@ -251,6 +251,8 @@ The production of research knowledge is inherently geopolitical, as emphasised b
 > To see Open Science as a historically produced discourse, we need to first abandon the notion that openness is always inherently positive and/or neutral. We then need to revise and contextualize openness within their particular historical legacies, contexts and and sociopolitical struggles. Denisse Albornoz [(Source)](https://medium.com/@denalbz/power-and-inequality-in-open-science-discourses-9d425b0c2b63).
 
 <br/>
+
+TODO *Add content from here https://zenodo.org/record/1407488#.W5sqPuj7RPZ*
 
 ## The different dimensions of Open Science <a name="dimensions"></a>
 
@@ -480,11 +482,9 @@ There is so much potential reading material out there that it would take years o
 
 * [When will 'open science' become simply 'science'?](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Watson%2C%202015.pdf) (Watson, 2015).
 
-* [How does one "open" science? Questions of value in biological research](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Levin%20and%20Leonelli%2C%202016.pdf) (Levin and Leonelli, 2016).
-
 * [Do you speak open science? Resources and tips to learn the language](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Masuzzo%20and%20Martens%2C%202017.pdf) (Masuzzo and Martens, 2017).
 
-* [Early-career researchers' perceptions of the prevalence of questionable research practices, potential causes, and Open Science](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/St%C3%BCrmer%20et%20al.%2C%202017.pdf) (Stürmer et al., 2017).
+* [Early-career researchers' perceptions of the prevalence of questionable research practices, potential causes, and Open Science](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/St%C3%BCrmer%20et%20al.%2C%202017.pdf) (Starmer et al., 2017).
 
 * [Making Science Transparent By Default; Introducing the TOP Statement](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Aalbersberg%20et%20al.%2C%202018.pdf) (Aalbersberg et al., 2018).
 
@@ -504,7 +504,7 @@ There is so much potential reading material out there that it would take years o
 
 ### Additional tools and services
 
-* The [FOSTER Open Science Training courses](https://www.fosteropenscience.eu/toolkit) are an excellent series for developing your Open Science skills. Each course takes about 1-2 hours to work through and you’ll receive a badge upon completion. The courses include practical tips on getting started with Open Science as well as providing information on discipline specific tools and resources you can use.
+* The [FOSTER Open Science Training courses](https://www.fosteropenscience.eu/toolkit) are an excellent series for developing your Open Science skills. Each course takes about 1-2 hours to work through and you'll receive a badge upon completion. The courses include practical tips on getting started with Open Science as well as providing information on discipline specific tools and resources you can use.
 
 * The [Joint Roadmap for Open Science Tools](http://jrost.org/), a community working link together existing Open Science platforms and services into a unified infrastructure.
 
@@ -514,6 +514,10 @@ There is so much potential reading material out there that it would take years o
 
 * The [Scholarly Communication](https://www.scienceopen.com/search#collection/69988c7e-1855-4007-ba94-caa4c4638b1f) Super Collection at ScienceOpen contains more than 1000 research articles, thematically organised on the topic. Most of these are also Open Access.
 
-* [Why Open Research?](http://whyopenresearch.org/) is a fantastic website by Erin McKiernan, providing illustrations and information that help to support a strong case for Open Research.
+* [Why Open Research?](http://whyopenresearch.org/) is a fantastic website by [Erin McKiernan](https://twitter.com/emckiernan13), providing illustrations and information that help to support a strong case for Open Research.
 
 * The [Foundations for Open Scholarship Strategy Development](https://open-scholarship-strategy.github.io/site/), a document that aims to agree on a broad, international strategy for the implementation of open scholarship that meets the needs of different national and regional communities but works globally.
+
+* [Open Science: Sharing Your Research with the World](https://www.edx.org/course/open-science-sharing-your-research-with-the-world) - A MOOC hosted by TU Delft through edX.
+
+* This [incredible visualisation](http://www.markhooper.io/openscience/#-1:0100000000) of the Open Science landscape by Mark Hooper. Mark was also the one who designed the original logos for our MOOC! 

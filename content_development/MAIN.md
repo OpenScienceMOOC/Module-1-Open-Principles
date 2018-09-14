@@ -492,6 +492,8 @@ There is so much potential reading material out there that it would take years o
 
 * [Open Science is liberating and can foster creativity](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Frankenhuis%20and%20Nettle%2C%202018.pdf) (Frankenhuis and Nettle, 2018).
 
+* [Digital open science-Teaching digital tools for reproducible and transparent research](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Toelch%20and%20Oswald%2C%202018.pdf) (Toelch and Oswald, 2018).
+
 <br/>
 
 ### Development Team <a name="Development_team"></a>

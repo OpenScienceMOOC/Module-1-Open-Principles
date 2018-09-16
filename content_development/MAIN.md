@@ -1,6 +1,8 @@
 # Module 1: Open Principles
 
-*Estimated time to complete: xx minutes*
+*Estimated time to complete: 60 minutes*
+
+*Estimated saving time: xxx*
 
 ## Table of Contents
 
@@ -26,17 +28,28 @@
 - [Where to go from here](#future)
 - [Development Team](#Development_team)
 
+
+> *BEFORE YOU START*
+
+> Science is everyhwere, science is all around us. This is your last chance. After this there is no turning back. You take the [blue pill](link to Elsevier OS website), the story ends, you wake up in your bed, and believe whatever you want to believe. You take the [red pill](#Introduction), you stay in Wonderland, and we show you how deep the rabbit hole goes. 
+
 *THIS MODULE IS VERY MUCH IN PREP*
 
-Did you know that the Internet and the World Wide Web were both originally designed for research purposes? Researchers wanted a fast, easy, and low-cost way for sharing data with each other, and hence the Internet was born. Now, the Internet dominates almost all aspects of our daily lives, and has deviated from this original purpose. Yet, from this, science seems to have gone backwards compared to every other enterprise - Open Science is the movement to bring modern research into line with this original digital intent.
+Did you know that the Internet and the World Wide Web were both originally designed for research purposes? Scientists wanted a fast, easy, and low-cost way for sharing data with each other, and hence the Internet was born. Now, the Internet dominates almost all aspects of our daily lives, and has deviated from this original purpose. Yet, from this, science seems to have gone backwards compared to every other enterprise - Open Science is the movement to bring modern research into line with this original digital intent.
+
+You have probably landed here becase you have a nagging feeling that something about the way modern science is conducted and shared is not quite right. This module will hopefully shed some light on those feelings, and help you to understand the state of the present system, and its discord within intrinsic human and scientific values and principles. This is the start of your own journey to become an **awesome* researcher and a champion in your field.
+
+<br/>
+
+[INSERT INTRODUCtoRY VIDEO HERE]
 
 ## Introduction <a name="Introduction"></a>
 
 Welcome to Module 1 of the Open Science MOOC: Open Principles. This is the first of 10 core modules to give you a solid grounding in all things Open Science. This module has been developed [in the open](https://github.com/OpenScienceMOOC/Module-1-Open-Principles) through collaboration by an international team of [Open Science wizards](#Development_team).
 
-You are in the middle of a profound global scientific revolution. To innovate in a field frequently implies moving against prevailing trends, structures, and cultural inertia. **Open Science** is no different. The fact that *you* are here, reading this now, means that you have an interest in the impact that Open Science can have on improving research cultures.
+You, yes you, are in the middle of a profound global scientific revolution. To innovate in a field frequently implies moving against prevailing trends, structures, and cultural inertia. **Open Science** is no different. The fact that *you* are here, reading this now, means that you have an interest in the impact that Open Science can have on improving research cultures, and have noticed that something is not quite right about the "status quo" in modern research.
 
-This module will introduce to you the guiding principles, values, and practices of the 'Open Science movement', some of the barriers to these, and the positive impact that integrating Open Science into your daily research work can have on you. This module is not designed to be a 'one size fits all' approach, but rather a foundational plan that incorporates questions around the varying and dynamic dimensions, interpretations, and goals of Open Science across different communities.
+This module will introduce to you the guiding principles, values, and practices of 'Open Science', some of the barriers to these, and the positive impact that integrating openness into your daily research work can have on you. This module is not designed to be a 'one size fits all' approach, but rather a foundational plan that incorporates questions around the varying and dynamic dimensions, interpretations, and goals of Open Science across different communities.
 
 <p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/02_expectations.png" width="400" /></p>
 
@@ -46,13 +59,15 @@ This module will introduce to you the guiding principles, values, and practices 
 
 ### Who is this module for? <a name="Who_for"></a>
 
-Designed primarily for students and researchers at the graduate and undergraduate level this module can also serve as training material for postdocs and senior researchers. It is a cross-disciplinary module covering all research branches, including Engineering, Medicine, Biosciences, Mathematics, Social Sciences, Humanities, and the Arts. 
+Designed primarily for students and researchers at the graduate and undergraduate level this module can also serve as training material for postdocs and more senior researchers. It is a cross-disciplinary module covering all research branches, including Engineering, Medicine, Biosciences, Mathematics, Social Sciences, Humanities, and the Arts.
+
+Right from the beginning, we have recognised that 'science' can be off-putting to research fields that don't consider themselves to be 'scientific'. This is why we have set a highly inclusive standard, and right from the very beginning of this project have had people from across the *whole* spectrum of scholarly research, and related disciplines like tech, publishing, and librarianship, involved in developing and scoping the project.
+
+The point is, irrespective of your background, you are very much welcome here.
 
 <br/>
 
-> "Open science describes the practice of carrying out scientific research in a completely transparent manner, and making the results of that research available to everyone. Isn’t that just ‘science’?!" 
-
-- Mick Watson [(source)](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Watson%2C%202015.pdf)
+> "Open science describes the practice of carrying out scientific research in a completely transparent manner, and making the results of that research available to everyone. Isn't that just 'science'?!" - Mick Watson [(source)](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Watson%2C%202015.pdf)
 
 <br/>
 
@@ -74,8 +89,9 @@ Designed primarily for students and researchers at the graduate and undergraduat
 
 > None of us is as smart as all of us. - Kenneth H. Blanchard.
 
-The term 'Open Science' has not yet a universally accepted definition, but usually refers to one core theme: **Increasing knowledge availability as a public good**, typically with critical research aspects such as credibility, reproducibility, and verifiability thrown in in some combination. Many other terms are being used synonymously with Open Science, such as Open Research, Open Scholarship, Science 2.0, eScience, and [?]. 
-Throughout this MOOC, we consider 'Open Science' to be fully inclusive of all of these terms, and to reflect the process of organised knowledge creation [(Bartling and Friesike, 2014)](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Bartling%20and%20Friesike%2C%202014.pdf).
+The term 'Open Science' has not yet a universally accepted definition, but usually refers to one core theme: **Increasing knowledge availability as a public good**, typically with critical research principles such as credibility, reproducibility, and verifiability thrown in in some combination. Many other terms are being used synonymously with Open Science, such as Open Research, Open Scholarship, Science 2.0, and eScience. 
+
+Throughout this MOOC, we consider 'Open Science' to be fully inclusive of all of these terms, all scholarly research disciplines, and to reflect the wider process of organised knowledge creation [(Bartling and Friesike, 2014)](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Bartling%20and%20Friesike%2C%202014.pdf).
 
 <br/>
 
@@ -85,7 +101,7 @@ Throughout this MOOC, we consider 'Open Science' to be fully inclusive of all of
 
 Open Science can broadly be viewed as a way of enhancing scientific progress through sharing of knowledge and methods, wider collaboration, and increased rigour and is indirectly already postulated as part of our/researchers' collective core values and Good Scientific Practices. Research can only thrive if shared and built upon.
 
-Therefore, the key goals of the Open Science movement include:
+Therefore, some of the key, value-based goals of the Open Science communiy include:
 
 * **Freely available access to all outputs of the whole research process;**
 
@@ -107,15 +123,19 @@ Therefore, the key goals of the Open Science movement include:
 
 If these things are all true, then we have to ask of ourselves: *Why isn't all publicy-funded science practised this way?*
 
-It seems that Open Science is often communicated as an *alternative* to traditional scientific methods. We argue that Open Science is an *enhancement* of the traditional process, using new knowledge, skills, and technologies to how the process and outputs of research are communicated. 
+It seems that Open Science is often communicated as an *alternative* to modern or traditional scientific methods. We argue that Open Science is an *enhancement* of the traditional process, using new knowledge, skills, and technologies to how the process and outputs of research are communicated. It is based on fundamental human values around **inclusivity**, **freedom**, and **equity**, embedded as foundational elements to the research process, rather than as an afterthought. These human values are what distinguish 'Open' science from much of the way modern research is viewed and practised.
 
-The foundational elements of traditional research communication, peer reviewed research articles, are acting as an important mechanism to summarise and communicate research. [add here  reference to "new peer review models" and refer to the resp module] Open Science makes research articles more rigorous and reliable, enhancing trust in the scientific community.
+These foundational elements of traditional research communication, peer reviewed research articles, are acting as an important mechanism to summarise and communicate research. [add here  reference to "new peer review models" and refer to the resp module] 
+
+Open Science helps to mke research articles more rigorous, verifiable and reliable. This helps to enhance public trust in the scientific community and endeavour. In modern society, this has never been more important.
 
 > Open Science is subject to the most rigorous peer review because the process never ends. - [(Woelfle et al., 2011)](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Woelfle%20et%20al.%2C%202011.pdf).
 
 <br/>
 
-Perhaps the most importnat aspect of the Open Science movement is the liberation of research papers from behind paywalls to be freely available to anyone. 
+Perhaps one of the most importants aspect of the Open Science movement in recent years has been the drive behind the liberation of research papers from behind paywalls to be freely available to anyone. This has largely been based on the principle that humans deserve to have access to scientific knowledge, and benefit from that.
+
+[insert act 27 of the UN declaration on human rights here]
 
 <center><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/OA.jpg" width="800" /></center>
 

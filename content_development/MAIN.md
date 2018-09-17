@@ -28,6 +28,8 @@
 - [Where to go from here](#future)
 - [Development Team](#Development_team)
 
+[IDEA: ONCE TEXT IS COMPLETE; CREATE AUDIO RECORDING FOR ALL OF THIS FOR EACH MODULE, and release as a podcast]
+
 
 > *BEFORE YOU START*
 
@@ -145,7 +147,11 @@ Perhaps one of the most importants aspect of the Open Science movement in recent
 
 Still today (2018), research papers remain locked behind expensive paywalls and critical research data remains hidden away on hard-drives, methods remain scantly documented, research results cannot be reproduced, and researchers are often evaluated on senseless criteria [refs for all these claims]. These are just some examples of typical practices that contribute to what might be viewed as 'closed science'; or bad (unethical) scientific practices. 
 
-Open Science is about changing these research practices through a cultural/paradigm shift. This shift in research culture is often referred to as the [**Scholarly Commons**](https://www.force11.org/group/scholarly-commons-working-group), which seeks to explore and redefine what a modern scholarly communication ecosystem should look like. (See also the [Principles of the Commons](https://www.force11.org/scholarly-commons/principles). Accomplishing a cultural shift on a global scale is mainly done through the spread of shared cultural norms and values that are interpreted and celebrated in hundreds of local institutions: in your department, school, laboratory, university, professional association, publishing effort, open software platform developer company, funding agency, etc. Each of these organizations fits itself into the cultural practices that members decide will work for them to become active in performing the cultural work of open science. Culture change must start from the ground up. Open science principles illuminate this ground.  
+Open Science is about changing these research practices through a cultural/paradigm shift. This shift in research culture is often referred to as the [**Scholarly Commons**](https://www.force11.org/group/scholarly-commons-working-group), which seeks to explore and redefine what a modern scholarly communication ecosystem should look like. (See also the [Principles of the Scholarly Commons](https://www.force11.org/scholarly-commons/principles). 
+
+[Create infographic for scholarly commons]
+
+Accomplishing a cultural shift on a global scale is mainly done through the spread of shared cultural norms and values that are interpreted and celebrated in hundreds of local institutions: in your department, school, laboratory, university, professional association, publishing effort, open software platform developer company, funding agency, etc. Each of these organizations fits itself into the cultural practices that members decide will work for them to become active in performing the cultural work of open science. Culture change must start from the ground up. Open science principles illuminate this ground.  
 
 The power of modern web technologies enables instantaneous sharing and global collaboration in an unrestricted fashion. The digital era is transforming the way in which research is performed, and the limitations of the print era are gone. With this, new issues arise which include the complexities of knowledge capture and communication. The framing of these complexities as a 'Commons' integrates the political, social, economic, and philosophical dimensions around knowledge generation and sharing.
 
@@ -210,6 +216,7 @@ Open Science really hit the mainstream around 2016 due to a number of possible r
 For example, there has been a strong focus on Open Science in the last few years in Europe, with one of the biggest developments coming from this being the [European Open Science Cloud](http://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud) (EOSC).
 
 [Give examples of more countries' OS activities here - NOT JUST EUROPE]
+[Include recent developments from Africa and Indonesia]
 
 
 ### Differences in understanding and interpretation <a name="interpretation"></a>

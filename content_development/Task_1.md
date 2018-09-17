@@ -50,3 +50,6 @@ Now, all you have to do is share it. If you use Facebook, Twitter, LinkedIn, Goo
 
 **CONGRATULATIONS!** 
 
+**Know a way this content can be improved?**
+
+Time to take your new GitHub skills for a test-run! All content development primarily happens [here](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/Task_1.md). If you have a suggested improvement to the content, layout, or anything else, you can make it and then it will automatically become part of the MOOC content after verification from a moderator! 

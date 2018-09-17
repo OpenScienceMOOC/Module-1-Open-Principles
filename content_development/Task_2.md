@@ -37,3 +37,9 @@ The latter two of these actually integrate nicely with ORCID and pull in all the
 
 **CONGRATULATIONS!** 
 
+
+
+**Know a way this content can be improved?**
+
+Time to take your new GitHub skills for a test-run! All content development primarily happens [here](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/Task_2.md). If you have a suggested improvement to the content, layout, or anything else, you can make it and then it will automatically become part of the MOOC content after verification from a moderator! 
+

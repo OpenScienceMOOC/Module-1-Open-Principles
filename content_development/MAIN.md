@@ -434,7 +434,9 @@ Before you start, please be aware that Publons got acquired by the analytics com
 
 ## Barriers and limitations for Open Science <a name="barriers"></a>
 
-Despite the more or less obvious benefits of Open Science practice (as discussed above), there are a range of reasonable concerns and therefore necessary limitations and exceptions to be identified, discussed and implemented in a highly discipline-specific manner. These include and are not limited to:
+Despite the more or less obvious benefits of Open Science practice (as discussed above), there are a range of reasonable concerns and therefore necessary limitations and exceptions to be identified, discussed and implemented in a highly discipline-specific manner. It would be utterly foolish of us to rampantyl support Open Science without paying due consideration to these.
+
+Such concerns include and are not limited to:
 
 * Release of personal data of and information about individuals;
 
@@ -480,6 +482,8 @@ However, as well as these, there are several worrying and ongoing trends that re
 
 Based on this, it is interesting to ask why such dangerous trends seem to grow from seemingly good intentions based on positive core principles and values. It might be easy, based on the above, to become extremely pessimistic, or even antagonistic, towards Open Science. However, as with any movement or new way of doing things, it is down to each of us to carefully balance the potential drawbacks and benefits, and the wider consequences and contexts of these.
 
+<br/>
+
 ### Moving away from tradition and the status quo <a name="tradition"></a>
 
 While the core principles underlying Open Science are often focussed around accessibility, in practice there is often a trade-off within this hierarchy, and often with unforeseen consequences. Much of this is not due to the intentions of Open Science, but more about the difficulties in reconciling the different stakeholder viewpoints, which often leads to inherent conflict and complications around developments.
@@ -489,6 +493,8 @@ While the core principles underlying Open Science are often focussed around acce
 It is perfectly natural for researchers and industries that have made themselves successful or profitable based on a particular set of practices to resist any disruption towards that. Let us take two primary examples for this.
 
 1. Moving research evaluation away from journal brands and the impact factor.
+
+[ADD REF TO SPRINGER NATURE IPO?]
 
 2. Moving away from a subscription model to one where all information is freely available.
 
@@ -500,9 +506,15 @@ It is perfectly natural for researchers and industries that have made themselves
 
 There is an enormous overlap between Open Science and reproducible research. Now, traditionally, much of the research process, as well as the outputs, remain hidden or closed from public scrutiny. Open Science attempts to expose some of this process; for example, by recording and documenting 'failed' reactions, highlighting repeated experiments and their variants, and revealing thoughts, ideas, and comments that were part of the process but wouldn't make into a final research paper. 
 
+It might help to imagine Open Science practices as having a magnifying glass or webcam pointing at your research all the time. This helps to 'expose' the process, increase care, and lead to a well-documented process that others can copy and replicate if needed. This is an inherently social process, but comes with an important consideration:
+
+**Research is not a perfect process.**
+
+This might be difficult to accept for many of us, as typically the research we read about in papers or in the media is just the 'positive' aspects, with all of the gritty bits hidden from public view. We all know that research is imperfect, and we should learn to embrace and communicate failure as an inherent part of that process.
+
 All of these elements can be documented as part of a 'lab notebook', and comes with an important implication: **The aspects of research that did not produce favourable results are just as important as those which do.** 
 
-Here, the intersection of reproducibility and Open Science becomes centred around one thing: **Freedom and Liberation**. As [Frankenhuis and Nettle, (2018)](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Frankenhuis%20and%20Nettle%2C%202018.pdf) describe, the practices of Open Science are liberating to individuals because they:
+Here, the intersection of reproducibility and Open Science becomes centred around one a core value we discussed before: **Freedom and Liberation**. As [Frankenhuis and Nettle, (2018)](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Frankenhuis%20and%20Nettle%2C%202018.pdf) describe, the practices of Open Science are liberating to individuals because they:
 
 1. Enable transparent and comfortable exploration of data;
 
@@ -516,19 +528,25 @@ Here, the intersection of reproducibility and Open Science becomes centred aroun
 
 6. Generates more accurate information that is ultimately more accessible.
 
-<br/>
+Therefore, one could easily argue that Open Science is aligned with concepts of **academic freedom**, by liberating individuals from the constraints of the closed system.
 
-Therefore, one could easily argue that Open Science is aligned with concepts of academic freedom, by liberating individuals from the constraints of the closed system.
+[NEED TO EXPAND ON THIS]
+
+<br/>
 
 ## Making Open Science part of your daily research workflow <a name="workflow"></a>
 
-As you might now see, Open Science impacts almost every aspect of the typical research workflow. There are a number of tools, services, platforms, and practices for you to engage with, and this will likely differ for each individual, lab group, or community.
+As you might now see, Open Science impacts almost every aspect of your typical research workflow. We all think, we all gather data and analyse it, and we usually want to share the results of this with virtually anyone who will listen and re-use it. There are a number of tools, services, platforms, and practices for you to engage with, and this will likely differ for each individual, lab group, or community.
 
 There are no set rules though. Open Science gives you the freedom to explore processes that work best for you, your research, and the impact that can have on your wider community. Below is just one combination of examples of tools that can make your research workflow more open all the way from an initial grant proposal through to research assessment.
 
 ![Rainbow of Open Science Practices](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/rainbow-of-open-science-practices.png)
 
 <p align="center"><i>Kramer, Bianca, & Bosman, Jeroen. (2018, January). Rainbow of Open Science practices. Zenodo. <a href="http://doi.org/10.5281/zenodo.1147025" target="_blank">http://doi.org/10.5281/zenodo.1147025</a></i></p>
+
+<br/>
+
+Throughout the rest of this MOOC, you will meet many of these on your Open Science adventure, and tailor new knowledge and skills to suit what is best for you.
 
 <br/>
 
@@ -541,19 +559,19 @@ Hopefully now you have come to see the importance of Open Scientific principles,
 
 <p align="center"><i>Intersections of Openness: Open Access, Science, & Education. By Abby Elder, CC BY 4.0 International License. <a href="https://www.youtube.com/watch?v=Es7qvO_2kSg" target="_blank">Source</a></i></p>
 
-The **learning outcomes** from this should be:
+The **learning outcomes** from this for you should be:
 
-* You will now be able to describe the ethical, legal, social, cultural, economic, and research impact arguments for and against Open Science.
+* You will now be able to describe some of the ethical, social, cultural, and research impact arguments for and against Open Science.
 
 * After deciding which platforms/tools/services are most useful for yourself and your community, you will be able to develop a personal profile for showcasing their research profile and outputs.
 
-* After reflecting on the status of Open Science within their research group or lab, you will help to devise concrete ways to locally improve open practices.
+* After reflecting on the status of Open Science within your research group or lab, you will help to devise concrete ways to locally improve open practices.
 
-* Using the guidelines published by their research laboratories, departments, or institutes, you will be able to help identify the policies for career progression and assessment, publishing and open access, data sharing, and intellectual property.
+* Using the guidelines published by your research laboratories, departments, or institutes, you will be able to help identify the practices and policies for career progression and assessment, publishing and Open Access, and data sharing.
 
 * You will be able to further collaborate with colleagues and international peers to develop a shared definition of Open Science.
 
-From these, what you will hopefully now have are the foundational best practices and knowledge needed to engage in Open Science. Some small, tangible steps you can take to make a real difference here include:
+From these, what you will hopefully now have are the foundational best practices and knowledge needed to engage in Open Science. Some small, tangible steps you can take from here to make a real difference here include:
 
 1. Whenever possible, use and cite existing public data;
 
@@ -567,21 +585,23 @@ From these, what you will hopefully now have are the foundational best practices
 
 6. If you can, choose an Open Access journal to publish your research articles.
 
-These are adapted from [(Masuzzo and Martens, 2017)](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Masuzzo%20and%20Martens%2C%202017.pdf), and just scratch the surface of the full power of Open Science. To learn more, visit the remaining 9 modules! This is the perfect chance for individuals, such as yourself, to take action and seize the initiative to become a champion in your research field.
+These are adapted from [(Masuzzo and Martens, 2017)](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Masuzzo%20and%20Martens%2C%202017.pdf), and just scratch the surface of the full power of Open Science. 
+
+To learn more, visit the remaining 9 modules! This is the perfect chance for individuals, such as yourself, to take action and seize the initiative to become a champion in your research field.
 
 > Open Science is the future, and it will replace closed science. I encourage you to embrace it. - [Mick Watson]((https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Watson%2C%202015.pdf)).
 
+<br/>
+
 ### Further reading <a name="Reading"></a>
 
-There is so much potential reading material out there that it would take years of continuous reading to get through it all. Here are some select favourite selected research articles on the topic that help to go into things a little deeper. All of them are free to access and re-use, of course! 
+There is so much potential material out there that it would take years of continuous reading to get through it all. Here are some favourite selected research articles on the topic that help to go into things a little deeper, and provide great overviews of much of what we have discussed here. All of them are free to access and re-use, of course!
 
 * [Open Science is a research accelerator](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Woelfle%20et%20al.%2C%202011.pdf) (Woelfle et al., 2011).
 
 * [Open Science: The Evolving Guide on How the Internet is Changing Research, Collaboration and Scholarly Publishing](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Bartling%20and%20Friesike%2C%202014.pdf) (Bartling and Friesike, 2014).
 
 * [Open Science: one term, five schools of thought](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Fecher%20and%20Friesike%2C%202014.pdf) (Fecher and Friesike, 2014).
-
-* [From Open Science to Open Innovation](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Chesborough%2C%202015.pdf) (Chesborough, 2015).
 
 * [Winning Research Grants with Open Science](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Grigorov%20et%20al.%2C%202015.pdf) (Grigorov et al., 2015).
 
@@ -612,6 +632,7 @@ There is so much potential reading material out there that it would take years o
 - [Jo Havemann](https://twitter.com/Access2Perspectives), #ResearchinAfrica Highlighter
 - [Jon Tennant](https://twitter.com/protohedgehog), Dinosaur Whisperer.
 
+<br/>
 
 ### Additional tools and services
 
@@ -631,4 +652,8 @@ There is so much potential reading material out there that it would take years o
 
 * [Open Science: Sharing Your Research with the World](https://www.edx.org/course/open-science-sharing-your-research-with-the-world) - A MOOC hosted by TU Delft through edX.
 
-* This [incredible visualisation](http://www.markhooper.io/openscience/#-1:0100000000) of the Open Science landscape by Mark Hooper. Mark was also the one who designed the original logos for our MOOC! 
+* This [incredible visualisation](http://www.markhooper.io/openscience/#-1:0100000000) of the Open Science landscape by Mark Hooper. Mark was also the one who designed the original logos for our MOOC!
+
+**Know a way this content can be improved?**
+
+Time to take your new GitHub skills for a test-run! All content development primarily happens [here](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/MAIN.md). If you have a suggested improvement to the content, layout, or anything else, you can make it and then it will automatically become part of the MOOC content after verification from a moderator! 

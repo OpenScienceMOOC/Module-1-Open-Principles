@@ -12,7 +12,12 @@ Estimated time to complete:  minutes.
 ## Table of contents
 
 * [Getting started](#Getting_started)
-
+* [Getting your ORCID](#)
+  * [](#)
+* [Create your own Impact Story](#)
+  * [](#)
+* [Build your peer revieweer profile with Publons](#)
+  * [](#)
 
 
 <br/>
@@ -35,7 +40,7 @@ The latter two of these actually integrate nicely with ORCID and pull in all the
 
 <br/>
 
-[NOTE: SHOULD WE ADD THE OSF HERE TOO?]
+[NOTE: SHOULD WE ADD THE OSF AS A BONUS STEP HERE TOO?]
 
 
 ## Checklist <a name="Checklist"></a>

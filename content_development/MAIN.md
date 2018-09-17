@@ -26,7 +26,7 @@ output:
   - [Changes in research evaluation](#evaluation)
   - [Potential impact on your career](#career)
   - [Creating your digital profile; **TASK 2**](#profile)
-- [Barriers to Open Science](#barriers)
+- [Barriers and limitations in Open Science](#barriers)
   - [Moving away from tradition and the status quo](#tradition)
 - [Open Science and reproducible research](#reproducible)
 - [Making Open Science part of your daily research workflow](#workflow)
@@ -213,24 +213,6 @@ Open Science is a research knowledge and data reuse accelerator. Its network eff
 [where does the quote end? Reference?]
 
 Of note here is that much of what we are discussing here has only recently become possible due to the rapid advances in Web-based technologies. This does not therefore mean that much historical research was not 'Open Science', as the opportunities simply were not available to researchers then.
-
-<br/>
-
-### Limitations of Open Science <a name="Limitations"></a>
-
-Despite the more or less obvious benefits of Open Science practice (as discussed above), there are a range of reasonable concerns and therefore necessary limitations and exceptions to be identified, discussed and implemented in a highly discipline-specific manner. These include and are not limited to:
-
-* Release of personal data of and information about individuals;
-
-* Publishing of any sensitive information (for example, bioengineering and medical information);
-
-* Geomapping data of endangered species (flora & fauna);
-
-* ADD MORE HERE
-
-Another important aspect to note (as has always been) is that each openly released dataset requires a clear description of the context in which the data was raised (i.e., metadata), so that researchers who make use of the freely accessible data apply it in a meaningful analysis and reasonably transferred context.
-
-[refer to the Open Scholarship Strategy here, which discusses more limitations]
 
 <br/>
 
@@ -432,20 +414,41 @@ Having Open Science as a core value in research departments sends a strong messa
 
 Alright, enough talk. Or text, anyway. Let's help you build your personal, digital persona that embraces openness. Thankfully, you don't have to start from scratch here, and some smart folks have done a lot of the groundwork for you.
 
-There now exist a range of cool tools that can help you to document your 'open' research practices, and build this in to your own digital researcher profile. 
+There now exist a range of cool tools that can help you to document your 'open' research practices, and build this in to your own digital researcher profile. Here are some of the most important ones, and then a nice practical task to help you set them up for yourself!
 
+* **ORCID** - This stands for "ERRR, add this in here. Something something ID.." ORCID gives you a persistent identifier for you and your research, and is a breeze to integrate with your entire publication record.
 
-* ORCID
-* Publons - note Clarivate caveat (integrate with ORCID) - make this optional
-* ImpactStory (integrate with ORCID)
+* **ImpactStory** - Here, imagine all of the attention your research has received online brought to you in one place, linked with your ORCID profile, and displayed with cool badges and summaries? ImpactStory cleverly does this, and tells you your, er, impact story! 
+
+* **Publons** - Don't you just hate it when you do a peer review, and then pretty much no one knows anything about it? Don't you want credit for all your hard work? Publons gives you a place to do that! 
+
+[note Clarivate caveat (integrate with ORCID) - make this optional]
+
+OK, let's go to Task 2 and get you set up with these.
+
+Before you start, please be aware that Publons got acquired by the analytics company Clarivate recently. While such acquisitions are fairly commonplace in this ecosystem, we want to make you aware that if you sign up to this organisation, while it does provide a value to you, it also uses you as the product which it uses to sell services. We recognise that some of you might be uncomfortable with this (think Facebook for peer review), and therefore this stage is totally optional based on your own values here.
 
 [**GO TO TASK 2: Developing your digital researcher profile**]
 
-
 <br/>
 
+## Barriers and limitations for Open Science <a name="barriers"></a>
 
-## Barriers to Open Science <a name="barriers"></a>
+Despite the more or less obvious benefits of Open Science practice (as discussed above), there are a range of reasonable concerns and therefore necessary limitations and exceptions to be identified, discussed and implemented in a highly discipline-specific manner. These include and are not limited to:
+
+* Release of personal data of and information about individuals;
+
+* Publishing of any sensitive information (for example, bioengineering and medical information);
+
+* Geomapping data of endangered species (flora & fauna);
+
+* ADD MORE HERE
+
+Another important aspect to note (as has always been) is that each openly released dataset requires a clear description of the context in which the data was raised (i.e., metadata), so that researchers who make use of the freely accessible data apply it in a meaningful analysis and reasonably transferred context.
+
+[refer to the Open Scholarship Strategy here, which discusses more limitations]
+
+<br/>
 
 Open Science reflects the intentions of the researchers themselves, and is thereby subject to cultural bias. Open Science is not a perfect system by any means, and operates a hierarchy between different barriers. For example, Open Access seeks to remove barriers such as price for readers and re-use permissions, but often fails to address barriers such as connectivity or language, and also in cases erect new barriers, such as author-facing costs.
 

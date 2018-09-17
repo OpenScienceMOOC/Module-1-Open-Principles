@@ -408,9 +408,15 @@ The world of research evaluation is slowly changing. The way in researchers and 
 
 While there is generally little empirical evidence, it is generally accepted that research evaluation is almost entirely contingent on getting research articles published in 'high impact' journal venues. Strangely, very little emprical evidence exists to demonstrate that this view is actually embedded in practice. [ADD INFO FROM JUAN HERE]
 
-One consequence of this, is that other elements of the research process, are seen as less important. This includes Open Science, which can be viewed as risky or detrimental to the career choices of an individual research, and in particular those who are already disadvantaged/marginalised, or at an earlier stage in their career.
+One consequence of this, is that other elements of the research process, are often seen as less important. This includes Open Science, which can be viewed as risky or detrimental to the career choices of an individual research, and in particular those who are already disadvantaged/marginalised, or at an earlier stage in their career. 
 
-Perhaps a much bigger consequence of this, however, is that we essentially have a system where researchers are rewarded for how many papers they publish, and the brands associated with the venue of publication, which can be detrimental to the value of shared knowledge.
+This makes total sense. Researchers, belive it or not, are human. Thus, they are driven by inherent human desires to do things like pay their rent, eat food, pay bills, and provide for their families. In order to do this, they have to keep their jobs. Usually, this means conforming to how they believe they will be assessed, and any external pressures to this are seen as a risk to their livelihoods. This is why, as we discussed above, presenting 'Open Science' as divergent from traditional research processes, as opposed to being enhanced or more beneficial ways of doing things, can actually be inadvertently damaging.
+
+Perhaps a much bigger consequence of this, however, is that we essentially have a system where researchers are rewarded for how many papers they publish, and the brands associated with the venue of publication, which can be detrimental to the value of shared knowledge. [ADD INFO FROM BREMBS HERE]
+
+<br/>
+
+### Potential impact on your career <a name="career"></a>
 
 Things are changing, though. It is becoming more widely realised that these publication-based incentives are detrimental to the research process, and the health of research culture. For example, this comes from an [advertisement for a professorship at the Ludwig Maximillian University](http://www.nicebread.de/open-science-hiring-practices/), Munich, and is the first time that Open Science was made an explicit part of hiring criteria:
 
@@ -420,12 +426,13 @@ Having Open Science as a core value in research departments sends a strong messa
 
 [Mention stuff from the EC here]
 [Also EURODOC statements]
-
-### Potential impact on your career <a name="career"></a>
-
-
+[ADD INFO FROM ASAPBIO]
 
 ### Creating your digital profile <a name="profile"></a>
+
+Alright, enough talk. Or text, anyway. Let's help you build your personal, digital persona that embraces openness. Thankfully, you don't have to start from scratch here, and some smart folks have done a lot of the groundwork for you.
+
+There now exist a range of cool tools that can help you to document your 'open' research practices, and build this in to your own digital researcher profile. 
 
 
 * ORCID

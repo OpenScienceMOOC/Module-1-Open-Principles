@@ -422,8 +422,6 @@ There now exist a range of cool tools that can help you to document your 'open' 
 
 * **Publons** - Don't you just hate it when you do a peer review, and then pretty much no one knows anything about it? Don't you want credit for all your hard work? Publons gives you a place to do that! 
 
-[note Clarivate caveat (integrate with ORCID) - make this optional]
-
 OK, let's go to Task 2 and get you set up with these.
 
 Before you start, please be aware that Publons got acquired by the analytics company Clarivate recently. While such acquisitions are fairly commonplace in this ecosystem, we want to make you aware that if you sign up to this organisation, while it does provide a value to you, it also uses you as the product which it uses to sell services. We recognise that some of you might be uncomfortable with this (think Facebook for peer review), and therefore this stage is totally optional based on your own values here.

@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # Task 2: Developing your digital researcher profile
 
 This task is designed for .
@@ -30,6 +35,7 @@ The latter two of these actually integrate nicely with ORCID and pull in all the
 
 <br/>
 
+[NOTE: SHOULD WE ADD THE OSF HERE TOO?]
 
 
 ## Checklist <a name="Checklist"></a>

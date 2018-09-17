@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # Task 1: Defining how Open Science affects you
 
 This task is designed for, well, everyone!
@@ -8,6 +13,8 @@ Estimated time to complete: 30-60 minutes.
 
 * [Getting started](#Getting_started)
 * [Learning how to use markdown](#markdown)
+
+* [BONUS STEP](#bonus)
 
 
 ## Getting started <a name="Getting_started"></a>
@@ -22,6 +29,7 @@ Throughout these tasks, we will help you to directly create and edit content tha
 
 Scholarly researchers represent the highest density of Imposter Syndrome that has ever been known to exist in the history of anything, ever. [ADD SOME DUBIOUS LINK/CITATION HERE]
 
+<br/>
 
 ### Learning how to  use markdown<a name="markdown"></a>
 
@@ -30,11 +38,11 @@ A lot of people think RStudio is just for writing complex scripts for statistica
 
 [insert tumbleweed gif]
 
-
+Markdown is really a simple formatting style that gives you full control over the format of text. If you're used to using something like Microsoft Word, it's kind of similar and gives you the same control over simple things like header style and text format. But in a way that is readable by....
 
 [INSERT SOME BASIC MARKDOWN SYNTAX HERE]
 
-
+<br/>
 
 
 * Write a summary about Open Access efforts either on your research discipline and/or in your country. If you have a website or blog, post it there.
@@ -58,7 +66,7 @@ A lot of people think RStudio is just for writing complex scripts for statistica
 * Identify any disciplinary repositories either for research articles or data.
 
 
-** BONUS STEP**
+##** BONUS STEP**<a name="bonus"></a>
 
 Hopefully, you just wrote something pretty awesome, that you are proud of and want to share with others. I mean, after all that effort, why would you not want to? Let's make this a reality.
 

@@ -7,16 +7,34 @@ Estimated time to complete: 30-60 minutes.
 ## Table of contents
 
 * [Getting started](#Getting_started)
+* [Learning how to use markdown](#markdown)
 
-Format the file like this:
 
-DD-MM-YYYY-yourname_blah.md
+## Getting started <a name="Getting_started"></a>
 
-Now, go to [this folder]() and upload your new blog post. Click 'Commit' and simply add a little message describing what you have done. For now, don't worry too much about using GitHub, as we address that in other modules.
+Welcome to your first task, probably, of the Open Science MOOC! What we *don't* want here is to create something were you sit in front of a screen, basically being lectured like you do at high school or university. We want you to create, to learn, to build, both as an individual and as part of a boundless community. We want to help you to sculpt your own path in research, and tell your own story and use that story to inspire and guide others.
 
-What this will do is notify the people who are part of the core MOOC team that a new file has been uploaded. As soon as we 'accept' the new file, just like magic, it will automatically render [here] on the main Open Science MOOC website! How cool is that?
+In order to help this, we are going to try something that hasn't really been done before. This MOOC is entirely built on a dynamic 'open source' process, with everything in the open and available to contribution from everyone. We would like you to be part of that.
 
-Now, all you have to do is share it. If you use Facebook, Twitter, LinkedIn, GooglePlus, Instagram or whatever, make sure to share your work widely. Let people know what Open Science means to you!
+Throughout these tasks, we will help you to directly create and edit content that becomes part of this MOOC and its companion website. What you do from here on out will directly influence the learning of all individuals who come here in the future. Our job is to guide you in this process, and help you to realise that what you are doing is valuable, to yourself and others.
+
+**IMPOSTER SYNDROME KLAXON**
+
+Scholarly researchers represent the highest density of Imposter Syndrome that has ever been known to exist in the history of anything, ever. [ADD SOME DUBIOUS LINK/CITATION HERE]
+
+
+### Learning how to  use markdown<a name="markdown"></a>
+
+
+A lot of people think RStudio is just for writing complex scripts for statistical analysis. Wrooooong. It can also be used to write nicely formatted text documents, using something called markdown. Much of this MOOC was written in markdown, and look how nice it all looks!
+
+[insert tumbleweed gif]
+
+
+
+[INSERT SOME BASIC MARKDOWN SYNTAX HERE]
+
+
 
 
 * Write a summary about Open Access efforts either on your research discipline and/or in your country. If you have a website or blog, post it there.
@@ -38,6 +56,23 @@ Now, all you have to do is share it. If you use Facebook, Twitter, LinkedIn, Goo
     * Intellectual Property (IP).
 
 * Identify any disciplinary repositories either for research articles or data.
+
+
+** BONUS STEP**
+
+Hopefully, you just wrote something pretty awesome, that you are proud of and want to share with others. I mean, after all that effort, why would you not want to? Let's make this a reality.
+
+
+
+Format the file like this:
+
+`DD-MM-YYYY-yourname_blah.md`
+
+Now, go to [this folder]() and upload your new blog post. Click 'Commit' and simply add a little message describing what you have done. For now, don't worry too much about using GitHub, as we address that in other modules.
+
+What this will do is notify the people who are part of the core MOOC team that a new file has been uploaded. As soon as we 'accept' the new file, just like magic, it will automatically render [here] on the main Open Science MOOC website! How cool is that?
+
+Now, all you have to do is share it. If you use Facebook, Twitter, LinkedIn, GooglePlus, Instagram or whatever, make sure to share your work widely. Let people know what Open Science means to you!
 
 
 <br/>

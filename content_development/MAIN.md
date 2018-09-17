@@ -7,7 +7,7 @@ output:
 
 *Estimated time to complete: 60 minutes*
 
-*Estimated saving time: xxx*
+*Estimated saving time: À lot*
 
 ## Table of Contents
 
@@ -33,10 +33,7 @@ output:
 - [Where to go from here](#future)
 - [Development Team](#Development_team)
 
-[IDEA: ONCE TEXT IS COMPLETE; CREATE AUDIO RECORDING FOR ALL OF THIS FOR EACH MODULE, and release as a podcast]
-
-
-> *BEFORE YOU START*
+**BEFORE YOU START**
 
 > Science is everyhwere, science is all around us. This is your last chance. After this there is no turning back. You take the [blue pill](link to Elsevier OS website), the story ends, you wake up in your bed, and believe whatever you want to believe. You take the [red pill](#Introduction), you stay in Wonderland, and we show you how deep the rabbit hole goes. 
 
@@ -46,7 +43,7 @@ Did you also now that this is so important, that it is even in the United Nation
 
 [Insert quote from Article 27 here]
 
-You have probably landed here becase you have a nagging feeling that something about the way modern science is conducted and shared is not quite right. This module will hopefully shed some light on those feelings, and help you to understand the state of the present system, and its discord within intrinsic human and scientific values and principles. This is the start of your own journey to become an *awesome* researcher and a *champion* in your field.
+You have probably landed here becase you have a nagging feeling that something about the way modern science is conducted and shared is not quite right. This module will hopefully shed some light on those feelings, and help you to understand the state of the present system, and its discord within intrinsic human and scientific values and principles. This is the start of your own journey to become an *awesome* researcher and a *champion* in your field. Hopefully, by being here, we can all work together to empower individuals and communities to make changes to research cultures that we haven't even imagined yet!
 
 <br/>
 

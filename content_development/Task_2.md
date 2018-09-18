@@ -5,9 +5,11 @@ output:
 ---
 # Task 2: Developing your digital researcher profile
 
-This task is designed for .
+This task is designed for researchers who want to help to build their online profile while helping to amplify their work. Think of this task like a way of creating an online CV for your work.
 
 Estimated time to complete:  minutes.
+
+Estimated time saved: .
 
 ## Table of contents
 
@@ -24,7 +26,7 @@ Estimated time to complete:  minutes.
 
 ## Getting started <a name="Getting_started"></a>
 
-OK, so in the main content here, we just briefly introduced you to three services that you can use to enhance our researcher profile. These are based around documenting your research publications, the online attention thee get, and your peer reviewer profile. 
+OK, so in the main content here, we just briefly introduced you to three services that you can use to enhance our researcher profile. These are based around documenting your research publications, the online attention these get, and your peer reviewer profile. 
 
 These are by no means the only platforms available to you, and not limited in scope to documenting your own worth as a researcher. However, what they do help to do is give you a better idea of how your researcher profile is developing, and allow others to see that too.
 

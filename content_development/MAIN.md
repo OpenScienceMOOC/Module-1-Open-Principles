@@ -43,11 +43,11 @@ Did you also now that this is so important, that it is even in the United Nation
 
 [Insert quote from Article 27 here]
 
-You have probably landed here becase you have a nagging feeling that something about the way modern science is conducted and shared is not quite right. This module will hopefully shed some light on those feelings, and help you to understand the state of the present system, and its discord within intrinsic human and scientific values and principles. This is the start of your own journey to become an *awesome* researcher and a *champion* in your field. Hopefully, by being here, we can all work together to empower individuals and communities to make changes to research cultures that we haven't even imagined yet!
+You have probably landed here because you have a nagging feeling that something about the way modern science is conducted and shared is not quite right. This module will hopefully shed some light on those feelings, and help you to understand the state of the present system, and its discord within intrinsic human and scientific values and principles. This is the start of your own journey to become an *awesome* researcher and a *champion* in your field. Hopefully, by being here, we can all work together to empower individuals and communities to make changes to research cultures that we haven't even imagined yet!
 
 <br/>
 
-[INSERT INTRODUCtORY VIDEO HERE]
+[INSERT Introductory VIDEO HERE]
 
 ## Introduction <a name="Introduction"></a>
 
@@ -111,7 +111,7 @@ Open Science can broadly be viewed as a way of enhancing scientific progress thr
 
 Often, the usage of Open Science seems to be based around three core things: *Processes* (e.g., collaboration, reproducibility), *Products* (e.g., Open Data), and *Values* (e.g., freedom, equity). This seems to form a chain reaction, where values drive a process, which in turn defines the products of research.
 
-Therefore, some of the key, value-based goals of the Open Science communiy include:
+Therefore, some of the key, value-based goals of the Open Science community include:
 
 * **Freely available access to all outputs of the whole research process;**
 
@@ -139,13 +139,13 @@ These foundational elements of traditional research communication, peer-reviewed
 
 [add here  reference to "new peer review models" and refer to the resp module] 
 
-Open Science helps to mke research articles more rigorous, verifiable and reliable. This helps to enhance public trust in the scientific community and endeavour. In modern society, this has never been more important.
+Open Science helps to make research articles more rigorous, verifiable and reliable. This helps to enhance public trust in the scientific community and endeavour. In modern society, this has never been more important.
 
 > Open Science is subject to the most rigorous peer review because the process never ends. - [(Woelfle et al., 2011)](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Woelfle%20et%20al.%2C%202011.pdf).
 
 <br/>
 
-Perhaps one of the most importants aspect of the Open Science movement in recent years has been the drive behind the liberation of research papers from behind paywalls to be freely available to anyone. This has largely been based on the principle that humans deserve to have access to scientific knowledge, and benefit from that.
+Perhaps one of the most important aspect of the Open Science movement in recent years has been the drive behind the liberation of research papers from behind paywalls to be freely available to anyone. This has largely been based on the principle that humans deserve to have access to scientific knowledge, and benefit from that.
 
 [insert act 27 of the UN declaration on human rights here]
 
@@ -187,7 +187,7 @@ The question to you is, *do you believe that science can help progress towards r
 
 Building on a civic culture of sharing, Open Science creates new and value from every object (idea, data, method, software, results) that is openly shared, releasing the inherent value of the research process. Some of this new value accrues to the researcher who shares, some goes to the benefit of all researchers working in the same arena who reuse these objects, and some goes to researchers who can open up new research from the collective resource that these objects now enhance. This last value is the ultimate promise of Open Science: a shared surplus of research objects that can be openly mixed, mined, and melded into new, synthetic knowledge. 
 
-[McKiernan (et al., 2016)](https://elifesciences.org/articles/16800) demonstrate the advantages of open sharing for increasing citations, impacts, and ultimately the careers of researchers. What the 'open' researcher does to increase the holdings of the open corpus in their field adds a civic choice to these advantages. Growing the open research ecosystem helps every researcher on the planet, while simultaneously making a conscious objective towards making research a public and soietal good. Thus, even within traditional systems of research(er) evaluation, the practice of Open Science is inherently beneficial to the individual.
+[McKiernan (et al., 2016)](https://elifesciences.org/articles/16800) demonstrate the advantages of open sharing for increasing citations, impacts, and ultimately the careers of researchers. What the 'open' researcher does to increase the holdings of the open corpus in their field adds a civic choice to these advantages. Growing the open research ecosystem helps every researcher on the planet, while simultaneously making a conscious objective towards making research a public and societal good. Thus, even within traditional systems of research(er) evaluation, the practice of Open Science is inherently beneficial to the individual.
 
 Adding new research findings or experimental methods to an open repository/platform tends to be as easy (or easier) than sharing within a closed collection (such as a for-profit publisher). Open sharing scales better, particularly when it uses open standards-based platforms, such as the Open Science Framework. It also tends to be less fragile, since it can be migrated or ported into new platforms and spread across multiple locations. Openness adds to discoverability and access, and contributes to reproducibility.
 
@@ -225,15 +225,15 @@ Although difficult to pin down exactly, the origins of what many call the modern
 
 The term "Open Science" itself appears to have been coined by [Steve Mann in 1998](https://en.wikipedia.org/wiki/Open_science#Coining_of_phrase_%22OpenScience%22). [ADD QUOTE HERE]
 
-In the last two decades, there has been an explosive growth in the development of different aspects of scholarly infrastructure - the core, underpinning aspects of a well-functioning research machine. Much of this is a blend of non-profit and commercial services, which are now variably integrated, but has created a strange and complex new system of ways to perform and communicate research. It is difficult to here to cast judgement on 'for profit' versus 'not for profit' entities with respect to openness in a simple binary way. For example, for-profit entities like Publons and Figshare were important in cataysing changes in crediting peer review and Open Data respectively; while not-for-profits like the AAAS or ACS have actively lobbied against progressive changes around Open Science. [ADD REFS HERE]
+In the last two decades, there has been an explosive growth in the development of different aspects of scholarly infrastructure - the core, underpinning aspects of a well-functioning research machine. Much of this is a blend of non-profit and commercial services, which are now variably integrated, but has created a strange and complex new system of ways to perform and communicate research. It is difficult to here to cast judgement on 'for profit' versus 'not for profit' entities with respect to openness in a simple binary way. For example, for-profit entities like Publons and Figshare were important in catalysing changes in crediting peer review and Open Data respectively; while not-for-profits like the AAAS or ACS have actively lobbied against progressive changes around Open Science. [ADD REFS HERE]
 
 From this, what might (hopefully) be becoming a little more clear is that Open Science is about systemic change. It challenges the way research is conducted, at a practical and cultural level, the way it is evaluated, and the ways in which scientific knowledge is disseminated and integrated into the functioning of society. Much of this is ingrained into research culture through self-reinforcing local governance systems, which are often imposed through external capitalist pressure. For example, the '*publish or perish*' mantra is a direct consequence of these pressures, which in turn are linked to the evolving neoliberal agenda imposed by modern research institutes. [add some refs about geopolitics of knowledge production here]
 
-So now, if this makes sense to you, it might seem like Open Science is in almost direct conflict with a capitalistic culture. This conflict is not new to science. In the 1940s, famed sociologist Robert Merton articulated some of the results of his sociology of science research as a set of four norms: principles that described the underlying ethos of science. Each of these norms is sharply diverent to how a free marketplace operates. You can read about the norms [here](https://en.wikipedia.org/wiki/Mertonian_norms). One of Merton's norms was "communism," (this is sometimes re-worded as "communalism"). [ADD QUOTES OF THESE NORMS AND MEANINGS HERE]
+So now, if this makes sense to you, it might seem like Open Science is in almost direct conflict with a capitalistic culture. This conflict is not new to science. In the 1940s, famed sociologist Robert Merton articulated some of the results of his sociology of science research as a set of four norms: principles that described the underlying ethos of science. Each of these norms is sharply divergent to how a free marketplace operates. You can read about the norms [here](https://en.wikipedia.org/wiki/Mertonian_norms). One of Merton's norms was "communism," (this is sometimes re-worded as "communalism"). [ADD QUOTES OF THESE NORMS AND MEANINGS HERE]
 
 > "'Communism,' in the nontechnical and extended sense of common ownership of goods, is a second integral element of the scientific ethos. The substantive findings of science are a product of social collaboration and are assigned to the community. They constitute a common heritage in which the equity of the individual producer is severely limited." - Originally published as “Science and Technology in a Democratic Order,” *Journal of Legal and Political Sociology* 1 (1942): 115-26; later published as “Science and Democratic Social Structure,” in Robert K. Merton, *Social Theory and Social Structure*.  [ADD LINKS HERE]
 
-It is good to remember that Open Science principles rearticulate science norms that were historically considered to be integral to research itself. Open Science reaffirms the right of the community to access the substantive findings of research. As the findings of science belong to the entire community, any attempt by individuals or corporations to capture these for profit is a practice based on a notion of equity that is foreign to, and contrary to, how research is meant to operate. 
+It is good to remember that Open Science principles re-articulate science norms that were historically considered to be integral to research itself. Open Science reaffirms the right of the community to access the substantive findings of research. As the findings of science belong to the entire community, any attempt by individuals or corporations to capture these for profit is a practice based on a notion of equity that is foreign to, and contrary to, how research is meant to operate. 
 
 Open Science really hit the mainstream around 2016 due to a number of possible reasons. A combination of political activity and grassroots community-led initiatives really put it on the map, and now everywhere you go in science, openness is all around in one way or another.
 
@@ -301,7 +301,7 @@ Another widely-known vision for the future of scholarly communication is the [Vi
 
 ### Community values in Open Science <a name="values"></a>
 
-The values ingerent to Open Science have again not yet been rigorously defined or accepted by the global research community. However, there are a number of inherent values that come up time and time again in discussions of openness. These include: **diversity, inclusivity, fairness, equity, social behaviour, accountability, ethics and responsibility.**
+The values inherent to Open Science have again not yet been rigorously defined or accepted by the global research community. However, there are a number of inherent values that come up time and time again in discussions of openness. These include: **diversity, inclusivity, fairness, equity, social behaviour, accountability, ethics and responsibility.**
 
 Now, these are not necessarily values that are exclusive to scientific research, and are more human in nature. This is critical, as it helps to frame Open Science as an inherent human nature, and thus amplifies its social importance and imperative.
 
@@ -375,7 +375,7 @@ Recently, the [Foundations for Open Scholarship Strategy Development](https://ze
 
 [**GO TO TASK 1: Defining how Open Science affects you**](Task_1.md)
 
-[DIscuss McKiernan et al here]
+[Discuss McKiernan et al here]
 
 <br/>
 
@@ -383,13 +383,13 @@ Recently, the [Foundations for Open Scholarship Strategy Development](https://ze
 
 The world of research evaluation is slowly changing. The way in researchers and their research is assessed governs virtually everything, as this defines the motivation and incentives behind certain behaviours.
 
-[Add quote from Stephen Curry about statistical illeteracy here]
+[Add quote from Stephen Curry about statistical illiteracy here]
 
-While there is generally little empirical evidence, it is generally accepted that research evaluation is almost entirely contingent on getting research articles published in 'high impact' journal venues. Strangely, very little emprical evidence exists to demonstrate that this view is actually embedded in practice. [ADD INFO FROM JUAN HERE]
+While there is generally little empirical evidence, it is generally accepted that research evaluation is almost entirely contingent on getting research articles published in 'high impact' journal venues. Strangely, very little empirical evidence exists to demonstrate that this view is actually embedded in practice. [ADD INFO FROM JUAN HERE]
 
 One consequence of this, is that other elements of the research process, are often seen as less important. This includes Open Science, which can be viewed as risky or detrimental to the career choices of an individual research, and in particular those who are already disadvantaged/marginalised, or at an earlier stage in their career. 
 
-This makes total sense. Researchers, belive it or not, are human. Thus, they are driven by inherent human desires to do things like pay their rent, eat food, pay bills, and provide for their families. In order to do this, they have to keep their jobs. Usually, this means conforming to how they believe they will be assessed, and any external pressures to this are seen as a risk to their livelihoods. This is why, as we discussed above, presenting 'Open Science' as divergent from traditional research processes, as opposed to being enhanced or more beneficial ways of doing things, can actually be inadvertently damaging.
+This makes total sense. Researchers, believe it or not, are human. Thus, they are driven by inherent human desires to do things like pay their rent, eat food, pay bills, and provide for their families. In order to do this, they have to keep their jobs. Usually, this means conforming to how they believe they will be assessed, and any external pressures to this are seen as a risk to their livelihoods. This is why, as we discussed above, presenting 'Open Science' as divergent from traditional research processes, as opposed to being enhanced or more beneficial ways of doing things, can actually be inadvertently damaging.
 
 Perhaps a much bigger consequence of this, however, is that we essentially have a system where researchers are rewarded for how many papers they publish, and the brands associated with the venue of publication, which can be detrimental to the value of shared knowledge. [ADD INFO FROM BREMBS HERE]
 
@@ -429,7 +429,7 @@ Before you start, please be aware that Publons got acquired by the analytics com
 
 ## Barriers and limitations for Open Science <a name="barriers"></a>
 
-Despite the more or less obvious benefits of Open Science practice (as discussed above), there are a range of reasonable concerns and therefore necessary limitations and exceptions to be identified, discussed and implemented in a highly discipline-specific manner. It would be utterly foolish of us to rampantyl support Open Science without paying due consideration to these.
+Despite the more or less obvious benefits of Open Science practice (as discussed above), there are a range of reasonable concerns and therefore necessary limitations and exceptions to be identified, discussed and implemented in a highly discipline-specific manner. It would be utterly foolish of us to rampantly support Open Science without paying due consideration to these.
 
 Such concerns include and are not limited to:
 

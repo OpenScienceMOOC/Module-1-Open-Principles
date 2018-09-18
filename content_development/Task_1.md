@@ -33,27 +33,38 @@ Scholarly researchers represent the highest density of Imposter Syndrome that ha
 
 <br/>
 
-### Learning how to  use markdown<a name="markdown"></a>
+## Learning how to  use markdown<a name="markdown"></a>
 
 
 A lot of people think RStudio is just for writing complex scripts for statistical analysis. Wrooooong. It can also be used to write nicely formatted text documents, using something called markdown. Much of this MOOC was written in markdown, and look how nice it all looks!
 
 [insert tumbleweed gif]
 
-Markdown is really a simple formatting style that gives you full control over the format of text. If you're used to using something like Microsoft Word, it's kind of similar and gives you the same control over simple things like header style and text format. But in a way that is readable by....
+Markdown is really a simple formatting style that gives you full control over the format of text. If you're used to using something like Microsoft Word, it's kind of similar and gives you the same control over simple things like header style and text format. But in a way that is readable by more software, and can also be easily easily rendered as a webpage.
 
 [INSERT SOME BASIC MARKDOWN SYNTAX HERE]
 
 <br/>
 
+## Putting this into practise<a name="draft"></a>
 
-* Write a summary about Open Access efforts either on your research discipline and/or in your country. If you have a website or blog, post it there.
+Consider this task a bit like a mini research project. Here, what we are going to do is write a brief summary article about Open Science either on your research discipline and/or in your country.
 
-    * Were the data for this easy to acquire? Which sources did you use?
+There are several choices you have here:
 
-* Look at the status of Open Science in your research group or lab. Make a note of who is doing what. What could be improved?
+1. Write about the state of Open Access in your research community or lab group. This can include things like what proportion of articles are OA, whether there is an OA policy, or a summary of how your colleagues and you view OA. For this, it would be good to think about whether existing data are available, and if were they easy to acquire? Make  note of which sources you used, and whether you think these are appropriate to answer the questions.
 
-* Define clearly what Open Science means to you. Have a conversation about it with a colleague. Then, find someone from a different country, and have another conversation about Open Science. 
+2. Look at the status of Open Science in your research group or lab. Make a note of who is doing what, using what tools and services, and what their views are. What do you think could be improved?
+
+3. * Define clearly what Open Science means to you. Here, we want to make it a little challenging, by having a conversation about it with a colleague. Then, find someone from a different country, and have another conversation about Open Science. How do these view points all differ?
+
+
+
+If you have a website or blog, post it there.
+
+
+* 
+
 
 * Find out the policies are in your department or institute regarding:
 

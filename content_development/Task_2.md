@@ -14,8 +14,9 @@ Estimated time saved: .
 ## Table of contents
 
 * [Getting started](#Getting_started)
-* [Getting your ORCID](#)
-  * [](#)
+* [Getting your ORCID account](#ORCID)
+  * [How to register for your ORCID account](#reg_orcid)
+  * [Populating your ORCID profile](#pop_orcid)
 * [Create your own Impact Story](#)
   * [](#)
 * [Build your peer revieweer profile with Publons](#)
@@ -41,6 +42,31 @@ The three we met before are:
 The latter two of these actually integrate nicely with ORCID and pull in all the information there to make building your profile a bit easier. Here, we are going to go through each one and help to showcase your work and build your research profile.
 
 <br/>
+
+## Getting your ORCID account<a name="ORCID"></a>
+
+[ORCID](https://orcid.org/) stands for 'Open Researcher and Contributor ID'. It provides you with a persistent digital identifier that distinguishes you from every other researcher. It also neatly integrates with key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized.
+
+
+### How to register for your ORCID account<a name="reg_orcid"></a>
+
+This one is dead easy, and only takes a couple of minutes thankfully! Here's how in a few simple steps:
+
+1. Go to the [ORCID website](https://orcid.org/) and click the 'Register now' link.
+
+2. Enter your name, email address, and password.
+
+3. Choose your visibility settings. You can change these for each item in your ORCID profile later if needed.
+
+4. Register. 
+
+That's it! Congratulations, you now have a unique and permanent ID for your research profile! 
+
+### Populating your ORCID profile<a name="pop_orcid"></a>
+
+Now you have your ORCID profile, it's time to add some content to it! 
+
+
 
 [NOTE: SHOULD WE ADD THE OSF AS A BONUS STEP HERE TOO?]
 

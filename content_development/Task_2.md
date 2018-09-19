@@ -67,7 +67,6 @@ That's it! Congratulations, you now have a unique and permanent ID for your rese
 Now you have your ORCID profile, it's time to add some content to it! 
 
 
-
 [NOTE: SHOULD WE ADD THE OSF AS A BONUS STEP HERE TOO?]
 
 

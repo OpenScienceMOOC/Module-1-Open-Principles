@@ -20,8 +20,8 @@ Estimated time saved: Immeasurable, but probably a lot.
 * [Getting your ORCID account](#ORCID)
   * [How to register for your ORCID account](#reg_orcid)
   * [Populating your ORCID profile](#pop_orcid)
-* [Create your own Impact Story](#)
-  * [](#)
+* [Create your own Impact Story](#impactstory)
+  * [Understanding your own Impactstory profile](#impactstory_profile)
 * [Build your peer reviewer profile with Publons](#)
   * [](#)
 
@@ -137,13 +137,55 @@ Here are a few simple steps for each.
 
 This one is a bit simpler. If you have a citation record as a .bib file (BibTeX file format), you can simply select this from your desktop and upload it. ORCID will do the rest and populate your profile using this. You can use services like the export functions in Google Scholar to make this even easier.
 
+You can also export your works here in .bib format.  BibTeX is a platform-independent, plain-text format used for bibliographic citations. BibTeX files can be created and edited using many popular reference management tools, such as Zenodo, so is reaally handy!
+
+<br/>
+
 **MANUAL ADDITION**
 
-This one is dead simple. Simply go to your profile, click **Add works**, then **+Add manually**. A box should pop up that enables you to enter information as you need. This is generally best for items that don't get integrated using the other two techniques. Try to add as much detail here as possible to be comprehensive.
-
+This one is even simpler. Pop to your profile, click **Add works**, then **+Add manually**. A box should pop up that enables you to enter information as you need. This is generally best for items that don't get integrated using the other two techniques. Try to add as much detail here as possible to be comprehensive.
 
 Allowing trusted organizations to add information to your record ensures the data connected with your ORCID iD is authoritative and trustworthy, as well as saving you time entering information manually. The organization which added the work to your record will be listed as the source of the item. Often, when your work is indexed in one of these organizations, it will automatically integrated with your profile, helping to keep everything up to date.
 
+<br/>
+
+## Create your own Impact Story<a name="impactstory"></a>
+
+Now that you've created your ORCID profile, these next steps are going to be easy peasy.
+
+Impactstory is a nonprofit dedicated to making scholarly research more open, accessible, and reusable. It helps to provide a fun and lightweight profile that integrates social media mentions, badges, and more with your ORCID record.
+
+Head on over the [Impactstory website](https://profiles.impactstory.org/). Here, you can join for free using Twitter. If you don't have a Twitter account yet, no worries. It's worth setting one up here for now though, as we will revisit this later on in the MOOC.
+
+After logging in with Twitter, you can link it directly and authorise Impactstory to use your ORCID profile that you just created. That's pretty much it!
+
+In the future, you can make sure your profile is up to date in the Impactstory settings by syncing data from ORCID. It does this automatically, but you can manually update it too.
+
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/orcid_impactstory.png" width="600" /></p>
+
+<p align="center"><i>Syncing your Impactstory profile with ORCID is simple and takes seconds</i></p>
+
+<br/>
+
+### Understanding your own Impactstory profile<a name="impactstory_profile"></a>
+
+Your new profile has 4 main tabs:
+
+1. **Overview** - The main page that summarises the over three sections.
+
+2. **Achievements** - Your badges! These document your success story, including great things like how many of your papers are Open Access, how many are included in Wikipedia, the geographic reach of your work, and, er, whether or not your work has been tweeted by someone named Richard. Proceed with caution..
+
+3. **Timeline** - Regular updates on how and who has been sharing your work across a variety of social platforms, including Twitter, Facebook, Google Plus, blogs, and Wikipedia.
+
+4. **Publications** - Based on your publication list from ORCID, with details on all the social media shares for each item.
+
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/impactstory_profile.png" width="600" /></p>
+
+<p align="center"><i>Syncing your Impactstory profile with ORCID is simple and takes seconds</i></p>
+
+<br/>
+
+That's it! As Impactstory say, you are more than your h-index, and this provides a wonderful place for you to document how your research is being used in different contexts.
 
 
 [NOTE: SHOULD WE ADD THE OSF AS A BONUS STEP HERE TOO?]

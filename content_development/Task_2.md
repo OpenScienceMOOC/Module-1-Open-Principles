@@ -1,7 +1,8 @@
 ---
 output:
-  html_document: default
+  word_document: default
   pdf_document: default
+  html_document: default
 ---
 
 # Task 2: Developing your digital researcher profile
@@ -93,7 +94,7 @@ We'll get to the latter of these later via Publons. For the other four, this is 
 
 <br/>
 
-The great advantage that ORCID has here is that this information can be ported into other systems, so stops you haing to enter the same data over and over again across different platforms. Here, you can also enter information such as your country of residence, keywords, your website, emails, and other IDs that you might have. It's a good idea here to enter a nice, simple, but comprehensive biography.
+The great advantage that ORCID has here is that this information can be ported into other systems, so stops you having to enter the same data over and over again across different platforms. Here, you can also enter information such as your country of residence, keywords, your website, emails, and other IDs that you might have. It's a good idea here to enter a nice, simple, but comprehensive biography.
 
 For now, there are three ways to help add scholarly works to your ORCID record.
 
@@ -137,7 +138,7 @@ Here are a few simple steps for each.
 
 This one is a bit simpler. If you have a citation record as a .bib file (BibTeX file format), you can simply select this from your desktop and upload it. ORCID will do the rest and populate your profile using this. You can use services like the export functions in Google Scholar to make this even easier.
 
-You can also export your works here in .bib format.  BibTeX is a platform-independent, plain-text format used for bibliographic citations. BibTeX files can be created and edited using many popular reference management tools, such as Zenodo, so is reaally handy!
+You can also export your works here in .bib format.  BibTeX is a platform-independent, plain-text format used for bibliographic citations. BibTeX files can be created and edited using many popular reference management tools, such as Zenodo, so is really handy!
 
 <br/>
 
@@ -145,7 +146,7 @@ You can also export your works here in .bib format.  BibTeX is a platform-indepe
 
 This one is even simpler. Pop to your profile, click **Add works**, then **+Add manually**. A box should pop up that enables you to enter information as you need. This is generally best for items that don't get integrated using the other two techniques. Try to add as much detail here as possible to be comprehensive.
 
-Allowing trusted organizations to add information to your record ensures the data connected with your ORCID iD is authoritative and trustworthy, as well as saving you time entering information manually. The organization which added the work to your record will be listed as the source of the item. Often, when your work is indexed in one of these organizations, it will automatically integrated with your profile, helping to keep everything up to date.
+Allowing trusted organizations to add information to your record ensures the data connected with your ORCID profile is authoritative and trustworthy, as well as saving you time entering information manually. The organization which added the work to your record will be listed as the source of the item. Often, when your work is indexed in one of these organizations, it will automatically integrated with your profile, helping to keep everything up to date.
 
 <br/>
 
@@ -153,7 +154,7 @@ Allowing trusted organizations to add information to your record ensures the dat
 
 Now that you've created your ORCID profile, these next steps are going to be easy peasy.
 
-Impactstory is a nonprofit dedicated to making scholarly research more open, accessible, and reusable. It helps to provide a fun and lightweight profile that integrates social media mentions, badges, and more with your ORCID record.
+Impactstory is a non-profit dedicated to making scholarly research more open, accessible, and reusable. It helps to provide a fun and lightweight profile that integrates social media mentions, badges, and more with your ORCID record.
 
 Head on over the [Impactstory website](https://profiles.impactstory.org/). Here, you can join for free using Twitter. If you don't have a Twitter account yet, no worries. It's worth setting one up here for now though, as we will revisit this later on in the MOOC.
 

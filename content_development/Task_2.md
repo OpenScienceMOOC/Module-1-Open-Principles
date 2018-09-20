@@ -1,7 +1,7 @@
 ---
 output:
-  word_document: default
   pdf_document: default
+  word_document: default
   html_document: default
 ---
 
@@ -30,7 +30,7 @@ Estimated time saved: Immeasurable, but probably a lot.
 
 ## Getting started <a name="Getting_started"></a>
 
-OK, so in the [main content](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/MAIN.md) for this module, we just briefly introduced you to three services that you can use to enhance our researcher profile. These are based around documenting your research publications, the online attention these get, and your peer reviewer profile. 
+OK, so in the [main content](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/MAIN.md) for this module, we just briefly introduced you to three services that you can use to enhance our researcher profile. These are based around documenting your research publications, the online attention these get, and your peer reviewer profile.
 
 These are by no means the only platforms available to you, and not limited in scope to documenting your own worth as a researcher. However, what they do help to do is give you a better idea of how your researcher profile is developing, and allow others to see that too.
 
@@ -50,7 +50,7 @@ The latter two of these actually integrate nicely with ORCID and pull in all the
 
 [ORCID](https://orcid.org/) stands for 'Open Researcher and Contributor ID'. It provides you with a persistent digital identifier that distinguishes you from every other researcher. It also neatly integrates with key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized.
 
-<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/orcid.png" width="600" /></p>
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/orcid.png?raw=true" width="600" /></p>
 
 <p align="center"><i>3 simple steps to distinguish yourself</i></p>
 
@@ -66,7 +66,7 @@ This one is dead easy, and only takes a couple of minutes thankfully! Here's how
 
 3. Choose your visibility settings. You can change these for each item in your ORCID profile later if needed.
 
-4. Register. 
+4. Register.
 
 That's it! Congratulations, you now have a unique and permanent ID for your research profile!
 
@@ -86,9 +86,9 @@ Now you have your ORCID profile, it's time to add some content to it! There are 
 
 * Peer reviews
 
-We'll get to the latter of these later via Publons. For the other four, this is just like any other profile generation that you've done before. In each section of your profile, there is a little button that says, for example **+Add education**. Simply click this, and then **+Add manually**, and then enter the information as normal. 
+We'll get to the latter of these later via Publons. For the other four, this is just like any other profile generation that you've done before. In each section of your profile, there is a little button that says, for example **+Add education**. Simply click this, and then **+Add manually**, and then enter the information as normal.
 
-<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/education_orcid.png" width="600" /></p>
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/education_orcid.png?raw=true" width="600" /></p>
 
 <p align="center"><i>How to update your ORCID profile</i></p>
 
@@ -106,7 +106,7 @@ For now, there are three ways to help add scholarly works to your ORCID record.
 
 <br/>
 
-<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/works_orcid.png" width="600" /></p>
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/works_orcid.png?raw=true" width="600" /></p>
 
 <p align="center"><i>How to update the 'works' associated with your ORCID profile</i></p>
 
@@ -122,13 +122,13 @@ Here are a few simple steps for each.
 
 3. Each time you click one of the options, it will take you to the 'oauth' authorization page. Here, make sure only to authorize sources that you trust (which is basically all options) to help keep your data safe.
 
-4. After authorizing, you will be taken to the relevant search page for whichever organization you chose, automatically populated with a search result for your name. 
+4. After authorizing, you will be taken to the relevant search page for whichever organization you chose, automatically populated with a search result for your name.
 
-5. Now you can simple select which works you want to be added to your own personal profile. 
+5. Now you can simple select which works you want to be added to your own personal profile.
 
 6. Repeat as needed for each organization until you are happy.
 
-<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/link_orcid.png" width="600" /></p>
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/link_orcid.png?raw=true" width="600" /></p>
 
 <p align="center"><i>How to directly integrate works from other systems into your ORCID profile</i></p>
 
@@ -162,7 +162,7 @@ After logging in with Twitter, you can link it directly and authorise Impactstor
 
 In the future, you can make sure your profile is up to date in the Impactstory settings by syncing data from ORCID. It does this automatically, but you can manually update it too.
 
-<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/orcid_impactstory.png" width="600" /></p>
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/orcid_impactstory.png?raw=true" width="600" /></p>
 
 <p align="center"><i>Syncing your Impactstory profile with ORCID is simple and takes seconds</i></p>
 
@@ -180,7 +180,7 @@ Your new profile has 4 main tabs:
 
 4. **Publications** - Based on your publication list from ORCID, with details on all the social media shares for each item.
 
-<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/impactstory_profile.png" width="600" /></p>
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/impactstory_profile.png?raw=true" width="600" /></p>
 
 <p align="center"><i>Syncing your Impactstory profile with ORCID is simple and takes seconds</i></p>
 
@@ -195,11 +195,10 @@ That's it! As Impactstory say, you are more than your h-index, and this provides
 ## Checklist <a name="Checklist"></a>
 
 
-**CONGRATULATIONS!** 
+**CONGRATULATIONS!**
 
 
 
 **Know a way this content can be improved?**
 
-Time to take your new GitHub skills for a test-run! All content development primarily happens [here](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/Task_2.md). If you have a suggested improvement to the content, layout, or anything else, you can make it and then it will automatically become part of the MOOC content after verification from a moderator! 
-
+Time to take your new GitHub skills for a test-run! All content development primarily happens [here](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/Task_2.md). If you have a suggested improvement to the content, layout, or anything else, you can make it and then it will automatically become part of the MOOC content after verification from a moderator!

@@ -47,7 +47,7 @@ You have probably landed here because you have a nagging feeling that something 
 
 <br/>
 
-[INSERT Introductory VIDEO HERE]
+[INSERT Introductory VIDEO HERE] >> https://en.wikipedia.org/wiki/File:Open_research.ogv
 
 ## Introduction <a name="Introduction"></a>
 
@@ -99,7 +99,7 @@ The term 'Open Science' has not yet a universally accepted definition, but usual
 
 Throughout this MOOC, we consider 'Open Science' to be fully inclusive of all of these terms, all scholarly research disciplines, and to reflect the wider process of organised knowledge creation [(Bartling and Friesike, 2014)](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Bartling%20and%20Friesike%2C%202014.pdf).
 
-Ironically, the only current peer-reviewed research article to systematically attempt to define Open Science is paywalled, so we do not include here. Sigh.
+Ironically, the only current peer-reviewed research article to systematically attempt to define Open Science is paywalled, so we do not include it here. Sigh.
 
 <br/>
 
@@ -181,6 +181,16 @@ The question to you is, *do you believe that science can help progress towards r
 
 <br/>
 
+
+## Reasons for the opposite of Open Science
+* poor formatting of data
+* use of proprietary software
+* financial paywalls by publisher
+* usage restrictions by publisher
+* reluctance to publish due to fear of competition
+* …
+
+
 ### Open Scientists share objects to gain network effects for their work <a name="Network_Effects"></a>
 
 > “Because we have to coordinate with one another to get anything out of our shared free time and talents, using cognitive surplus isn’t just about accumulating individual preferences. The culture of the various groups of users matters enormously for what they expect of one another and how they work together. The culture in turn will determine how much of the value that we get out of the cognitive surplus will be merely communal (enjoyed by the participants, but not of much use for society at large) and how much of it will be civic.” - Excerpt From: Clay Shirky. _Cognitive Surplus_[Link to original source text?].
@@ -252,7 +262,7 @@ As mentioned above, there does not seem to be a single accepted definition of wh
 
 There are two ways too look at this. First, some might argue that the power of a definition lies in its precision, and helps to avoid distortion of those definitions - what some might, in this case, call "open washing". Second, flexibility in the definition, and its understanding and interpretation, lead to increased familiarity with a concept as a 'boundary object'. For the latter, and for Open Science, this means that while it might be interpreted differently across different communities with a variety of norms and practices, the foundational understanding that Open Science is good for public access to knowledge is universally accepted.
 
-There are also [geopolitical](https://medium.com/@denalbz/power-and-inequality-in-open-science-discourses-9d425b0c2b63) differences that shape our understanding of Open Science. For example, in Europe, and much of the developed world, Open Science has an inherently market-oriented language that promotes economic value, productivity, and competition, above all other factors. However, for many of those in the 'global south', Open Science is more about fostering community-building through knowledge sharing, and nurturing social networks around new technologies and infrastructures.
+There are also [geopolitical](https://medium.com/@denalbz/power-and-inequality-in-open-science-discourses-9d425b0c2b63) differences that shape our understanding of Open Science. For example, in Europe, and much of the industrial world, Open Science has an inherently market-oriented language that promotes economic value, productivity, and competition, above all other factors. However, for many of those in the 'global south', Open Science is more about fostering community-building through knowledge sharing, and nurturing social networks around new technologies and infrastructures. 
 
 <br/>
 

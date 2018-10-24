@@ -207,7 +207,9 @@ Even as the value of, for example, a telephone exchange increases with each new 
 
 Many of these network effects will take place on the internet at a planetary scale. The interconnections made possible by Open Science build capacity for the free movement of objects and ideas directly linked back to their authors. This capacity for the almost instant and free global access to research products on the open web is anathema to markets that need to claim ownership and restrict access in order to capture profits from these. Distributed data protocols such as the [Interplanetary File System](https://ipfs.io/) and other emergent technologies will reduce the cost of hosting science objects to a near zero margin. Open licenses make sharing research knowledge durable and its reuse legal.
 
-As [Cameron Neylon](https://en.wikipedia.org/wiki/Cameron_Neylon) said at the metrics breakout of the *Beyond the PDF* conference some years ago [when exactly?], *reuse is THE metric*. [paraphrased] Reuse:
+As [Cameron Neylon](https://en.wikipedia.org/wiki/Cameron_Neylon) said at the metrics breakout of the *Beyond the PDF* conference in 2011, "*reuse is THE metric*".  
+
+Why is this? Reuse:
 
 * Reveals and confirms the advantage that open sharing has over many current, market-based, practices;
 
@@ -217,8 +219,6 @@ As [Cameron Neylon](https://en.wikipedia.org/wiki/Cameron_Neylon) said at the me
 
 Open Science is a research knowledge and data reuse accelerator. Its network effects help make reuse available, and, in time, inevitable. However, active, open reuse has not been a part of science culture for most scientists today, and the cultural changes that can help Open Science realize the goal of widespread reuse is a major challenge we face.
 
-[where does the quote end? Reference?]
-
 Of note here is that much of what we are discussing here has only recently become possible due to the rapid advances in Web-based technologies. This does not therefore mean that much historical research was not 'Open Science', as the opportunities simply were not available to researchers then.
 
 <br/>
@@ -227,7 +227,7 @@ Of note here is that much of what we are discussing here has only recently becom
 
 **Science wants to be Open by default.**
 
-The earliest form of Open Science can perhaps trace its origins back the 17th century, and the origin of the academic journal. [CITE FYFE etc HERE] This was catalysed by an increasing demand for the wider dissemination of scientific knowledge with the wider public. However, the origins can probably go back even further to the very birth of scholarly practices. Much of what we know about our world and universe has foundations in fundamental openness, from evolution and the origin of species, through to gravity and the origins of stars.
+The earliest form of Open Science can perhaps trace its origins back the 17th century, and the origins of the academic journal, such as the [Philosophical Transactions of the Royal Society](https://en.wikipedia.org/wiki/Philosophical_Transactions_of_the_Royal_Society). *Transactions* collected and disseminated a broad range of observations and experiment descriptions and spread the work of the Invisible College, the informal gathering of natural philosophers at Oxford and elsewhere. Publication of scientific "news" was also catalysed by an increasing demand for the wider dissemination of scientific knowledge with the wider public. However, the origins can probably go back even further to the very birth of scholarly practices. Much of what we know about our world and universe has foundations in fundamental openness, from evolution and the origin of species, through to gravity and the origins of stars.
 
 In the 1660s, Robert Boyle, the "father of chemistry," broke with the practices of alchemy in his early writings, e.g., [The Sceptical Chymist](https://en.wikipedia.org/wiki/The_Sceptical_Chymist), and promoted open experimentation (following Roger Bacon's model). Previously, alchemists occulted their methods and their knowledge died with them. What might have been called "open alchemy" became "natural philosophy" and then "science." Science was born open.
 

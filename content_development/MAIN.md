@@ -1,7 +1,7 @@
 ---
 output:
-  pdf_document: default
-  html_document: default
+ pdf_document: default
+ html_document: default
 ---
 # Module 1: Open Principles
 
@@ -12,22 +12,22 @@ output:
 ## Table of Contents
 
 - [Introduction](#Introduction)
-  - [Who is this module for?](#Who_for)
-  - [Specific learning objectives for this module](#Objectives)
+ - [Who is this module for?](#Who_for)
+ - [Specific learning objectives for this module](#Objectives)
 - [What is Open Science?](#What_is)
-  - [History of Open Science and Open Cultures](#cultures)
-  - [Differences in understanding and interpretation](#interpretation)
-  - [Open Scientists share objects to gain network effects for their work](#Network_Effects)
+ - [History of Open Science and Open Cultures](#cultures)
+ - [Differences in understanding and interpretation](#interpretation)
+ - [Open Scientists share objects to gain network effects for their work](#Network_Effects)
 - [Principles of Open Science](#Principles)
-  - [Community values in Open Science](#values)
+ - [Community values in Open Science](#values)
 - [The global landscape of Open Science](#landscape)
 - [The different dimensions of Open Science](#dimensions)
 - [How Open Science impacts you; **TASK 1**](#impacts)
-  - [Changes in research evaluation](#evaluation)
-  - [Potential impact on your career](#career)
-  - [Creating your digital profile; **TASK 2**](#profile)
+ - [Changes in research evaluation](#evaluation)
+ - [Potential impact on your career](#career)
+ - [Creating your digital profile; **TASK 2**](#profile)
 - [Barriers and limitations in Open Science](#barriers)
-  - [Moving away from tradition and the status quo](#tradition)
+ - [Moving away from tradition and the status quo](#tradition)
 - [Open Science and reproducible research](#reproducible)
 - [Making Open Science part of your daily research workflow](#workflow)
 - [Where to go from here](#future)
@@ -35,19 +35,21 @@ output:
 
 **BEFORE YOU START**
 
-> Science is everyhwere, science is all around us. This is your last chance. After this there is no turning back. You take the [blue pill](link to Elsevier OS website), the story ends, you wake up in your bed, and believe whatever you want to believe. You take the [red pill](#Introduction), you stay in Wonderland, and we show you how deep the rabbit hole goes.
+> Science is everyhwere, science is all around us. This is your last chance. After this there is no turning back. You take the [blue pill](https://www.elsevier.com/about/open-science), the story ends, you wake up in your bed, and believe whatever you want to believe. You take the [red pill](#Introduction), you stay in Wonderland, and we show you how deep the rabbit hole goes. (Fishburne, 1999)
 
-Did you know that the Internet and the World Wide Web were both originally designed for research purposes? Scientists wanted a fast, easy, and low-cost way for sharing data with each other, and hence the Internet was born. Now, the Internet dominates almost all aspects of our daily lives, and yet has somehow deviated from this original purpose. Now, science seems to have gone almost backwards compared to every other enterprise - Open Science is the movement to bring modern research back into line with this original digital intent, while reasserting fundamental scientific principles back to the endeavour.
+Did you know that the Internet and the World Wide Web were both originally designed for research purposes? Researchers wanted a fast, easy, and low-cost way for sharing data with each other, and hence the Internet was born. Now, the Internet dominates almost all aspects of our daily lives, and yet has somehow deviated from this original purpose. Now, research seems to have gone almost backwards compared to every other enterprise - Open Science is the movement to bring modern research back into line with this original digital intent, while reasserting fundamental scientific principles back to the endeavour.
 
-Did you also now that this is so important, that it is even in the United Nations Declaration on Human Rights?
+Did you also now that this is so important, that it is even in the [United Nations Declaration on Human Rights](http://www.un.org/en/universal-declaration-human-rights/)?
 
-[Insert quote from Article 27 here]
+> (1) Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits. 
 
-You have probably landed here because you have a nagging feeling that something about the way modern science is conducted and shared is not quite right. This module will hopefully shed some light on those feelings, and help you to understand the state of the present system, and its discord within intrinsic human and scientific values and principles. This is the start of your own journey to become an *awesome* researcher and a *champion* in your field. Hopefully, by being here, we can all work together to empower individuals and communities to make changes to research cultures that we haven't even imagined yet!
+> (2) Everyone has the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which he is the author.
+
+You have probably landed here because you have a nagging feeling that something about the way modern research is conducted and shared is not quite right. This module will hopefully shed some light on those feelings, and help you to understand the state of the present system, and its discord within intrinsic human and scientific values and principles. This is the start of your own journey to become an *awesome* researcher and a *champion* in your field. Hopefully, by being here, we can all work together to empower individuals and communities to make changes to research cultures that we haven't even imagined yet!
 
 <br/>
 
-[INSERT Introductory VIDEO HERE] >> https://en.wikipedia.org/wiki/File:Open_research.ogv
+[INSERT Introductory VIDEO HERE]
 
 ## Introduction <a name="Introduction"></a>
 
@@ -73,7 +75,7 @@ The point is, irrespective of your background, **you are very much welcome here*
 
 <br/>
 
-> "Open Science describes the practice of carrying out scientific research in a completely transparent manner, and making the results of that research available to everyone. Isn't that just 'science'?!" - Mick Watson [(source)](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Watson%2C%202015.pdf)
+> "Open Science describes the practice of carrying out scientific research in a completely transparent manner, and making the results of that research available to everyone. Isn't that just 'science'?!" - Mick Watson-- [(source)](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Watson%2C%202015.pdf)
 
 <br/>
 
@@ -95,11 +97,11 @@ The point is, irrespective of your background, **you are very much welcome here*
 
 > None of us is as smart as all of us. - Kenneth H. Blanchard.
 
-The term 'Open Science' has not yet a universally accepted definition, but usually refers to one core theme: **Increasing knowledge availability as a public good**, typically with critical research principles such as credibility, reproducibility, and verifiability thrown in in some combination. Many other terms are being used synonymously with Open Science, such as Open Research, Open Scholarship, Science 2.0, and eScience.
+The term 'Open Science' has not yet a universally accepted definition, but usually refers to one core theme: **Increasing knowledge availability as a public good**, typically with critical research principles such as credibility, reproducibility, and verifiability included in some combination. Many other terms are being used synonymously with Open Science, such as Open Research, Open Scholarship, Science 2.0, and eScience.
 
 Throughout this MOOC, we consider 'Open Science' to be fully inclusive of all of these terms, all scholarly research disciplines, and to reflect the wider process of organised knowledge creation [(Bartling and Friesike, 2014)](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Bartling%20and%20Friesike%2C%202014.pdf).
 
-Ironically, the only current peer-reviewed research article to systematically attempt to define Open Science is paywalled, so we do not include it here. Sigh.
+Ironically, the only current peer-reviewed research article to systematically attempt to define Open Science is paywalled, so we do not include it here. Sigh. (DOI, for those interested: 10.1016/j.jbusres.2017.12.043)
 
 <br/>
 
@@ -109,7 +111,7 @@ Ironically, the only current peer-reviewed research article to systematically at
 
 Open Science can broadly be viewed as a way of enhancing scientific progress through sharing of knowledge and methods, wider collaboration, and increased rigour and is indirectly already postulated as part of our/researchers' collective core values and **Good Scientific Practices**. Research can only thrive if it is shared and built upon.
 
-Often, the usage of Open Science seems to be based around three core things: *Processes* (e.g., collaboration, reproducibility), *Products* (e.g., Open Data), and *Values* (e.g., freedom, equity). This seems to form a chain reaction, where values drive a process, which in turn defines the products of research.
+Often, the usage of Open Science seems to be based around three core things: *Processes* (e.g., collaboration, reproducibility), *Products* (e.g., Open Data, Open Materials), and *Values* (e.g., freedom, equity). This seems to form a chain reaction and positive feedback loop, where values drive a particular process, which in turn scopes the products of research.
 
 Therefore, some of the key, value-based goals of the Open Science community include:
 
@@ -135,19 +137,13 @@ If these things are all true, then we have to ask of ourselves: *Why isn't all p
 
 It seems that Open Science is often communicated as an *alternative* to many modern or traditional scientific methods. We argue that Open Science is an *enhancement* of the traditional process, using new knowledge, skills, and technologies to improve how the process and outputs of research are communicated. It is based on fundamental human values around **inclusivity**, **freedom**, and **equity**, embedded as foundational elements to the research process, rather than as an afterthought. These human values are what distinguish 'Open' science from much of the way modern research is viewed and practised. We also believe that virtually everyone who comes into research already has these fundamental values as part of who they are. However, often they become divergent from the way in which the academic system forces them to work. We want to change that.
 
-These foundational elements of traditional research communication, peer-reviewed research articles, are acting as an important mechanism to summarise and communicate research.
-
-[add here  reference to "new peer review models" and refer to the resp module]
-
-Open Science helps to make research articles more rigorous, verifiable and reliable. This helps to enhance public trust in the scientific community and endeavour. In modern society, this has never been more important.
+The foundational elements of traditional research communication, peer-reviewed research articles, acti as an important mechanism to summarise and communicate research. Open Science helps to make research articles more rigorous, verifiable and reliable. This helps to enhance public trust in the scientific community and endeavour. In modern society, this has never been more important.
 
 > Open Science is subject to the most rigorous peer review because the process never ends. - [(Woelfle et al., 2011)](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/Reading%20Material_Open%20Principles/Woelfle%20et%20al.%2C%202011.pdf).
 
 <br/>
 
-Perhaps one of the most important aspect of the Open Science movement in recent years has been the drive behind the liberation of research papers from behind paywalls to be freely available to anyone. This has largely been based on the principle that humans deserve to have access to scientific knowledge, and benefit from that.
-
-[insert act 27 of the UN declaration on human rights here]
+Perhaps one of the most important aspect of the Open Science movement in recent years has been the drive behind the liberation of research papers from behind paywalls to be freely available to anyone; also known as Open Access. This has largely been based on the principle that humans deserve to have access to scientific knowledge, and benefit from that.
 
 <center><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/OA.jpg?raw=true" width="800" /></center>
 
@@ -155,13 +151,9 @@ Perhaps one of the most important aspect of the Open Science movement in recent 
 
 <br/>
 
-Still today (2018), most research papers remain locked behind expensive paywalls and critical research data remains hidden away on hard-drives, methods remain scantly documented, research results cannot be reproduced, and researchers are often evaluated on senseless criteria [refs for all these claims].
+Still today (2018), most research papers remain locked behind expensive paywalls, critical research data remains hidden away on hard-drives, methods remain often scantly documented, research results cannot be reproduced, and researchers are often evaluated on senseless criteria such as the journal impact factor. These are just some examples of typical practices that contribute to what might be viewed as 'closed science'; or bad (unethical) scientific practices.
 
-These are just some examples of typical practices that contribute to what might be viewed as 'closed science'; or bad (unethical) scientific practices.
-
-Open Science is about changing these research practices through a cultural/paradigm shift. This shift in research culture is often referred to as the [**Scholarly Commons**](https://www.force11.org/group/scholarly-commons-working-group), which seeks to explore and redefine what a modern scholarly communication ecosystem should look like. (See also the [Principles of the Scholarly Commons](https://www.force11.org/scholarly-commons/principles).
-
-[Create infographic for scholarly commons]
+Open Science is about changing these research practices through a cultural/paradigm shift. This shift in research culture is often referred to as the [**Scholarly Commons**](https://www.force11.org/group/scholarly-commons-working-group), which seeks to explore and redefine what a modern scholarly communication ecosystem should look like.
 
 Accomplishing a cultural shift on a global scale is **NOT EASY**. Fundamentally, it is usually mainly done through the spread of shared cultural norms and values that are interpreted and celebrated in hundreds of local institutions: in your department, school, laboratory, university, professional association, publishing effort, open software platform developer company, or funding agency. It is a complex, multi-dimensional paradigm to comprehend. Each of these organizations fits itself into the cultural practices that members decide will work best for them to become active in performing the cultural work of Open Science. Culture change *must* start from the ground up. Open Science principles illuminate this ground.
 
@@ -207,7 +199,7 @@ Even as the value of, for example, a telephone exchange increases with each new 
 
 Many of these network effects will take place on the internet at a planetary scale. The interconnections made possible by Open Science build capacity for the free movement of objects and ideas directly linked back to their authors. This capacity for the almost instant and free global access to research products on the open web is anathema to markets that need to claim ownership and restrict access in order to capture profits from these. Distributed data protocols such as the [Interplanetary File System](https://ipfs.io/) and other emergent technologies will reduce the cost of hosting science objects to a near zero margin. Open licenses make sharing research knowledge durable and its reuse legal.
 
-As [Cameron Neylon](https://en.wikipedia.org/wiki/Cameron_Neylon) said at the metrics breakout of the *Beyond the PDF* conference in 2011, "*reuse is THE metric*".  
+As [Cameron Neylon](https://en.wikipedia.org/wiki/Cameron_Neylon) said at the metrics breakout of the *Beyond the PDF* conference in 2011, "*reuse is THE metric*". 
 
 Why is this? Reuse:
 
@@ -241,7 +233,7 @@ From this, what might (hopefully) be becoming a little more clear is that Open S
 
 So now, if this makes sense to you, it might seem like Open Science is in almost direct conflict with a capitalistic culture. This conflict is not new to science. In the 1940s, famed sociologist Robert Merton articulated some of the results of his sociology of science research as a set of four norms: principles that described the underlying ethos of science. Each of these norms is sharply divergent to how a free marketplace operates. You can read about the norms [here](https://en.wikipedia.org/wiki/Mertonian_norms). One of Merton's norms was "communism," (this is sometimes re-worded as "communalism"). [ADD QUOTES OF THESE NORMS AND MEANINGS HERE]
 
-> "'Communism,' in the nontechnical and extended sense of common ownership of goods, is a second integral element of the scientific ethos. The substantive findings of science are a product of social collaboration and are assigned to the community. They constitute a common heritage in which the equity of the individual producer is severely limited." - Originally published as “Science and Technology in a Democratic Order,” *Journal of Legal and Political Sociology* 1 (1942): 115-26; later published as “Science and Democratic Social Structure,” in Robert K. Merton, *Social Theory and Social Structure*.  [ADD LINKS HERE]
+> "'Communism,' in the nontechnical and extended sense of common ownership of goods, is a second integral element of the scientific ethos. The substantive findings of science are a product of social collaboration and are assigned to the community. They constitute a common heritage in which the equity of the individual producer is severely limited." - Originally published as “Science and Technology in a Democratic Order,” *Journal of Legal and Political Sociology* 1 (1942): 115-26; later published as “Science and Democratic Social Structure,” in Robert K. Merton, *Social Theory and Social Structure*. [ADD LINKS HERE]
 
 It is good to remember that Open Science principles re-articulate science norms that were historically considered to be integral to research itself. Open Science reaffirms the right of the community to access the substantive findings of research. As the findings of science belong to the entire community, any attempt by individuals or corporations to capture these for profit is a practice based on a notion of equity that is foreign to, and contrary to, how research is meant to operate.
 

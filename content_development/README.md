@@ -6,9 +6,15 @@ Please refer to the [contributing guidelines](https://github.com/OpenScienceMOOC
 
 ## Core content
 
-These are the draft content files. The content in them is fully accessible, and can be used for learning purposes. However, they have not been integrated into a formal MOOC platform yet. At the moment, they are being written in markdown format, and then using the [notedown](https://github.com/aaren/notedown) tool to convert into iPython notebook format.
+These are the draft content files. The content in them is fully accessible, and can be used for learning purposes. However, they have not been integrated into a formal MOOC platform yet. At the moment, they are being written in markdown format, and then using the [notedown](https://github.com/aaren/notedown) tool to convert into iPython notebook format. PDF and HTML versions are created using [pandoc](https://pandoc.org/demos.html) and the [markdown to PDF](https://atom.io/packages/markdown-pdf) package for Atom.
 
-**IMPORTANT** Please edit the markdown files, not the iPython files. These will be periodically converted and synchronised as needed.
+For notedown:
+1. Make sure you're working in Linux or Debian
+2. Change working directory: eg `cd /mnt/c/users/pc/desktop/`
+3. Install notedown: `pip install notedown`
+4. Convert files: `notedown input.md > output.ipynb`
+
+**IMPORTANT** Please edit the **markdown** files, not the iPython/HTML files. These will be periodically converted and synchronised as needed.
 
 ### In markdown format
 
@@ -18,7 +24,21 @@ These are the draft content files. The content in them is fully accessible, and 
 
 ### In iPython notebook format
 
-- TBC
+- [Main](MAIN.ipynb)
+- [Task 1](Task_1.ipynb)
+- [Task 2](Task_2.ipynb)
+
+### In PDF format
+
+- [Main](MAIN.pdf)
+- [Task 1](Task_1.pdf)
+- [Task 2](Task_2.pdf)
+
+### In HTML format
+
+- [Main](MAIN.html)
+- [Task 1](Task_1.html)
+- [Task 2](Task_2.html)
 
 ## Production files
 

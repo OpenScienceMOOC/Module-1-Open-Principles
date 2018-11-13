@@ -7,7 +7,7 @@ output:
 
 *Estimated time to complete: 60 minutes*
 
-*Estimated saving time: À lot*
+*Estimated saving time: A lot*
 
 ## Table of Contents
 
@@ -215,9 +215,7 @@ It is good to remember that Open Science principles re-articulate science norms 
 
 Open Science really hit the mainstream around 2016 due to a number of possible reasons. A combination of political activity and grassroots community-led initiatives put it formly on the map, and now everywhere you go in science, openness is all around in one way or another.
 
-For example, there has been a strong focus on Open Science in the last few years in Europe, with one of the biggest developments coming from this being the [European Open Science Cloud](http://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud) (EOSC).
-
-[Include recent developments from Africa and Indonesia]
+For example, there has been a strong focus on Open Science in the last few years in Europe, with one of the biggest developments coming from this being the [European Open Science Cloud](http://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud) (EOSC). Outside of Europe, there have been strong recent developments across Africa (with the [African Open Science Platform](http://africanopenscience.org.za/)) and [Indonesia](https://blogs.openaire.eu/?p=3105) too. Open Science is becoming a global concept.
 
 <br/>
 

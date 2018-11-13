@@ -301,7 +301,7 @@ This above video from [OCSDNet](https://ocsdnet.org/manifesto/open-science-manif
 
 <br/>
 
-Another widely-known vision for the future of scholarly communication is the [Vienna Principles](https://viennaprinciples.org/).
+Another widely-known vision for the future of scholarly communication is the [Vienna Principles](https://viennaprinciples.org/). Please feel free to share, re-use, or print these handy little infographics as you wish!
 
 ![Vienna Principles](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/vienna_principles.png?raw=true)
 
@@ -317,7 +317,18 @@ The production of research knowledge is inherently geopolitical, as emphasised b
 
 <br/>
 
+* Africa:
+
+* Europe:
+
+* South America:
+
+* North America:
+
+* Asia-Pacific:
+
 [TODO *Add content from here https://zenodo.org/record/1407488#.W5sqPuj7RPZ*]
+Also Panama Declaration on Open Science: http://openaccessweek.org/profiles/blogs/open-scicence-panama-declaration-latin-america-going-beyond-open
 
 ## The different dimensions of Open Science <a name="dimensions"></a>
 
@@ -339,7 +350,7 @@ The different aspects of this will be explored throughout different modules in t
 
 * **OPEN METHODS**: Where the process of the research has been documented in a sufficient detail to allow others to *repeat*, *reproduce*, or *replicate* the work.
 
-* **OPEN SOURCE**: Most modern science relies on code and software, and Open Source is about providing free access and re-use rights to this to maximise its utility.
+* **OPEN SOURCE**: Much modern research relies on code and software, and Open Source is about providing free access and re-use rights to this to maximise its utility.
 
 Other critical aspects of Open Science include **Public Engagement with Science**, **Open Educational Resources**, and **Open Advocacy** - all of which will be covered in later modules!
 
@@ -361,7 +372,7 @@ Another popular framing device is the 'Open Science schools of thought', by [Ben
 
 5. The **Pragmatic school**, concerning the role of collaborative research for more efficient knowledge creation and dissemination.
 
-Recently, the [Foundations for Open Scholarship Strategy Development](https://zenodo.org/record/1323437#.W2bIJSj7RPY) added a 6th to this, the [Community and Inclusion school](https://open-scholarship-strategy.github.io/site/#Community). [EXPAND ON THIS A BIT]
+Recently, the [Foundations for Open Scholarship Strategy Development](https://zenodo.org/record/1323437#.W2bIJSj7RPY) added a 6th to this, the [Community and Inclusion school](https://open-scholarship-strategy.github.io/site/#Community), which is concerned with ensuring a diverse and inclusive community in the Open Scholarship space.
 
 <br/>
 
@@ -369,7 +380,15 @@ Recently, the [Foundations for Open Scholarship Strategy Development](https://ze
 
 [**GO TO TASK 1: Defining how Open Science affects you**](Task_1.md)
 
-[Discuss McKiernan et al here]
+The most comprehensive overview of how Open Science impacts you comes from [McKiernan et al. (2016)](https://elifesciences.org/articles/16800), entitled 'How open science helps researchers succeed.' There's not much point rewriting this, as it does such a good job of making a positive case based on a number of important dimensions already! Here's the abstract:
+
+> Open access, open data, open source and other open scholarship practices are growing in popularity and necessity. However, widespread adoption of these practices has not yet been achieved. One reason is that researchers are uncertain about how sharing their work will affect their careers. We review literature demonstrating that open research is associated with increases in citations, media attention, potential collaborators, job opportunities and funding opportunities. These findings are evidence that open research practices bring significant benefits to researchers relative to more traditional closed practices.
+
+<br/>
+
+<center><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/citation_advantage.jpg?raw=true" width="800" /></center>
+
+<p align="center"><i>The relative citation rate (OA: non-OA) in 19 fields of research. This rate is defined as the mean citation rate of OA articles divided by the mean citation rate of non-OA articles. Multiple points for the same discipline indicate different estimates from the same study, or estimates from several studies. (McKiernan et al., 2016) <a href="https://elifesciences.org/articles/16800" target="_blank"></a></i></p>
 
 <br/>
 
@@ -380,6 +399,9 @@ The world of research evaluation is slowly changing. The way in researchers and 
 [Add quote from Stephen Curry about statistical illiteracy here]
 
 While there is generally little empirical evidence, it is generally accepted that research evaluation is almost entirely contingent on getting research articles published in 'high impact' journal venues. Strangely, very little empirical evidence exists to demonstrate that this view is actually embedded in practice. [ADD INFO FROM JUAN HERE]
+
+https://hcommons.org/deposits/item/hc:21015/
+https://www.nature.com/articles/d41586-018-06906-z
 
 One consequence of this, is that other elements of the research process, are often seen as less important. This includes Open Science, which can be viewed as risky or detrimental to the career choices of an individual research, and in particular those who are already disadvantaged/marginalised, or at an earlier stage in their career.
 

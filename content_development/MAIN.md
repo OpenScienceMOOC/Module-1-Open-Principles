@@ -270,7 +270,7 @@ Now, there are no rules about Open Science, and no one individual or organisatio
 
 <p align="center"><i>Principles of Open Scholarship, by Tony Ross-Hellauer (2017; CC BY). <a href="https://www.slideshare.net/OpenAIRE_eu/peer-review-in-the-age-of-open-science" target="_blank"></a></i></p>
 
-Note that often you will find things described as Open Science, but that do not seem to embrace these principles. These things are probably not 'true' Open Science, but more just attempting to surf the wave or join the bandwagon as a PR stunt. Such things are often called 'open washing'. The opposite is also true, that many researchers practice 'openness', but simply choose not to refer to it as this (or are unaware of the relationship).
+Note that often you will find things described as Open Science, but that do not seem to embrace these principles. These things are probably not 'true' Open Science, but more just attempting to surf the wave or join the bandwagon as a PR stunt. The opposite is also true, that many researchers might practice 'openness', but simply choose not to refer to it as this (or are unaware of the relationship).
 
 [![Open & Collaborative Science Manifesto
 ](https://img.youtube.com/vi/Y1X0xtB_JcY/0.jpg)](https://www.youtube.com/watch?v=Y1X0xtB_JcY)
@@ -285,7 +285,7 @@ This above video from [OCSDNet](https://ocsdnet.org/manifesto/open-science-manif
 
 * **Principle 2**: It recognizes cognitive justice, the need for diverse understandings of knowledge making to co-exist in scientific production.
 
-* **Principle 3**: It practices situated openness by addressing the ways in which context, power and inequality condition scientific research
+* **Principle 3**: It practices situated openness by addressing the ways in which context, power and inequality condition scientific research.
 
 * **Principle 4**: It advocates for every individual's right to research and enables different forms of participation at all stages of the research process.
 
@@ -295,7 +295,9 @@ This above video from [OCSDNet](https://ocsdnet.org/manifesto/open-science-manif
 
 * **Principle 7**: It strives to use knowledge as a pathway to sustainable development, equipping every individual to improve the well-being of our society and planet.
 
-[MAKE THIS INTO AN INFOGRAPHIC]
+<center><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/ocsdnet_principles.png?raw=true" width="800" /></center>
+
+<p align="center"><i>OCSDNet principles for Open and Collaborative Science.</i></p>
 
 <br/>
 

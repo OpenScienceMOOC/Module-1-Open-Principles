@@ -394,20 +394,32 @@ The most comprehensive overview of how Open Science impacts you comes from [McKi
 
 ### Changes in research evaluation <a name="evaluation"></a>
 
-The world of research evaluation is slowly changing. The way in researchers and their research is assessed governs virtually everything, as this defines the motivation and incentives behind certain behaviours.
+The world of research evaluation is slowly changing. The way in researchers and their research is assessed governs virtually everything, as this defines the motivation and incentives behind certain behaviours. Typically, the venue of publication (i.e., the journal and its impact factor) have been considered to be of critical importance in research(er) assessment. However, in the last 5 years there has been a surge in uprising against this practice. As [Stephen Curry noted in 2012](http://occamstypewriter.org/scurry/2012/08/13/sick-of-impact-factors/):
 
-[Add quote from Stephen Curry about statistical illiteracy here]
+> So consider all that we know of impact factors and think on this: if you use impact factors you are statistically illiterate.
+* If you include journal impact factors in the list of publications in your cv, you are statistically illiterate.
+* If you are judging grant or promotion applications and find yourself scanning the applicant’s publications, checking off the impact factors, you are statistically illiterate.
+* If you publish a journal that trumpets its impact factor in adverts or emails, you are statistically illiterate. (If you trumpet that impact factor to three decimal places, there is little hope for you.)
+* If you see someone else using impact factors and make no attempt at correction, you connive at statistical illiteracy.
 
-While there is generally little empirical evidence, it is generally accepted that research evaluation is almost entirely contingent on getting research articles published in 'high impact' journal venues. Strangely, very little empirical evidence exists to demonstrate that this view is actually embedded in practice. [ADD INFO FROM JUAN HERE]
 
-https://hcommons.org/deposits/item/hc:21015/
-https://www.nature.com/articles/d41586-018-06906-z
+<center><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/impact_factor.jpg?raw=true" width="800" /></center>
 
-One consequence of this, is that other elements of the research process, are often seen as less important. This includes Open Science, which can be viewed as risky or detrimental to the career choices of an individual research, and in particular those who are already disadvantaged/marginalised, or at an earlier stage in their career.
+<p align="center"><i>All hail the mighty impact factor! Illustration by John R. McKiernan, CC BY <a href="http://whyopenresearch.org/gallery" target="_blank"></a></i></p>
+
+While there is generally little empirical evidence, it is generally accepted that research evaluation is almost entirely contingent on getting research articles published in 'high impact' journal venues. Strangely, very little empirical evidence exists to demonstrate that this view is actually embedded in practice. 
+
+For example, a recent study from [Juan Pablo Alperin and colleagues](https://hcommons.org/deposits/item/hc:21015/) analysed the review, tenure, and promotion guidelines from across a wide range of North American research institutes. What they found was that about 48% of research institutes mention metrics of some sort in these documents, with variations across different institute types.
+
+One consequence of this, is that other elements of the research process, are often seen as less important. This includes Open Science, and forms of wider public engagement, which can be viewed as risky or detrimental to the career choices of an individual research; in particular those who are already disadvantaged/marginalised, or at an earlier stage in their career.
 
 This makes total sense. Researchers, believe it or not, are human. Thus, they are driven by inherent human desires to do things like pay their rent, eat food, pay bills, and provide for their families. In order to do this, they have to keep their jobs. Usually, this means conforming to how they believe they will be assessed, and any external pressures to this are seen as a risk to their livelihoods. This is why, as we discussed above, presenting 'Open Science' as divergent from traditional research processes, as opposed to being enhanced or more beneficial ways of doing things, can actually be inadvertently damaging.
 
-Perhaps a much bigger consequence of this, however, is that we essentially have a system where researchers are rewarded for how many papers they publish, and the brands associated with the venue of publication, which can be detrimental to the value of shared knowledge. [ADD INFO FROM BREMBS HERE]
+Perhaps a much bigger consequence of this, however, is that we essentially have a system where researchers are rewarded for how many papers they publish, and the brands associated with the venue of publication, which can be detrimental to the value of shared knowledge. For example, research has shown that using journal rank for research assessment is an inherently bad scientific practice, and indeed such a negative impact on research that scholarly journals should be abandoned altogether [(Brembs et al., 2013)](https://www.frontiersin.org/articles/10.3389/fnhum.2013.00291/full). Further research has also shown that journal rank is associated with decreased methodological quality and research reliability, and that the present system of journal hierarchies is an ongoing threat to the entire research system [(Brembs, 2018)](https://www.frontiersin.org/articles/10.3389/fnhum.2018.00037/full).
+
+These issues and criticisms have led to an increasing debate around, and action against, modern research evaluation systems. One of the most significant steps was the development of the [Leiden Manifesto](http://www.leidenmanifesto.org/), which produced 10 simple principles to improve the measurement of research performance. It is presently available in [20 languages](http://www.leidenmanifesto.org/translations.html).
+
+Another important step in research evaluation reform is the San Francisco [Declaration on Research Assessment](https://sfdora.org/), often shortened to DORA. Similarly to the Leiden Manifesto, DORA seeks to improve how research is assessed, and individuals and organisations can sign the declaration to show their support.
 
 <br/>
 

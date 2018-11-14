@@ -425,11 +425,17 @@ Another important step in research evaluation reform is the San Francisco [Decla
 
 ### Potential impact on your career <a name="career"></a>
 
-Things are changing, though. It is becoming more widely realised that these publication-based incentives are detrimental to the research process, and the health of research culture. For example, this comes from an [advertisement for a professorship at the Ludwig Maximillian University](http://www.nicebread.de/open-science-hiring-practices/), Munich, and is the first time that Open Science was made an explicit part of hiring criteria:
+Things are changing, though. It is becoming more widely realised that these publication-based incentives are detrimental to the research process, and the health of research culture. For example, this comes from an [advertisement for a professorship at the Ludwig Maximillian University](http://www.nicebread.de/open-science-hiring-practices/), Munich, and is one of the first times that Open Science was made an explicit part of hiring criteria:
 
 > "Our department embraces the values of Open Science and strives for replicable and reproducible research. For this goal we support transparent research with open data, open material, and pre-registrations. Candidates are asked to describe in what way they already pursued and plan to pursue these goals."
 
-Having Open Science as a core value in research departments sends a strong message for a shift in research cultures.
+Having Open Science as a core value in research departments sends a strong message for a shift in research cultures. More and more universities all the time are including aspects of open scholarship in their promotion and tenure guidelines, including [Virginia Commonwealth University, the University of North Texas, Harvard School of Engineering and Applied Sciences, Purdue University Indianapolis, and more](http://whyopenresearch.org/promotion).
+
+Another thing that researchers like to have in order to carry out their work is funding. Again, open practices are becoming much more widely recognised in the funding application process, and can even help to give researchers an edge, or the ability to qualify for special funds. Such funders include the [Bill and Melinda Gates Foundation, the National Science Foundation (USA), the National Institutes of Health (USA), the European Commission, the Wellcome Trust, and the Shuttleworth Foundation](http://whyopenresearch.org/funding)). (note that the latter partially supported the development of this MOOC!)
+
+<center><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/roarmap.png?raw=true" width="800" /></center>
+
+<p align="center"><i>The Registry of Open Access Repository Mandates and Policies (ROARMAP) is a searchable international registry charting the growth of open access mandates and policies adopted by universities, research institutions and research funders that require or request their researchers to provide open access to their peer-reviewed research article output by depositing it in an open access repository. <a href="http://roarmap.eprints.org/" target="_blank"></a></i></p>
 
 [Mention stuff from the EC here]
 [Also EURODOC statements]

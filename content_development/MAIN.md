@@ -521,23 +521,23 @@ However, as well as these, there are several worrying and ongoing trends that re
 
 Based on this, it is interesting to ask why such dangerous trends seem to grow from seemingly good intentions based on positive core principles and values. It might be easy, based on the above, to become extremely pessimistic, or even antagonistic, towards Open Science. However, as with any movement or new way of doing things, it is down to each of us to carefully balance the potential drawbacks and benefits, and the wider consequences and contexts of these.
 
-<br/>
-
-### Moving away from tradition and the status quo <a name="tradition"></a>
-
 While the core principles underlying Open Science are often focussed around accessibility, in practice there is often a trade-off within this hierarchy, and often with unforeseen consequences. Much of this is not due to the intentions of Open Science, but more about the difficulties in reconciling the different stakeholder viewpoints, which often leads to inherent conflict and complications around developments.
 
-[Include: lobbying, resistance to shifting away from impact factor, resistance to openness, co-opting of OA and Open Science by publishers. Need to add this section to TOC.]
-
-It is perfectly natural for researchers and industries that have made themselves successful or profitable based on a particular set of practices to resist any disruption towards that. Let us take two primary examples for this.
+It is perfectly natural for researchers and industries that have made themselves successful or profitable based on a particular set of practices to resist any disruption towards that. Let us take several primary examples for this.
 
 1. Moving research evaluation away from journal brands and the impact factor.
 
-[ADD REF TO SPRINGER NATURE IPO?]
+Imagine if you are a researcher who has built a successful career, to some extent based on the journals in which you have published your work. Then imagine someone says that journal brands, impact factors, and journal ranks are actually bad for science, and don't tell us much about the quality of your research. There's a chance you're going to resist that a bit.
+
+Now, imagine if you are a commercial publisher. Selling your brand to libraries, funders, research assessment groups, and researchers it critical for the financial sustainability and integrity of your journal. Simply removing all concept of brands for your, er, brands, is not exactly a path to fiscal sustainability.
+
+> “We also aim at increasing APCs by increasing the value we offer to authors through improving the impact factor and reputation of our existing journals.” - Springer Nature IPO ([page 99](http://web.archive.org/web/20180507134223/http:/proxy.dbagproject.de/mediacenter/ressourcen/pdf/emissionen/springernature_prospectus.pdf)).
+
+Does this sound like a company who has the best interests of researchers, the public, and open science at heart? So there are major tensions here, that reflect inherent power dynamics within the scholarly communication system. Which perhaps explains why it has been so difficult to move away from an impact factor or journal dominated system since the advent of Open Science. At least part of this can be explained by a largely [dysfunctional scholarly publishing 'market'](https://zenodo.org/record/1472045#.W-7r8ZP7RPY).
 
 2. Moving away from a subscription model to one where all information is freely available.
 
-[EXPAND]
+Did you know that back in 2007, publishers such as Elsevier, Wiley, and the American Chemical Society were advised by the ['pitbull of PR'](https://www.nature.com/articles/445347a) to equate public/open access with government censorship, and for traditional subscription-based publishing eith peer review? This is just one small part of a long history where some in the scholarly publishing industry have lobbied and ran smear campaigns against open access, as a delay tactic until they could find a way to either destroy it, or convert it into a profitable business model. This resistance perhaps is one of the key factors in explaining why, in after about 20 years of relentless campaigning, we have only made about 25% of the world's research openly accessible, with the rest locked behind expensive paywalls.
 
 <br/>
 
@@ -567,9 +567,7 @@ Here, the intersection of reproducibility and Open Science becomes centred aroun
 
 6. Generates more accurate information that is ultimately more accessible.
 
-Therefore, one could easily argue that Open Science is aligned with concepts of **academic freedom**, by liberating individuals from the constraints of the closed system.
-
-[NEED TO EXPAND ON THIS]
+Therefore, one could easily argue that Open Science is aligned with concepts of **academic freedom**, by liberating individuals from the constraints of the closed system. We will explore the links between Open Science and reproducible research more in [Module 3](https://opensciencemooc.eu/modules/reproducible-research-and-data-analysis/).
 
 <br/>
 
@@ -585,13 +583,13 @@ There are no set rules though. Open Science gives you the freedom to explore pro
 
 <br/>
 
-Throughout the rest of this MOOC, you will meet many of these on your Open Science adventure, and tailor new knowledge and skills to suit what is best for you.
+Throughout the rest of this [MOOC](https://opensciencemooc.eu/), you will meet many of these on your Open Science adventure, and tailor new knowledge and skills to suit what is best for you.
 
 <br/>
 
 ## Where to go from here <a name="future"></a>
 
-Hopefully now you have come to see the importance of Open Scientific principles, values, and practices as a fundamental part of modern science. Open Science is an umbrella term for a range of ideals, values, practices, and principles, all of which are integrated together:
+Hopefully now you have come to see the importance of Open Science as a fundamental part of modern research. Open Science is an umbrella term for a range of ideals, values, practices, and principles, all of which are integrated together:
 
 [![Intersections of Openness
 ](https://img.youtube.com/vi/Es7qvO_2kSg/0.jpg)](https://www.youtube.com/watch?v=Es7qvO_2kSg)

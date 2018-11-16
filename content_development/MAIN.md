@@ -1,7 +1,7 @@
 ---
 output:
- pdf_document: default
  html_document: default
+ pdf_document: default
 ---
 # Module 1: Open Principles
 

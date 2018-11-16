@@ -18,15 +18,15 @@ For notedown:
 
 ### In markdown format
 
-- [Main](MAIN.md)
-- [Task 1](Task_1.md)
-- [Task 2](Task_2.md)
+- [Main](MAIN.md) - The main content for this Module.
+- [Task 1](Task_1.md)- Defining how Open Science affects you.
+- [Task 2](Task_2.md) - Developing your digital researcher profile.
 
 ### In iPython notebook format
 
-- [Main](MAIN.ipynb)
-- [Task 1](Task_1.ipynb)
-- [Task 2](Task_2.ipynb)
+- [Main](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/MAIN.ipynb) (click [here](https://nbviewer.jupyter.org/github/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/MAIN.ipynb) to view)
+- [Task 1](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/Task_1.ipynb) (click [here](https://nbviewer.jupyter.org/github/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/Task_1.ipynb) to view)
+- [Task 2](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/Task_2.ipynb) (click [here](https://nbviewer.jupyter.org/github/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/Task_2.ipynb) to view))
 
 ### In PDF format
 

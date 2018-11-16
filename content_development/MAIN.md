@@ -437,33 +437,33 @@ Another thing that researchers like to have in order to carry out their work is 
 
 <p align="center"><i>The Registry of Open Access Repository Mandates and Policies (ROARMAP) is a searchable international registry charting the growth of open access mandates and policies adopted by universities, research institutions and research funders that require or request their researchers to provide open access to their peer-reviewed research article output by depositing it in an open access repository. <a href="http://roarmap.eprints.org/" target="_blank"></a></i></p>
 
-[Mention stuff from the EC here]
-[Also EURODOC statements]
-[ADD INFO FROM ASAPBIO]
+<br/>
 
 ### Creating your digital profile <a name="profile"></a>
 
-Alright, enough talk. Or text, anyway. Let's help you build your personal, digital persona that embraces openness. Thankfully, you don't have to start from scratch here, and some smart folks have done a lot of the groundwork for you.
+Alright, enough talk for now. Or text, anyway. Let's help you build your personal, digital persona that embraces openness! Thankfully, you don't have to start from scratch here, and some smart folks have done a lot of the groundwork for you.
 
 There now exist a range of cool tools that can help you to document your 'open' research practices, and build this in to your own digital researcher profile. Here are some of the most important ones, and then a nice practical task to help you set them up for yourself!
 
-* **ORCID** - This stands for "ERRR, add this in here. Something something ID.." ORCID gives you a persistent identifier for you and your research, and is a breeze to integrate with your entire publication record.
+* **ORCID** - This stands for Open Researcher and Contributor ID. ORCID gives you a persistent identifier for you and your research, and is a breeze to integrate with your entire publication record.
 
 * **ImpactStory** - Here, imagine all of the attention your research has received online brought to you in one place, linked with your ORCID profile, and displayed with cool badges and summaries? ImpactStory cleverly does this, and tells you your, er, impact story!
 
 * **Publons** - Don't you just hate it when you do a peer review, and then pretty much no one knows anything about it? Don't you want credit for all your hard work? Publons gives you a place to do that!
 
+* **Open Science Framework** - An open source software project that facilitates open collaboration in science research. Currently also hosts a range of preprint servers.
+
 OK, let's go to Task 2 and get you set up with these.
 
-Before you start, please be aware that Publons got acquired by the analytics company Clarivate recently. While such acquisitions are fairly commonplace in this ecosystem, we want to make you aware that if you sign up to this organisation, while it does provide a value to you, it also uses you as the product which it uses to sell services. We recognise that some of you might be uncomfortable with this (think Facebook for peer review), and therefore this stage is totally optional based on your own values here.
+Before you start, please be aware that Publons recently got acquired by the for-profit company Clarivate Analytics recently. While such acquisitions are fairly commonplace in this ecosystem, we want to make you aware that if you sign up to this organisation, while it does provide a value to you, it also uses you as the product which it uses to sell services. We recognise that some of you might be uncomfortable with this (think Facebook for peer review), and therefore this stage is totally optional based on your own values here.
 
-[**GO TO TASK 2: Developing your digital researcher profile**]
+[**GO TO TASK 2: Developing your digital researcher profile**](Task_2.md)
 
 <br/>
 
 ## Barriers and limitations for Open Science <a name="barriers"></a>
 
-Despite the more or less obvious benefits of Open Science practice (as discussed above), there are a range of reasonable concerns and therefore necessary limitations and exceptions to be identified, discussed and implemented in a highly discipline-specific manner. It would be utterly foolish of us to rampantly support Open Science without paying due consideration to these.
+Despite the more or less obvious benefits of Open Science practice (as discussed above), there are a range of reasonable concerns and therefore necessary limitations and exceptions to be identified, discussed and implemented in a highly discipline-specific manner. It would be utterly foolish, and not very scientific, of us to rampantly support Open Science without paying due consideration to these.
 
 Such concerns include and are not limited to:
 
@@ -473,20 +473,23 @@ Such concerns include and are not limited to:
 
 * Geomapping data of endangered species (flora & fauna);
 
-* ADD MORE HERE
+* Poor formatting of data for re-use;
 
-* poor formatting of data
-* use of proprietary software
-* financial paywalls by publisher
-* usage restrictions by publisher
-* reluctance to publish due to fear of competition
-* …
+* Lack of distributed article-processing charge funding;
 
-Another important aspect to note (as has always been) is that each openly released dataset requires a clear description of the context in which the data was raised (i.e., metadata), so that researchers who make use of the freely accessible data apply it in a meaningful analysis and reasonably transferred context.
+* Use of proprietary software;
 
-[refer to the Open Scholarship Strategy here, which discusses more limitations]
+* Financial paywalls imposed by publishers;
 
-<br/>
+* Complex, confusing, and difficult to navigate embargo periods;
+
+* Conflicts between funder and publisher policies;
+
+* Usage restrictions imposed by publisher; and
+
+* Reluctance to publish due to fear of competition.
+
+Another important aspect to note (as has always been) is that each openly released dataset requires a clear description of the context in which the data was raised (i.e., metadata), so that researchers who make use of the freely accessible data apply it in a meaningful analysis and reasonably transferred context. Many of these are discussed further within the [Foundations for Open Scholarship Strategy Development](https://open-scholarship-strategy.github.io/site/#Challenges).
 
 Open Science reflects the intentions of the researchers themselves, and is thereby subject to cultural bias. Open Science is not a perfect system by any means, and operates a hierarchy between different barriers. For example, Open Access seeks to remove barriers such as price for readers and re-use permissions, but often fails to address barriers such as connectivity or language, and also in cases erect new barriers, such as author-facing costs.
 
@@ -496,7 +499,7 @@ This is something which the Open Science movement is becoming more and more awar
 
 * High article processing charges (APCs) for publication, that discriminate against those without financial privilege;
 
-* Other [geopolitical factors](https://medium.com/@denalbz/power-and-inequality-in-open-science-discourses-9d425b0c2b63) include resistance to sharing due to fear of persecution, and knowledge misuse or appropriation.
+* Other [geopolitical factors](https://medium.com/@denalbz/power-and-inequality-in-open-science-discourses-9d425b0c2b63) include resistance to sharing due to fear of persecution, and knowledge misuse or appropriation;
 
 * Evidence. Researchers are generally conservative to adoption of new approaches, until there is sufficient evidence that they are superior than traditional methods.
 

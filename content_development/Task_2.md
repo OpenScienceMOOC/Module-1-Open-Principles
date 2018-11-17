@@ -24,7 +24,9 @@ Estimated time saved: Immeasurable, but probably a lot.
 * [Create your own Impact Story](#impactstory)
   * [Understanding your own Impactstory profile](#impactstory_profile)
 * [Build your peer reviewer profile with Publons](#publons)
-  * [](#)
+  * [Getting your own Publons profile](#publons_account)
+  * [Populating your new Publons profile](#publons_profile)
+  * [Import your own publication record from ORCID](#ORCID_publons_import)
 * [Opening up your research with the Open Science Framework](#osf)
 
 <br/>
@@ -43,7 +45,7 @@ The four we met before are:
 
 * [**Publons**](https://publons.com/home/) - A place to document your peer review activities.
 
-* [**Open Science Framework**](https://osf.io/) - A placr to openly collaborate on your research.
+* [**Open Science Framework**](https://osf.io/) - A place to openly collaborate on your research.
 
 The latter three of these actually integrate nicely with ORCID, including pulling in all the information there to make building your profile a bit easier. Here, we are going to go through each one and help to showcase your work, build your own unique research profile, and be a more open researcher! 
 
@@ -125,7 +127,7 @@ Here are a few simple steps for each to help you get familiar with the process.
 
 3. Each time you click one of the options, it will take you to the 'oauth' authorization page. Here, make sure only to authorize sources that you trust (which is basically all options) to help keep your data safe.
 
-4. After authorizing, you will be taken to the relevant search page for whichever organization you chose, automatically populated with a search result for your name.
+4. After authorizing, you will be taken to the relevant search page for whichever organization you chose (e.g., CrossRef), automatically populated with a search result for your name.
 
 5. Now you can simple select which works you want to be added to your own personal profile.
 
@@ -195,6 +197,93 @@ That's it! As Impactstory say, you are more than your h-index, and this provides
 
 ## Build your peer reviewer profile with Publons<a name="publons"></a>
 
+[Publons](https://publons.com/) is a platform for researchers to track, verify, and showcase their reviewing and editorial contributions for academic journals. It also has the Publons Academy, designed to help with training early-career researchers with peer review.
+
+** IMPORTANT NOTE** In 2017, Publons was acquired by Clarivate Analytics, the company which includes products such as Web of Science (and the impact factor), EndNote, and ScholarOne. At this stage, some of you might not wish to have a profile with this company for various reasons. We make no judgement call on this, and it is up to each individual to decide whether or not they wish to proceed here. At the present though, there is no 'open' (e.g., non-profit, open source) version of Publons in existence. If you wish, you can skip this section and head to the next for the [Open Science Framework](#osf).
+
+<br/>
+
+### Getting your own Publons profile<a name="publons_account"></a>
+
+So, assuming that you are okay with the note above, head on over to the [Publons homepage](https://publons.com/home/). Click the 'Create a review profile' button.
+
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/publons.png?raw=true" width="800" /></p>
+
+<p align="center"><i>Publons homepage</i></p>
+
+<br/>
+
+Oh, hey, look how useful this is - again you get to register using your ORCID profile! Or Google or LinkedIn accounts if you prefer. For now, let's stick with ORCID though. If you click the green ORCID 'ID' logo, it will take you to the ORCID page where you will be prompted to login. Simply sign in, and then you will be redirected back to your new Publons dashboard. Easy!
+
+<br/>
+
+### Populating your new Publons profile <a name="publons_profile"></a>
+
+On your dashboard now, you'll have several key sections. The first is your public profile, which you can download and edit, and keeps track of your reviewer statistics. The second is your account activity, which includes any notifications as well as any records that are being processed to be added to your profile.
+
+The next section, Records, is where all the fun happens. This is where the most important aspect of your Publons profile is populated, your reviewer record.
+
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/publons_add.png?raw=true" width="800" /></p>
+
+<p align="center"><i>Adding a new review record on your Publons dashboard</i></p>
+
+If you haven't performed a peer review yet, don't worry about this stage! But it is nice to be prepared for when it happens.
+
+If you have, there are some simple steps to follow here.
+
+1. Decide if your peer review is 'pre-publication' or 'post-publication'. The vast majority will be the first here.
+
+2. Enter the name of the journal or conference you performed the review for, as well as the date you submitted it.
+
+3. Enter the article title and the DOI (Digital Object Identifier). If the article has not been published yet, there most likely won't be a DOI yet, but don't worry about that.
+
+4. Decide the level of overall review privacy. This includes whether or not you can display the review content itself or not, which is often contingent on the editorial policy of the journal. Publons often has an automatic checking procedure in place for this too.
+
+5. Copy and paste in the review content itself, if you wish. This stage is optional, and again whether or not it will be publicly displayed is based on the editorial policy of the journal. Make sure that you know your sharing rights, as well as the journal policy regarding this, before sharing anything openly.
+
+6. Create the review!
+
+7. This will take you to a new page, where you will have options such as getting your review endorsed and verified, scoring the publication, as well as for inviting further feedback on your review. 
+
+8. Repeat steps 1-7 as necessary. This all does have to be done manually at this stage, but thankfully each record only takes a few minutes to add.
+
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/publons_profile.png?raw=true" width="800" /></p>
+
+<p align="center"><i>What a populated Publons record looks like</i></p>
+
+<br/>
+
+After you have added one or more records to your profile, you will see a full visualisation of it on your dashboard. This includes a table with key information, such as:
+
+* The date the review was performed;
+
+* Which journal the review was for;
+
+* The title of the paper you reviewed;
+
+* Whether or not the review was verified;
+
+* Whether the content of the review is publicly displayed or not;
+
+* Whether you have scored the manuscript your reviewed or not;
+
+* If someone has endorsed your review;
+
+* Whether anyone has provided any feedback on your review; and
+
+* The [Altmetric](https://www.altmetric.com/) score for the manuscript.
+
+<br/>
+
+### Import your own publiation record from ORCID<a name="ORCID_publons_import"></a>
+
+After you have populated your reviewer record, you might also wish to import your own publication record from ORCID. This will provide additional information from Publons about the review activity around it, including whether the reviews are openly available or not, whether the reviews have been signed, and the number of citations (based on Web of Science data).
+
+To do this step, simply click 'Publication records' on the left hand side, and then 'Import from ORCID' to populate your publication profile.
+
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/publons_pub_record.png?raw=true" width="800" /></p>
+
+<p align="center"><i>Example of a populated Publons publication record</i></p>
 
 <br/>
 

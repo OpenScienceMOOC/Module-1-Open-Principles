@@ -308,10 +308,23 @@ Again, you should have a chance here to sign in or sign up using your ORCID prof
 
 <p align="center"><i>Getting started with the Open Science Framework, Center for Open Science, CC BY. <a href="https://www.youtube.com/watch?v=2TV21gOzfhw" target="_blank">Source</a></i></p>
 
+<br/>
+
+Perhaps one of the most important things to note here is that the OSF is integrated with a whole host of existing services, including GitHub and Google Drive, that make it a lot easier to use for collaboration and project management. 
+
+> Fun extra! If at this stage you have already completed Task 1 of Module 5, on how to [set up your first GitHub project](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_1.md), you can take a quick look here and see how easy it is to integrate this into a new or existing project on the OSF. 
 
 <p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/osf_integrations.png?raw=true" width="800" /></p>
 
 <p align="center"><i>The Open Science Framework is integrated with a range of other useful services for researchers</i></p>
+
+<br/>
+
+Besides the main project management and collaboration functionalities which you can play with above, the OSF also has four more major features:
+
+1. [OSF Registries](https://osf.io/registries/) - Which includes more than 270,000 registrations, which you can learn more about [here](https://cos.io/prereg/).
+
+2. [OSF Meetings](https://osf.io/meetings/)
 
 <br/>
 
@@ -329,3 +342,5 @@ Again, you should have a chance here to sign in or sign up using your ORCID prof
 **Know a way this content can be improved?**
 
 Time to take your new GitHub skills for a test-run! All content development primarily happens [here](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/Task_2.md). If you have a suggested improvement to the content, layout, or anything else, you can make it and then it will automatically become part of the MOOC content after verification from a moderator!
+
+**DISCLAIMER** ORCID, ImpactStory, and the OSF are [strategic partners](https://opensciencemooc.eu/about/) with the Open Science MOOC. We are not supported by them in any way, including financially, and they had no role in the design of this task, or any of this MOOC module. We just think they're all pretty cool.

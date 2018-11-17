@@ -324,18 +324,34 @@ Besides the main project management and collaboration functionalities which you 
 
 1. [OSF Registries](https://osf.io/registries/) - Which includes more than 270,000 registrations, which you can learn more about [here](https://cos.io/prereg/).
 
-2. [OSF Meetings](https://osf.io/meetings/)
+2. [OSF Meetings](https://osf.io/meetings/) - A place where conference organisers can arrange a free poster and presentation sharing service for their events.
+
+3. [OSF Institutions](https://osf.io/institutions/) - Basically the OSF, but operating at the institutional level to increase transparency, collaboration, and visibility of research.
+
+4. [OSF Preprints](https://osf.io/preprints/) - A searchable database of more than 2 million preprints, across more than 20 OSF-branded and community-governed platforms.
+
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/osf_preprints.png?raw=true" width="800" /></p>
+
+<p align="center"><i>The OSF hosts a huge number of branded and community-governed preprint platforms. Some are subject-specific, while others cater to particular languages. </i></p>
 
 <br/>
 
 ## Checklist <a name="Checklist"></a>
 
-
-
-
 **CONGRATULATIONS!**
 
+So hopefully now you have the basics elements of your personalised, online researcher profile completed. This provides a great way to showcase your work, increase and track your research impact, and receive appropriate credit for all of this.
 
+Just to make sure, now you should have:
+
+- [ ] A personal ORCID profile, with any publications associated with this.
+- [ ] An ImpactStory profile to help track and showcase the social attention that your research gets.
+- [ ] An Open Science Framework profile, to begin openly collaborating and managing your research.
+- [ ] And optionally, a Publons profile, to track your peer review record.
+
+From here on, much of this will be automatically populated as your work progresses. But some advice is to check your ImpactStory regularly, to see who is sharing your work and in what context, and to make sure that as much of your research is openly available (e.g., code, articles, data) via the Open Science Framework as possible. Finally, if you created a Publons profile, make sure to update this as you review new articles in the future to keep track of this important work.
+
+How you develop your own digital research profile in the future will be down to each individual, but hopefully this is enough for now to give you a good boost!
 
 <br/>
 

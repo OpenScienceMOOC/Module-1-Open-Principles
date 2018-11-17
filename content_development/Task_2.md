@@ -199,7 +199,7 @@ That's it! As Impactstory say, you are more than your h-index, and this provides
 
 [Publons](https://publons.com/) is a platform for researchers to track, verify, and showcase their reviewing and editorial contributions for academic journals. It also has the Publons Academy, designed to help with training early-career researchers with peer review.
 
-**IMPORTANT NOTE** In 2017, Publons was acquired by Clarivate Analytics, the company which includes products such as Web of Science (and the impact factor), EndNote, and ScholarOne. At this stage, some of you might not wish to have a profile with this company for various reasons. We make no judgement call on this, and it is up to each individual to decide whether or not they wish to proceed here. At the present though, there is no 'open' (e.g., non-profit, open source) version of Publons in existence. If you wish, you can skip this section and head to the next for the [Open Science Framework](#osf).
+**IMPORTANT NOTE** In 2017, Publons was acquired by Clarivate Analytics, the company which includes products such as Web of Science (and the impact factor), EndNote, and ScholarOne. At this stage, some of you might not wish to have a profile with this company for various reasons. We make no judgement call on this, and it is up to each individual to decide whether or not they wish to proceed here. At the present though, there is no 'open' (e.g., non-profit, open source) version of or alternative to Publons in existence. If you wish, you can skip this section and head to the next for the [Open Science Framework](#osf).
 
 <br/>
 
@@ -287,20 +287,44 @@ To do this step, simply click 'Publication records' on the left hand side, and t
 
 <br/>
 
-These are perhaps the most important aspects of Publons for now for researchers. You can also add your records for work as an Editor, and create a Publons widget to display on your website, should you wish. Finally, if you wish to learn more about peer review, the [Publons Academy](https://publons.com/academy/module/1/) provides a training platform for this. We will revist peer review in Module 7 of the MOOC, [Open Evaluation](https://opensciencemooc.eu/modules/open-evaluation/).
+These are perhaps the most important aspects of Publons for now for researchers. You can also add your records for work as an Editor, and create a Publons widget to display on your website, should you wish. Finally, if you wish to learn more about peer review, the [Publons Academy](https://publons.com/academy/module/1/) provides a training platform for this. We will revisit peer review in Module 7 of the MOOC, [Open Evaluation](https://opensciencemooc.eu/modules/open-evaluation/).
 
 <br/>
 
 ## Opening up your research with the Open Science Framework<a name="osf"></a>
 
+OK, hopefully you're getting the hang of this by now! Head to the [Open Science Framework homepage](https://osf.io/), and click 'Sign up'.
 
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/osf.png?raw=true" width="600" /></p>
+
+<p align="center"><i>The Open Science Framework homepage</i></p>
+
+<br/>
+
+Again, you should have a chance here to sign in or sign up using your ORCID profile, or through an institutional profile. Once logged in, you will be taken to your dashboard, which contains a rolling list of the various projects integrated with your OSF profile. Of course, if you have only just set up your account this will be blank for now. For a quick, 2 minute video on how to get started with your OSF account, check out the video below.
+
+[![Getting started with the Open Science Framework
+](https://img.youtube.com/vi/2TV21gOzfhw/0.jpg)](https://www.youtube.com/watch?v=2TV21gOzfhw)
+
+<p align="center"><i>Getting started with the Open Science Framework, Center for Open Science, CC BY. <a href="https://www.youtube.com/watch?v=2TV21gOzfhw" target="_blank">Source</a></i></p>
+
+
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/osf_integrations.png?raw=true" width="800" /></p>
+
+<p align="center"><i>The Open Science Framework is integrated with a range of other useful services for researchers</i></p>
+
+<br/>
 
 ## Checklist <a name="Checklist"></a>
+
+
 
 
 **CONGRATULATIONS!**
 
 
+
+<br/>
 
 **Know a way this content can be improved?**
 

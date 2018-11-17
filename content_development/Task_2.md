@@ -23,18 +23,19 @@ Estimated time saved: Immeasurable, but probably a lot.
   * [Populating your ORCID profile](#pop_orcid)
 * [Create your own Impact Story](#impactstory)
   * [Understanding your own Impactstory profile](#impactstory_profile)
-* [Build your peer reviewer profile with Publons](#)
+* [Build your peer reviewer profile with Publons](#publons)
   * [](#)
+* [Opening up your research with the Open Science Framework](#osf)
 
 <br/>
 
 ## Getting started <a name="Getting_started"></a>
 
-OK, so in the [main content](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/MAIN.md) for this module, we just briefly introduced you to three services that you can use to enhance our researcher profile. These are based around documenting your research publications, the online attention these get, and your peer reviewer profile.
+OK, so in the [main content](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/MAIN.md) for this module, we just briefly introduced you to several services that you can use to enhance our researcher profile. These are based around documenting your research publications, the online attention these get, your peer reviewer profile, and research collaboration in the open.
 
 These are by no means the only platforms available to you, and not limited in scope to documenting your own worth as a researcher. However, what they do help to do is give you a better idea of how your researcher profile is developing, and allow others to see that too.
 
-The three we met before are:
+The four we met before are:
 
 * [**ORCID**](https://orcid.org/) - A persistent identifier for you and your research.
 
@@ -42,13 +43,15 @@ The three we met before are:
 
 * [**Publons**](https://publons.com/home/) - A place to document your peer review activities.
 
-The latter two of these actually integrate nicely with ORCID and pull in all the information there to make building your profile a bit easier. Here, we are going to go through each one and help to showcase your work and build your own unique research profile.
+* [**Open Science Framework**](https://osf.io/) - A placr to openly collaborate on your research.
+
+The latter three of these actually integrate nicely with ORCID, including pulling in all the information there to make building your profile a bit easier. Here, we are going to go through each one and help to showcase your work, build your own unique research profile, and be a more open researcher! 
 
 <br/>
 
 ## Getting your ORCID account<a name="ORCID"></a>
 
-[ORCID](https://orcid.org/) stands for 'Open Researcher and Contributor ID'. It provides you with a persistent digital identifier that distinguishes you from every other researcher. It also neatly integrates with key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized.
+[ORCID](https://orcid.org/) stands for 'Open Researcher and Contributor ID'. It provides you with a persistent digital identifier that distinguishes you from every other researcher. It also neatly integrates with key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized. Many journals now require you to have an ORCID profile when submitting manuscripts for publication.
 
 <p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/orcid.png?raw=true" width="600" /></p>
 
@@ -58,7 +61,7 @@ The latter two of these actually integrate nicely with ORCID and pull in all the
 
 ### How to register for your ORCID account<a name="reg_orcid"></a>
 
-This one is dead easy, and only takes a couple of minutes thankfully! Here's how in a few simple steps:
+This one is quite easy, and only takes a couple of minutes thankfully! Here's how in a few simple steps:
 
 1. Go to the [ORCID website](https://orcid.org/) and click the 'Register now' link.
 
@@ -68,13 +71,13 @@ This one is dead easy, and only takes a couple of minutes thankfully! Here's how
 
 4. Register.
 
-That's it! Congratulations, you now have a unique and permanent ID for your research profile!
+That's it! Congratulations, you now have a unique and permanent ID for your research profile! Throughout your research workflow, you'll notice ORCID coming up more and more, and now you will be well prepared for when it does.
 
 <br/>
 
 ### Populating your ORCID profile<a name="pop_orcid"></a>
 
-Now you have your ORCID profile, it's time to add some content to it! There are several key areas here:
+OK, so now you have your ORCID profile, it's time to add some content to it! There are several key areas here:
 
 * Education
 
@@ -94,7 +97,7 @@ We'll get to the latter of these later via Publons. For the other four, this is 
 
 <br/>
 
-The great advantage that ORCID has here is that this information can be ported into other systems, so stops you having to enter the same data over and over again across different platforms. Here, you can also enter information such as your country of residence, keywords, your website, emails, and other IDs that you might have. It's a good idea here to enter a nice, simple, but comprehensive biography.
+The great advantage that ORCID has here is that this information can be ported into other systems, so stops you having to enter the same data over and over again across different platforms. Which as well all know can be tiring and frustrating. Here, you can also enter information such as your country of residence, keywords, your website, emails, and other IDs that you might have. It's a good idea here to enter a nice, simple, but comprehensive and professional biography.
 
 For now, there are three ways to help add scholarly works to your ORCID record.
 
@@ -112,7 +115,7 @@ For now, there are three ways to help add scholarly works to your ORCID record.
 
 <br/>
 
-Here are a few simple steps for each.
+Here are a few simple steps for each to help you get familiar with the process.
 
 **DIRECT IMPORT**
 
@@ -136,9 +139,9 @@ Here are a few simple steps for each.
 
 **BIBTEX IMPORT**
 
-This one is a bit simpler. If you have a citation record as a .bib file (BibTeX file format), you can simply select this from your desktop and upload it. ORCID will do the rest and populate your profile using this. You can use services like the export functions in Google Scholar to make this even easier.
+This one is a bit simpler. If you have a personal citation record as a .bib file (BibTeX file format; for example from [Zotero](https://www.zotero.org/)), you can simply select this from your desktop and upload it. ORCID will do the rest and populate your profile using this. You can use services like the export functions in Google Scholar to make this even easier for yourself too.
 
-You can also export your works here in .bib format.  BibTeX is a platform-independent, plain-text format used for bibliographic citations. BibTeX files can be created and edited using many popular reference management tools, such as Zenodo, so is really handy!
+You can also export your works here in .bib format.  BibTeX is a platform-independent, plain-text format used for bibliographic citations. BibTeX files can be created and edited using many popular reference management tools, such as Zotero, so is really handy!
 
 <br/>
 
@@ -152,15 +155,15 @@ Allowing trusted organizations to add information to your record ensures the dat
 
 ## Create your own Impact Story<a name="impactstory"></a>
 
-Now that you've created your ORCID profile, these next steps are going to be easy peasy.
+Now that you've created your own ORCID profile, these next steps are going to be easy peasy.
 
 Impactstory is a non-profit dedicated to making scholarly research more open, accessible, and reusable. It helps to provide a fun and lightweight profile that integrates social media mentions, badges, and more with your ORCID record.
 
 Head on over the [Impactstory website](https://profiles.impactstory.org/). Here, you can join for free using Twitter. If you don't have a Twitter account yet, no worries. It's worth setting one up here for now though, as we will revisit this later on in the MOOC.
 
-After logging in with Twitter, you can link it directly and authorise Impactstory to use your ORCID profile that you just created. That's pretty much it!
+After logging in with Twitter, you can link it directly and authorise Impactstory to use your ORCID profile that you just created in the settings. That's pretty much it!
 
-In the future, you can make sure your profile is up to date in the Impactstory settings by syncing data from ORCID. It does this automatically, but you can manually update it too.
+In the future, you can make sure your profile is up to date in the Impactstory settings by syncing data from ORCID. It does this automatically, but you can manually update it too, for example whenever you publish a new paper.
 
 <p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/orcid_impactstory.png?raw=true" width="600" /></p>
 
@@ -186,10 +189,17 @@ Your new profile has 4 main tabs:
 
 <br/>
 
+The timeline here is important, as it gives you regular updates about who is sharing your work online, what they are saying about it, and where they are sharing. This can help you to understand the wider context of the impact your work is making, and open up numerous new collaboration and communication channels for you.
+
 That's it! As Impactstory say, you are more than your h-index, and this provides a wonderful place for you to document how your research is being used in different contexts.
 
+## Build your peer reviewer profile with Publons<a name="publons"></a>
 
-[NOTE: SHOULD WE ADD THE OSF AS A BONUS STEP HERE TOO?]
+
+<br/>
+
+## Opening up your research with the Open Science Framework<a name="osf"></a>
+
 
 
 ## Checklist <a name="Checklist"></a>

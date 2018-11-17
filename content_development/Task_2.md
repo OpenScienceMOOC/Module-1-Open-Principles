@@ -199,7 +199,7 @@ That's it! As Impactstory say, you are more than your h-index, and this provides
 
 [Publons](https://publons.com/) is a platform for researchers to track, verify, and showcase their reviewing and editorial contributions for academic journals. It also has the Publons Academy, designed to help with training early-career researchers with peer review.
 
-** IMPORTANT NOTE** In 2017, Publons was acquired by Clarivate Analytics, the company which includes products such as Web of Science (and the impact factor), EndNote, and ScholarOne. At this stage, some of you might not wish to have a profile with this company for various reasons. We make no judgement call on this, and it is up to each individual to decide whether or not they wish to proceed here. At the present though, there is no 'open' (e.g., non-profit, open source) version of Publons in existence. If you wish, you can skip this section and head to the next for the [Open Science Framework](#osf).
+**IMPORTANT NOTE** In 2017, Publons was acquired by Clarivate Analytics, the company which includes products such as Web of Science (and the impact factor), EndNote, and ScholarOne. At this stage, some of you might not wish to have a profile with this company for various reasons. We make no judgement call on this, and it is up to each individual to decide whether or not they wish to proceed here. At the present though, there is no 'open' (e.g., non-profit, open source) version of Publons in existence. If you wish, you can skip this section and head to the next for the [Open Science Framework](#osf).
 
 <br/>
 
@@ -284,6 +284,10 @@ To do this step, simply click 'Publication records' on the left hand side, and t
 <p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/publons_pub_record.png?raw=true" width="800" /></p>
 
 <p align="center"><i>Example of a populated Publons publication record</i></p>
+
+<br/>
+
+These are perhaps the most important aspects of Publons for now for researchers. You can also add your records for work as an Editor, and create a Publons widget to display on your website, should you wish. Finally, if you wish to learn more about peer review, the [Publons Academy](https://publons.com/academy/module/1/) provides a training platform for this. We will revist peer review in Module 7 of the MOOC, [Open Evaluation](https://opensciencemooc.eu/modules/open-evaluation/).
 
 <br/>
 

@@ -9,6 +9,9 @@ This task is designed for, well, everyone!
 
 Estimated time to complete: 30-90 minutes.
 
+Don't forget you can join in the discussions over at our open [**Slack channel**](https://openmooc-ers-slackin.herokuapp.com/). Please do introduce yourself at #module1principles, and tell us a bit about who you are, your background, and how you ended up here!
+
+
 ## Table of contents
 
 * [Getting started](#Getting_started)

@@ -9,11 +9,13 @@ output:
 
 **You are more than just your publications.**
 
-This task is designed for researchers who want to help to build their online profile while helping to amplify their work. Think of this task like a way of creating an online CV for your work.
+This task is designed for researchers who want to help to build their online profile while helping to amplify their work. Think of this task like a way of creating an online CV for showcasing your research.
 
 Estimated time to complete: 30 minutes.
 
 Estimated time saved: Immeasurable, but probably a lot.
+
+Don't forget you can join in the discussions over at our open [**Slack channel**](https://openmooc-ers-slackin.herokuapp.com/). Please do introduce yourself at #module1principles, and tell us a bit about who you are, your background, and how you ended up here!
 
 ## Table of contents
 

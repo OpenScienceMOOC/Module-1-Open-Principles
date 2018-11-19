@@ -1,12 +1,14 @@
 # Module 1 content development
 
-These are the main content development files for the MOOC module production.
+These are the main content development files for this MOOC module.
 
 Please refer to the [contributing guidelines](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/CONTRIBUTING.md) before making changes here.
 
+Anyone can join our [open Slack channel](https://openmooc-ers-slackin.herokuapp.com/) and [team on GitHub](https://open-science-mooc-invite.herokuapp.com/) for the whole MOOC project.
+
 ## Core content
 
-These are the draft content files. The content in them is fully accessible, and can be used for learning purposes. However, they have not been integrated into a formal MOOC platform yet. At the moment, they are being written in markdown format, and then using the [notedown](https://github.com/aaren/notedown) tool to convert into iPython notebook format. PDF and HTML versions are created using [pandoc](https://pandoc.org/demos.html) and the [markdown to PDF](https://atom.io/packages/markdown-pdf) package for Atom.
+These are the draft content files. The content is fully accessible, and can be used for learning purposes, either individually or as a group, and can be shared and re-used as you wish. However, they have not been integrated into a formal MOOC platform yet. At the moment, they are being written in markdown format, and then using the [notedown](https://github.com/aaren/notedown) tool to convert into iPython notebook format. PDF and HTML versions are created using [pandoc](https://pandoc.org/demos.html) and the [markdown to PDF](https://atom.io/packages/markdown-pdf) package for [Atom](https://atom.io/).
 
 For notedown:
 1. Make sure you're working in Linux or Debian

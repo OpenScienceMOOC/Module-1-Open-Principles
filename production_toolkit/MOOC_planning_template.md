@@ -45,13 +45,13 @@ Red: Launch date in danger
 |  Design project plan and timeline             |  Nope        |  ![Green](https://img.shields.io/badge/Status-text-green.svg)   |  2018/05/31 | |
 |  Identify promotion channels             |  Nope        |  ![Green](https://img.shields.io/badge/Status-text-green.svg)   |  2018/05/31 | |
 | **Design and scripting**  |          |             |                 |                    |
-|  Identify key resources |     |    |   | |
-|  Design learner activities   |    |    |   | |
-|  Find existing key resources  |     |    |   | |
-|  Write audio/video scripts   |    |    |   | |
-|  Review all learning resources  |     |    |   | |
-|  Finalise all scripts   |     |    |   | |
-|  Copyright strategy  |     |    |   | |
+|  Identify key resources |   Yep  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2018/10/01  | |
+|  Design learner activities   |  Yep  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |  2018/10/01 | |
+|  Find existing key resources  |  Yep   |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2018/10/01  | |
+|  Write audio/video scripts   |  Nope  |    |   | |
+|  Review all learning resources  |  Nope   |    |   | |
+|  Finalise all scripts   |   Nope  |    |   | |
+|  Copyright strategy  |   Yep  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2018/10/01  | |
 | **Recording and editing**  |                   |           |                 |                    |
 |  Record on location/in studio  |    |    |   | |
 |  Edit all audio/visual material  |     |    |   | |
@@ -66,11 +66,11 @@ Red: Launch date in danger
 |  Final checks from Steering Committee  |     |    |   | |
 | **Implementation**  |           |           |                 |              |
 |  Agreement on platform  |     |    |   | |
-|  Module logo designed  |     |    |   | |
+|  Module logo designed  |  Yep   |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2018/10/01  | |
 |  Module description and introduction  |     |    |   | |
 |  Team member and guest lecturer agreements  |     |    |   | |
 |  Team member and guest lecturer profiles  |     |    |   | |
-|  Course readings acquired  |     |    |   | |
+|  Course readings acquired  |  Yep   | ![Green](https://img.shields.io/badge/Status-text-green.svg)   | 2018/10/01  | |
 |  Port content to selected platform  |     |    |   | |
 |  All content deposited in the Open Science Framework |     |    |   | |
 | **Promotion**  |           |           |                 |              |

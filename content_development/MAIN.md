@@ -20,7 +20,6 @@ output:
   - [Differences in understanding and interpretation](#interpretation)
   - [Open Scientists share objects to gain network effects for their work](#network_effects)
 - [Principles of Open Science](#principles)
-- [The global landscape of Open Science](#landscape)
 - [The different dimensions of Open Science](#dimensions)
 - [How Open Science impacts you; **TASK 1**](#impacts)
   - [Changes in research evaluation](#evaluation)
@@ -215,7 +214,11 @@ It is good to remember that Open Science principles re-articulate science norms 
 
 Open Science really hit the mainstream around 2016 due to a number of possible reasons. A combination of political activity and grassroots community-led initiatives put it formly on the map, and now everywhere you go in science, openness is all around in one way or another.
 
-For example, there has been a strong focus on Open Science in the last few years in Europe, with one of the biggest developments coming from this being the [European Open Science Cloud](http://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud) (EOSC). Outside of Europe, there have been strong recent developments across Africa (with the [African Open Science Platform](http://africanopenscience.org.za/)) and [Indonesia](https://blogs.openaire.eu/?p=3105) too. Open Science is becoming a global concept.
+The production of research knowledge is inherently geopolitical, as emphasised by [The Knowledge Gap](http://knowledgegap.org/). There are strange forces at play that influence representation, mechanisms of distribution, dimensions of power, and structural inequalities throughout the global scholarly communication system. These all contribute towards a complex, and fragmented, global Open Science landscape.
+
+> To see Open Science as a historically produced discourse, we need to first abandon the notion that openness is always inherently positive and/or neutral. We then need to revise and contextualize openness within their particular historical legacies, contexts and and sociopolitical struggles. Denisse Albornoz [(Source)](https://medium.com/@denalbz/power-and-inequality-in-open-science-discourses-9d425b0c2b63).
+
+For example, there has been a strong focus on Open Science in the last few years in Europe, with one of the biggest developments coming from this being the [European Open Science Cloud](http://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud) (EOSC). Outside of Europe, there have been strong recent developments across Africa (with the [African Open Science Platform](http://africanopenscience.org.za/)) and [Indonesia](https://blogs.openaire.eu/?p=3105) too. In October 2018, a large group of individuals and organisations across Latin America signed the [Open Science Panama Declaration](http://openaccessweek.org/profiles/blogs/open-scicence-panama-declaration-latin-america-going-beyond-open), emphasising that Open Science really has spread across the global research landscape. Through all of this, researchers and those engaged with the wider Open Science community must make sure to be aware of the geopolitical dimensions around Open Science and knowledge production.
 
 <br/>
 
@@ -308,27 +311,6 @@ Another widely-known vision for the future of scholarly communication is the [Vi
 <p align="center"><i>The Vienna Principles, now in handy infographic form!</i></p>
 
 <br/>
-
-## The global landscape of Open Science <a name="landscape"></a>
-
-The production of research knowledge is inherently geopolitical, as emphasised by [The Knowledge Gap](http://knowledgegap.org/). There are strange forces at play that influence representation, mechanisms of distribution, dimensions of power, and structural inequalities throughout the global scholarly communication system. These all contribute towards a complex, and fragmented, global Open Science landscape.
-
-> To see Open Science as a historically produced discourse, we need to first abandon the notion that openness is always inherently positive and/or neutral. We then need to revise and contextualize openness within their particular historical legacies, contexts and and sociopolitical struggles. Denisse Albornoz [(Source)](https://medium.com/@denalbz/power-and-inequality-in-open-science-discourses-9d425b0c2b63).
-
-<br/>
-
-* Africa:
-
-* Europe:
-
-* South America:
-
-* North America:
-
-* Asia-Pacific:
-
-[TODO *Add content from here https://zenodo.org/record/1407488#.W5sqPuj7RPZ*]
-Also Panama Declaration on Open Science: http://openaccessweek.org/profiles/blogs/open-scicence-panama-declaration-latin-america-going-beyond-open
 
 ## The different dimensions of Open Science <a name="dimensions"></a>
 

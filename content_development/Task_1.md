@@ -161,9 +161,11 @@ Notice how the colons are used to align the text in the columns to either the ce
 
 Consider this task a bit like a mini research project to help increase your personal knowledge about Open Science. Here, what we are going to do is write a brief summary article about Open Science either about your research discipline and/or in your country.
 
-We are going to use the simple markdown syntax we just learned about above here. For this, you can use a simple text editor like Notepad, or others that are a little more complex like Atom.
+We are going to use the simple markdown syntax we just learned about above here. For this, you can use a simple text editor like Notepad, or others that are a little more complex like [Atom](https://atom.io/), depending on whatever you are comfortable with.
 
-There are several choices you have here:
+As such, try and include a bit of formating variation in your work, including different headers, highlights, and maybe an image or two or a table. This will give you some nice experience using basic markdown while also doing some cool Open Science research.
+
+There are several choices you have here for this part:
 
 1. Write about the state of Open Access in your research community or lab group. This can include things like what proportion of articles are OA, whether there is an OA policy, or a summary of how your colleagues and you view OA. For this, it would be good to think about whether existing data are available, and if were they easy to acquire? Make  note of which sources you used, and whether you think these are appropriate to answer the questions.
 
@@ -191,7 +193,7 @@ That's it! You can keep this as simple or detailed as you like, and depending on
 
 ##** BONUS STEP**<a name="bonus"></a>
 
-Hopefully, you just wrote something pretty awesome, that you are proud of and want to share with others. I mean, after all that effort, why would you not want to? Let's make this a reality.
+Hopefully, you just wrote something pretty awesome and useful, that you are proud of and want to share with others. I mean, after all that effort, why would you not want to? If you do want to do so, then let's make this a reality.
 
 There are two ways to go about this. If you have an existing website or blog, post it there. That was easy!
 

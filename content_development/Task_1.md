@@ -57,19 +57,10 @@ Here is some basic markdown syntax that you might find handy for now (based larg
   
   Header with an underline
   ========================
-  
-  Or different underline style
-  ----------------------------
 
   *one asterisk pair for italics*
   
   **two asterisk pairs for bold**
-  
-  _you can also use underscores for bold_
-  
-  *_to do things like this_*
-  
-  ~~two tildes for strikethrough~~
   
   1. For a numbered list
   2. Just use numbers
@@ -86,6 +77,32 @@ Here is some basic markdown syntax that you might find handy for now (based larg
   3. Like this
   
 ```
+
+  # Header one
+  ## Header two
+  ### Header three
+  #### Header four
+  
+  Header with an underline
+  ========================
+
+  *one asterisk pair for italics*
+  
+  **two asterisk pairs for bold**
+  
+  1. For a numbered list
+  2. Just use numbers
+  3. Like this
+  
+  * For an unordered list
+  * Just use asterisks (*)
+  * Like this
+  
+  1. Unordered
+  2. And ordered
+    * Lists can also be
+    * Combined
+  3. Like this
   
   For automatic links use [square brackets](https://www.google.com) and then insert the target URL in normal brackets after
   

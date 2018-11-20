@@ -24,27 +24,83 @@ Don't forget you can join in the discussions over at our open [**Slack channel**
 
 Welcome to your first task, probably, of the Open Science MOOC! What we *don't* want here is to create something were you sit in front of a screen, basically being lectured like you do at high school or university. We want you to create, to learn, to build, both as an individual and as part of a boundless community. We want to help you to sculpt your own path in research, and tell your own story and use that story to inspire and guide others.
 
-In order to help this, we are going to try something that hasn't really been done before. This MOOC is entirely built on a dynamic 'open source' process, with everything in the open and available to contribution from everyone. We would like you to be part of that.
+In order to help this, we are going to try something that hasn't really been done before in this space. This [MOOC](https://opensciencemooc.eu/) is entirely built on a dynamic 'open source' process, with everything in the open and available to contribution from everyone. We would like you to be part of that.
 
-Throughout these tasks, we will help you to directly create and edit content that becomes part of this MOOC and its companion website. What you do from here on out will directly influence the learning of all individuals who come here in the future. Our job is to guide you in this process, and help you to realise that what you are doing is valuable, to yourself and others.
+Duing the tasks throughout the MOOC modules, we will help you, as a community, to directly create and edit content that becomes part of the overall course and its companion website. What you do from here on out will help to influence the learning of all individuals who come here in the future. Our job is to guide you in this process, and help you to realise that what you are doing is valuable, to yourself and others.
 
 **IMPOSTER SYNDROME KLAXON**
 
-Scholarly researchers represent the highest density of Imposter Syndrome that has ever been known to exist in the history of anything, ever. [ADD SOME DUBIOUS LINK/CITATION HERE]
+Scholarly researchers represent the highest density of Imposter Syndrome that has ever been known to exist in the history of virtually anything, ever. [Jacquelyn Gill](https://twitter.com/JacquelynGill) wrote an excellent [post](https://contemplativemammoth.com/2012/04/25/how-i-cured-my-imposter-syndrome/) on this issue several years back now, and is well worth reading if you have a few minutes to spare before moving on.
+
+> "While imposter syndrome can be alienating and the source of unhealthy emotional turmoil, I do think it’s worth drawing a clear line between feeling inadequate and recognizing areas for improvement. Being immobilized by anxiety because you don’t have a background in math is one thing; identifying a gap in your skill set and setting out to work on that is another. This takes time, a lot of self-reflection, and is best done with a good mentor or three." - Jacquelyn Gill.
+
+We want to remind you at the beginning that if you find any part of this MOOC complicated, frustrating, or difficult, that is totally okay. The whole point of having this more of a peer-to-peer community is foster a culture of mutual understanding and learning so that we all grow together. The fact that you are here, demonstrating a willingness to learn more, is what is most important at this stage. We all have gaps in our knowledge and understanding, and this MOOC is just one small way to fill some of those gaps. So, we **thank you** for being here!
 
 <br/>
 
-## Learning how to  use markdown<a name="markdown"></a>
+## Learning how to  use markdown <a name="markdown"></a>
 
-A lot of people think RStudio is just for writing complex scripts for statistical analysis. Wrooooong. It can also be used to write nicely formatted text documents, using something called markdown. Much of this MOOC was written in markdown, and look how nice it all looks!
+A lot of people think [RStudio](https://www.rstudio.com/) (covered more in [Module 5](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/MAIN.md)) is just for writing complex scripts for statistical analysis. Wrooooong. It can also be used to write nicely formatted text documents, using something called [markdown](https://en.wikipedia.org/wiki/Markdown). Much of this MOOC was written in markdown, and then converted from that into PDF, HTML, and Jupyter notebook formats, and look how nice it all looks!
 
-[insert tumbleweed gif]
+Markdown is really a plain writing style that gives you full control over the format of text. If you're used to using something like Microsoft Word, it's kind of similar and gives you the same control over simple things like header style and text format. But in a way that is readable by more software, and can also be easily easily rendered as a webpage and many other useful output formats.
 
-Markdown is really a simple formatting style that gives you full control over the format of text. If you're used to using something like Microsoft Word, it's kind of similar and gives you the same control over simple things like header style and text format. But in a way that is readable by more software, and can also be easily easily rendered as a webpage.
+It is because markdown is so flexible in reading, writing, and conversion, that we are going to be learning a bit about it to get things started here. A collection of all things markdown-related can also be found [here](https://github.com/mundimark/awesome-markdown) for the adventurous types.
 
-Here is some basic markdown syntax that might be handy here:
+Here is some basic markdown syntax that you might find handy for now (based largely on this [cheatsheet from Adam Pritchard](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)):
 
-[INSERT SOME BASIC MARKDOWN SYNTAX HERE]
+ `# Header one
+  ## Header two
+  ### Header three
+  #### Header four
+  
+  Header with an underline
+  ========================
+  
+  Or different underline style
+  ----------------------------`
+  
+  `*one asterisk pair for italics*
+  **two asterisk pairs for bold**
+  _you can also use underscores for bold_
+  *_to do things like this_*
+  ~~two tildes for strikethrough~~
+  
+  1. For a numbered list
+  2. Just use numbers
+  3. Like this
+  
+  
+  * For an unordered list
+  * Just use asterisks
+  * Like this
+  
+  1. Unordered
+  2. And ordered
+    * Lists can also be
+    * Combined
+  3. Like this`
+  
+  For automatic links use `[square brackets](https://www.google.com)` and then insert the target URL in normal brackets after.
+  
+  For images, use an exclamation to indicate this and then a link to the image location:
+  `![image](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/logo.png)`
+  
+  Some times you can also add in bits of HTML here if you want to be a bit fancier, which can help with display issues too some times:
+  
+  `<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/logo.png?raw=true" width="600" /></p>
+
+<p align="center"><i>The Open Science MOOC logo!</i></p>`
+
+Some times, you might want to add in little snippets of code, like we have done above. For this, use simple back ticks:
+
+`some code with back-ticks around it`
+
+For code blocks or chunks, you can use three back-ticks to indicate these:
+
+```python
+s = "Python syntax highlighting"
+print s
+```
 
 <br/>
 

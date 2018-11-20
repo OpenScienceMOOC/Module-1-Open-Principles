@@ -72,9 +72,12 @@ Here is some basic markdown syntax that you might find handy for now (based larg
   
   1. Unordered
   2. And ordered
-    * Lists can also be
-    * Combined
+   * Lists can also be
+   * Combined
   3. Like this
+   * Using spaces
+   * To set the different
+   * List levels
   
 ```
 
@@ -100,20 +103,32 @@ Here is some basic markdown syntax that you might find handy for now (based larg
   
   1. Unordered
   2. And ordered
-    * Lists can also be
-    * Combined
+   * Lists can also be
+   * Combined
   3. Like this
+   * Using spaces
+   * To set the different
+   * List levels
   
-  For automatic links use [square brackets](https://www.google.com) and then insert the target URL in normal brackets after
+For automatic links use [square brackets](https://www.google.com) and then insert the target URL in normal brackets after.
+
+`[square brackets](https://www.google.com)`
   
-  For images, use an exclamation to indicate this and then a link to the image location:
-  ![image](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/logo.png)
+For images, use an exclamation to indicate this and then a link to the image location:
+
+![image](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/logo.png)
+
+`![image](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/logo.png)`
   
-  Some times you can also add in bits of HTML here if you want to be a bit fancier, which can help with display issues too some times:
+Some times you can also add in bits of HTML here if you want to be a bit fancier, which can help with display issues too some times:
   
-  <p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/Logo.png?raw=true" width="500" /></p>
+<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/Logo.png?raw=true" width="500" /></p>
 
 <p align="center"><i>The Open Science MOOC logo!</i></p>
+
+`<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/Logo.png?raw=true" width="500" /></p>
+
+<p align="center"><i>The Open Science MOOC logo!</i></p>`
 
 Some times, you might want to add in little snippets of code, like we have done above. For this, use simple back ticks:
 

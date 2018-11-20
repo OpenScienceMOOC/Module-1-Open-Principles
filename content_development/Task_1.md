@@ -59,10 +59,14 @@ Here is some basic markdown syntax that you might find handy for now (based larg
   Or different underline style
   ----------------------------`
   
-  `*one asterisk pair for italics*
+  *one asterisk pair for italics*
+  
   **two asterisk pairs for bold**
+  
   _you can also use underscores for bold_
+  
   *_to do things like this_*
+  
   ~~two tildes for strikethrough~~
   
   1. For a numbered list
@@ -71,25 +75,25 @@ Here is some basic markdown syntax that you might find handy for now (based larg
   
   
   * For an unordered list
-  * Just use asterisks
+  * Just use asterisks (*)
   * Like this
   
   1. Unordered
   2. And ordered
     * Lists can also be
     * Combined
-  3. Like this`
+  3. Like this
   
-  For automatic links use `[square brackets](https://www.google.com)` and then insert the target URL in normal brackets after.
+  For automatic links use [square brackets](https://www.google.com) and then insert the target URL in normal brackets after
   
   For images, use an exclamation to indicate this and then a link to the image location:
-  `![image](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/logo.png)`
+  ![image](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/logo.png)
   
   Some times you can also add in bits of HTML here if you want to be a bit fancier, which can help with display issues too some times:
   
-  `<p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/logo.png?raw=true" width="600" /></p>
+  <p align="center"><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/Logo.png?raw=true" width="500" /></p>
 
-<p align="center"><i>The Open Science MOOC logo!</i></p>`
+<p align="center"><i>The Open Science MOOC logo!</i></p>
 
 Some times, you might want to add in little snippets of code, like we have done above. For this, use simple back ticks:
 

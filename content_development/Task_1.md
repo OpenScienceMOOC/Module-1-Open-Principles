@@ -48,7 +48,9 @@ It is because markdown is so flexible in reading, writing, and conversion, that 
 
 Here is some basic markdown syntax that you might find handy for now (based largely on this [cheatsheet from Adam Pritchard](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)):
 
- `# Header one
+```markdown
+
+  # Header one
   ## Header two
   ### Header three
   #### Header four
@@ -57,8 +59,8 @@ Here is some basic markdown syntax that you might find handy for now (based larg
   ========================
   
   Or different underline style
-  ----------------------------`
-  
+  ----------------------------
+
   *one asterisk pair for italics*
   
   **two asterisk pairs for bold**
@@ -73,7 +75,6 @@ Here is some basic markdown syntax that you might find handy for now (based larg
   2. Just use numbers
   3. Like this
   
-  
   * For an unordered list
   * Just use asterisks (*)
   * Like this
@@ -83,6 +84,8 @@ Here is some basic markdown syntax that you might find handy for now (based larg
     * Lists can also be
     * Combined
   3. Like this
+  
+```
   
   For automatic links use [square brackets](https://www.google.com) and then insert the target URL in normal brackets after
   

@@ -72,12 +72,12 @@ Here is some basic markdown syntax that you might find handy for now (based larg
   
   1. Unordered
   2. And ordered
-   * Lists can also be
-   * Combined
+    * Lists can also be
+    * Combined
   3. Like this
-   * Using spaces
-   * To set the different
-   * List levels
+    * Using tabs
+    * To set the different
+    * List levels
   
 ```
 

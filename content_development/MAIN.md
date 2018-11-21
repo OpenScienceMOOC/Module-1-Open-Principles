@@ -48,7 +48,7 @@ You have probably landed here because you have a nagging feeling that something 
 
 <br/>
 
-## Introduction <a name="Introduction"></a>
+## Introduction <a name="introduction"></a>
 
 Welcome to Module 1 of the Open Science MOOC: Open Principles. This is the first of 10 core modules to give you a solid grounding in all things Open Science. This module has been developed [in the open](https://github.com/OpenScienceMOOC/Module-1-Open-Principles) through collaboration by an international team of [Open Science wizards](#Development_team).
 
@@ -62,7 +62,7 @@ This module will introduce to you the guiding principles, values, and practices 
 
 <br/>
 
-### Who is this module for? <a name="Who_for"></a>
+### Who is this module for? <a name="who_for"></a>
 
 Designed primarily for students and researchers at the graduate and undergraduate level, this module can also serve as training material for postdocs and more senior researchers. We want to help make openness universal and for all, not just a select few. This aims to be a cross-disciplinary module covering all research branches, including Engineering, Medicine, Biosciences, Mathematics, Social Sciences, Humanities, and the Arts.
 
@@ -82,7 +82,7 @@ The point is, irrespective of your background, **you are very much welcome here*
 
 <br/>
 
-### Specific learning objectives for this module <a name="Objectives"></a>
+### Specific learning objectives for this module <a name="objectives"></a>
 
 1. Understand the ethical, legal, social, economic, philosophical, and research impact arguments for (and against) Open Science.
 
@@ -90,7 +90,7 @@ The point is, irrespective of your background, **you are very much welcome here*
 
 <br/>
 
-## What is Open Science? <a name="What_is"></a>
+## What is Open Science? <a name="what_is"></a>
 
 > None of us is as smart as all of us. - Kenneth H. Blanchard.
 
@@ -265,7 +265,7 @@ Of note here is that much of what we are discussing here has only recently becom
 <br/>
 
 
-## Principles of Open Science <a name="Principles"></a>
+## Principles of Open Science <a name="principles"></a>
 
 Now, there are no rules about Open Science, and no one individual or organisation is setting the agenda. However, what is commonly recognised is that Open Science is underpinned by specific, core principles and values. In recognition of this, there are now around [100 charters and declarations](https://docs.google.com/spreadsheets/d/1-aRXFiRg-VL9hpLpxoJqX6-OC-A0R2oCogHfIx52Nug/edit#gid=956616118) to do with data sharing and scholarly communication and publishing, and hundreds more [advocacy organisations](http://oad.simmons.edu/oadwiki/Advocacy_organizations_for_OA) that make openness a significant part of their mission.
 

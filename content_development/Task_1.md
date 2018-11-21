@@ -191,7 +191,7 @@ That's it! You can keep this as simple or detailed as you like, and depending on
 
 <br/>
 
-##** BONUS STEP**<a name="bonus"></a>
+## BONUS STEP <a name="bonus"></a>
 
 Hopefully, you just wrote something pretty awesome and useful, that you are proud of and want to share with others. I mean, after all that effort, why would you not want to? If you do want to do so, then let's make this a reality.
 
@@ -242,4 +242,3 @@ Time to take your new GitHub skills for a test-run! All content development prim
 Time to take your new GitHub skills for a test-run! All content development primarily happens [here](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/Task_1.md). If you have a suggested improvement to the content, layout, or anything else, you can make it and then it will automatically become part of the MOOC content after verification from a moderator!
 
 [![CC0 Public Domain Dedication](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
->>>>>>> Added licensing information

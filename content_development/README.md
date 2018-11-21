@@ -57,3 +57,5 @@ For notedown:
 - [Script template](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/production_toolkit/Script_template.md)
 - [Video management protocol](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/production_toolkit/Video_management_protocol.md)
 - [Writing a script](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/production_toolkit/Writing_a_script.md)
+
+MOOC content license: [![CC0 Public Domain Dedication](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

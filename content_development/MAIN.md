@@ -1,7 +1,7 @@
 ---
 output:
- html_document: default
  pdf_document: default
+ html_document: default
 ---
 # Module 1: Open Principles
 
@@ -34,13 +34,13 @@ output:
 
 **BEFORE YOU START**
 
-> Science is everyhwere, science is all around us. This is your last chance. After this there is no turning back. You take the [blue pill](https://www.elsevier.com/about/open-science), the story ends, you wake up in your bed, and believe whatever you want to believe. You take the [red pill](#Introduction), you stay in Wonderland, and we show you how deep the rabbit hole goes. (Fishburne, 1999)
+> Science is everywhere, science is all around us. This is your last chance. After this there is no turning back. You take the [blue pill](https://www.elsevier.com/about/open-science), the story ends, you wake up in your bed, and believe whatever you want to believe. You take the [red pill](#Introduction), you stay in Wonderland, and we show you how deep the rabbit hole goes. (Fishburne, 1999)
 
 Did you know that the Internet and the World Wide Web were both originally designed for research purposes? Researchers wanted a fast, easy, and low-cost way for sharing data with each other, and hence the Internet was born. Now, the Internet dominates almost all aspects of our daily lives, and yet has somehow deviated from this original purpose. Now, research seems to have gone almost backwards compared to every other enterprise - Open Science is the movement to bring modern research back into line with this original digital intent, while reasserting fundamental scientific principles back to the endeavour.
 
 Did you also now that this is so important, that it is even in the [United Nations Declaration on Human Rights](http://www.un.org/en/universal-declaration-human-rights/)?
 
-> (1) Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits. 
+> (1) Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits.
 
 > (2) Everyone has the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which he is the author.
 
@@ -206,13 +206,13 @@ So now, if this makes sense to you, it might seem like Open Science is in almost
 
 The other three [norms](https://scienceblogs.com/ethicsandscience/2008/01/29/basic-concepts-the-norms-of-sc) are:
 
-* Universalism: That researchers should be concerned with the content of claims, not with who made them; 
-* Disintrestedness: That researchers are in this for more than just personal gain; and
+* Universalism: That researchers should be concerned with the content of claims, not with who made them;
+* Disinterestedness: That researchers are in this for more than just personal gain; and
 * Organised skepticism: That anyone can potentially advance knowledge claims.
 
 It is good to remember that Open Science principles re-articulate science norms that were historically considered to be integral to research itself. Open Science reaffirms the right of the community to access the substantive findings of research. As the findings of research belong to the entire community, any attempt by individuals or corporations to capture these for profit is a practice based on a notion of equity that is foreign to, and contrary to, how research is meant to operate.
 
-Open Science really hit the mainstream around 2016 due to a number of possible reasons. A combination of political activity and grassroots community-led initiatives put it formly on the map, and now everywhere you go in science, openness is all around in one way or another.
+Open Science really hit the mainstream around 2016 due to a number of possible reasons. A combination of political activity and grassroots community-led initiatives put it firmly on the map, and now everywhere you go in science, openness is all around in one way or another.
 
 The production of research knowledge is inherently geopolitical, as emphasised by [The Knowledge Gap](http://knowledgegap.org/). There are strange forces at play that influence representation, mechanisms of distribution, dimensions of power, and structural inequalities throughout the global scholarly communication system. These all contribute towards a complex, and fragmented, global Open Science landscape.
 
@@ -248,7 +248,7 @@ Even as the value of, for example, a telephone exchange increases with each new 
 
 Many of these network effects will take place on the internet at a planetary scale. The interconnections made possible by Open Science build capacity for the free movement of objects and ideas directly linked back to their authors. This capacity for the almost instant and free global access to research products on the open web is anathema to markets that need to claim ownership and restrict access in order to capture profits from these. Distributed data protocols such as the [Interplanetary File System](https://ipfs.io/) and other emergent technologies will reduce the cost of hosting science objects to a near zero margin. Open licenses make sharing research knowledge durable and its reuse legal.
 
-As [Cameron Neylon](https://en.wikipedia.org/wiki/Cameron_Neylon) said at the metrics breakout of the *Beyond the PDF* conference in 2011, "*reuse is THE metric*". 
+As [Cameron Neylon](https://en.wikipedia.org/wiki/Cameron_Neylon) said at the metrics breakout of the *Beyond the PDF* conference in 2011, "*reuse is THE metric*".
 
 Why is this? Reuse:
 
@@ -298,7 +298,7 @@ This above video from [OCSDNet](https://ocsdnet.org/manifesto/open-science-manif
 
 * **Principle 7**: It strives to use knowledge as a pathway to sustainable development, equipping every individual to improve the well-being of our society and planet.
 
-<center><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/ocsdnet_principles.png?raw=true" width="800" /></center>
+<center><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/vienna_principles.png?raw=true" width="800" /></center>
 
 <p align="center"><i>OCSDNet principles for Open and Collaborative Science.</i></p>
 
@@ -306,7 +306,8 @@ This above video from [OCSDNet](https://ocsdnet.org/manifesto/open-science-manif
 
 Another widely-known vision for the future of scholarly communication is the [Vienna Principles](https://viennaprinciples.org/). Please feel free to share, re-use, or print these handy little infographics as you wish!
 
-![Vienna Principles](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/vienna_principles.png?raw=true)
+<center><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/ocsdnet_principles.png?raw=true" width="800" /></center>
+
 
 <p align="center"><i>The Vienna Principles, now in handy infographic form!</i></p>
 
@@ -389,7 +390,7 @@ The world of research evaluation is slowly changing. The way in researchers and 
 
 <p align="center"><i>All hail the mighty impact factor! Illustration by John R. McKiernan, CC BY <a href="http://whyopenresearch.org/gallery" target="_blank"></a></i></p>
 
-While there is generally little empirical evidence, it is generally accepted that research evaluation is almost entirely contingent on getting research articles published in 'high impact' journal venues. Strangely, very little empirical evidence exists to demonstrate that this view is actually embedded in practice. 
+While there is generally little empirical evidence, it is generally accepted that research evaluation is almost entirely contingent on getting research articles published in 'high impact' journal venues. Strangely, very little empirical evidence exists to demonstrate that this view is actually embedded in practice.
 
 For example, a recent study from [Juan Pablo Alperin and colleagues](https://hcommons.org/deposits/item/hc:21015/) analysed the review, tenure, and promotion guidelines from across a wide range of North American research institutes. What they found was that about 48% of research institutes mention metrics of some sort in these documents, with variations across different institute types.
 
@@ -519,7 +520,7 @@ Does this sound like a company who has the best interests of researchers, the pu
 
 2. Moving away from a subscription model to one where all information is freely available.
 
-Did you know that back in 2007, publishers such as Elsevier, Wiley, and the American Chemical Society were advised by the ['pitbull of PR'](https://www.nature.com/articles/445347a) to equate public/open access with government censorship, and for traditional subscription-based publishing eith peer review? This is just one small part of a long history where some in the scholarly publishing industry have lobbied and ran smear campaigns against open access, as a delay tactic until they could find a way to either destroy it, or convert it into a profitable business model. This resistance perhaps is one of the key factors in explaining why, in after about 20 years of relentless campaigning, we have only made about 25% of the world's research openly accessible, with the rest locked behind expensive paywalls.
+Did you know that back in 2007, publishers such as Elsevier, Wiley, and the American Chemical Society were advised by the ['pitbull of PR'](https://www.nature.com/articles/445347a) to equate public/open access with government censorship, and for traditional subscription-based publishing with peer review? This is just one small part of a long history where some in the scholarly publishing industry have lobbied and ran smear campaigns against open access, as a delay tactic until they could find a way to either destroy it, or convert it into a profitable business model. This resistance perhaps is one of the key factors in explaining why, in after about 20 years of relentless campaigning, we have only made about 25% of the world's research openly accessible, with the rest locked behind expensive paywalls.
 
 <br/>
 

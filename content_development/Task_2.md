@@ -1,7 +1,7 @@
 ---
 output:
-  html_document: default
   word_document: default
+  html_document: default
   pdf_document: default
 ---
 
@@ -362,3 +362,5 @@ How you develop your own digital research profile in the future will be down to 
 Time to take your new GitHub skills for a test-run! All content development primarily happens [here](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/Task_2.md). If you have a suggested improvement to the content, layout, or anything else, you can make it and then it will automatically become part of the MOOC content after verification from a moderator!
 
 **DISCLAIMER** ORCID, ImpactStory, and the OSF are [strategic partners](https://opensciencemooc.eu/about/) with the Open Science MOOC. We are not supported by them in any way, including financially, and they had no role in the design of this task, or any of this MOOC module. We just think they're all pretty cool.
+
+[![CC0 Public Domain Dedication](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

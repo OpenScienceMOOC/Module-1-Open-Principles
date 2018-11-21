@@ -22,7 +22,7 @@ Don't forget you can join in the discussions over at our open [**Slack channel**
 
 ## Getting started up <a name="Getting_started"></a>
 
-Welcome to your first task, probably, of the Open Science MOOC! What we *don't* want here is to create something were you sit in front of a screen, basically being lectured like you do at high school or university. We want you to create, to learn, to build, both as an individual and as part of a boundless community. We want to help you to sculpt your own path in research, and tell your own story and use that story to inspire and guide others.
+Welcome to your first task, probably, of the Open Science MOOC! What we *don't* want here is to create something where you sit in front of a screen, basically being lectured like you do at high school or university. We want you to create, to learn, to build, both as an individual and as part of a boundless community. We want to help you to sculpt your own path in research, and tell your own story and use that story to inspire and guide others.
 
 In order to help this, we are going to try something that hasn't really been done before in this space. This [MOOC](https://opensciencemooc.eu/) is entirely built on a dynamic 'open source' process, with everything in the open and available to contribution from everyone. We would like you to be part of that.
 

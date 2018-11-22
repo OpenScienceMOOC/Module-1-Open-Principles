@@ -64,11 +64,11 @@ This module will introduce to you the guiding principles, values, and practices 
 
 ### Who is this module for? <a name="who_for"></a>
 
-Designed primarily for students and researchers at the graduate and undergraduate level, this module can also serve as training material for postdocs and more senior researchers. We want to help make openness universal and for all, not just a select few. This aims to be a cross-disciplinary module covering all research branches, including Engineering, Medicine, Biosciences, Mathematics, Social Sciences, Humanities, and the Arts.
+Designed primarily for students and researchers at the graduate and undergraduate level, this module also serves as training material for postdocs and more senior researchers. We want to help make openness universal and for all, not just a select few. This aims to be a cross-disciplinary module covering all research branches, including Engineering, Medicine, Biosciences, Mathematics, Social Sciences, Humanities, and the Arts.
 
-Right from the beginning, we have recognised that 'science' can be off-putting to research fields that don't consider themselves to be 'scientific'. This is why we have set a highly inclusive standard, and right from the very beginning of this project have had people from across the *whole* spectrum of scholarly research, and related disciplines like tech, publishing, and librarianship, involved in developing and scoping the project. We use the term 'Open Science' given that this seems to be the phrase that global changes are coalescing around. But recognise that terms such as 'Open Research' or 'Open Scholarship', although less widely used, might capture what our intention is here a bit better.
+We have set a highly inclusive standard, and right from the very beginning have had people from across the *whole* spectrum of scholarly research, and related disciplines like tech, publishing, and librarianship, involved in developing and scoping the project. We use the term 'Open Science' given that this seems to be the phrase that global changes are coalescing around; while recognising that terms such as 'Open Research' or 'Open Scholarship', although less widely used, might capture a bit better what our intention is here.
 
-The point is, irrespective of your background, **you are very much welcome here**.
+Therefore, irrespective of your background **you are very much welcome here**.
 
 <br/>
 
@@ -84,10 +84,10 @@ The point is, irrespective of your background, **you are very much welcome here*
 
 ### Specific learning objectives for this module <a name="objectives"></a>
 
-1. Understand the ethical, legal, social, economic, philosophical, and research impact arguments for (and against) Open Science.
+1. Understand the ethical, legal, social, economic, philosophical, and research impact arguments for and against Open Science.
 
 2. Set up a personal profile for defining your impact: Measure the social and academic attention for the full range of your research processes and outputs.
-
+ 
 <br/>
 
 ## What is Open Science? <a name="what_is"></a>

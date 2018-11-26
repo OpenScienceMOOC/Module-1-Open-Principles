@@ -297,15 +297,15 @@ This above video from [OCSDNet](https://ocsdnet.org/manifesto/open-science-manif
 
 * **Principle 7**: It strives to use knowledge as a pathway to sustainable development, equipping every individual to improve the well-being of our society and planet.
 
-<center><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/vienna_principles.png?raw=true" width="800" /></center>
+<center><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/ocsdnet_principles.png?raw=true" width="800" /></center>
 
 <p align="center"><i>OCSDNet principles for Open and Collaborative Science.</i></p>
 
 <br/>
 
-Another widely-known vision for the future of scholarly communication is the [Vienna Principles](https://viennaprinciples.org/). Please feel free to share, re-use, or print these handy little infographics as you wish!
+Another widely-known vision for the future of open scholarly communication is the [Vienna Principles](https://viennaprinciples.org/). Please feel free to share, re-use, or print these handy little infographics as you wish! Finally, another set of principles worth mentioning here are the [Scholarly Commons](https://osf.io/6c2xt/).
 
-<center><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/ocsdnet_principles.png?raw=true" width="800" /></center>
+<center><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/vienna_principles.png?raw=true" width="800" /></center>
 
 
 <p align="center"><i>The Vienna Principles, now in handy infographic form!</i></p>

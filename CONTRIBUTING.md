@@ -3,7 +3,7 @@ These are the main contributing guidelines for the development of this MOOC, and
 1. Invited experts as part of a core development team, led by one or two managers for each module.
 1. Open participation, where anyone can contribute using the standard processes on GitHub.
 
-Feedback and contributions of any form are welcomed. Feel free also to [contact us](https://opensciencemooc.eu/contact-us/) to discuss anything further.
+Feedback and contributions of any form are welcomed. Feel free also to [contact us](https://opensciencemooc.eu/contact/) to discuss anything further.
 
 At the present, development is in very early stages, as this is an entirely crowd-sourced and volunteer-led project. We are focusing inititally on [Module 5](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source) to run as a pilot for testing and receiving feedback. After this, the protocol and content will be revised, and then applied accordingly to the development of the remaining modules.
 
@@ -13,14 +13,14 @@ If you want to contribute, add yourself to the [contributors list](https://docs.
 
 If you have questions about the project, please [email us](info@opensciencemooc.eu) directly.
 
-Stay tuned on what's happening on Twitter with [@OpenSci_MOOC](https://twitter.com/OpenSci_MOOC).
+Stay tuned on what's happening on Twitter with [@OpenSci_MOOC](https://twitter.com/OpenScienceMOOC).
 
 ## Getting started
 1. [Forming a team for collaborative design](https://github.com/OpenScienceMOOC/Main/blob/master/Production_Files/MODULE_DESIGN_PROTOCOL.md#forming-a-team-for-collaborative-design).
 1. [The development process](https://github.com/OpenScienceMOOC/Main/blob/master/Production_Files/MODULE_DESIGN_PROTOCOL.md#the-development-process).
 1. Familiarise yourself with the [script writing guide](https://github.com/OpenScienceMOOC/Main/blob/master/Production_Files/Writing_a_script.md), the [script template](https://github.com/OpenScienceMOOC/Main/blob/master/Production_Files/Script_template.md) and the [video management protocol](https://github.com/OpenScienceMOOC/Main/blob/master/Production_Files/Video_management_protocol.md).
 
-Each team will adhere to the [MOOC planning template](https://github.com/OpenScienceMOOC/Main/blob/master/Production_Files/MOOC%20planning%20template.docx) to structure development in a systematic way. 
+Each team will adhere to the [MOOC planning template](https://github.com/OpenScienceMOOC/Main/blob/master/Production_Files/MOOC_planning_template.md) to structure development in a systematic way. 
 
 
 ## Reporting issues

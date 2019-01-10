@@ -134,8 +134,6 @@
 
 * [Vienna Principles](http://viennaprinciples.org/): A vision for scholarly communication.
 
-* [Summer School Open Science course](https://www.utrechtsummerschool.nl/courses/science/open-science-and-scholarship-changing-your-research-workflow), Utrecht University.
-
 * [A short lecture on Open Licensing](https://figshare.com/articles/A_short_lecture_on_Open_Licensing/4516892/1) (Lorena, 2017; presenter notes also on [SpeakerDeck](https://speakerdeck.com/labarba/a-short-lecture-on-open-licensing). [Bonus interview](http://rtalbert.org/blog/2015/interview-lorena-barba)).
 
 * [The Panton Principles of Open Science](https://en.wikipedia.org/wiki/Panton_Principles).

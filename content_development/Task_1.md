@@ -104,7 +104,7 @@ For automatic links use [square brackets](https://www.google.com) and then inser
   
 For images, use an exclamation to indicate this and then a link to the image location:
 
-`![image](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/logo.png)`
+`![image](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/Logo.png)`
   
 Some times you can also add in bits of HTML here if you want to be a bit fancier, which can help with display issues too some times:
   

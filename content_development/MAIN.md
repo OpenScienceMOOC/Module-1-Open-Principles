@@ -78,7 +78,7 @@ Therefore, irrespective of your background **you are very much welcome here**.
 
 <center><img src="https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/images/open_science.png?raw=true" width="800" /></center>
 
-<p align="center"><i>Melanie Imming, & Jon Tennant. (2018, June 8). Sticker Open Science: just science done right. Zenodo. <a href="http://doi.org/10.5281/zenodo.128557">http://doi.org/10.5281/zenodo.128557</a></i></p>
+<p align="center"><i>Melanie Imming, & Jon Tennant. (2018, June 8). Sticker Open Science: just science done right. Zenodo. <a href="https://zenodo.org/record/1285575#.XDebSM17lPY">https://zenodo.org/record/1285575#.XDebSM17lPY</a></i></p>
 
 <br/>
 
@@ -654,7 +654,7 @@ There is so much potential material out there that it would take years of contin
 
 - [Gareth O'Neill](https://twitter.com/gtoneill), Language Lubber
 - [Bruce Caron](https://twitter.com/junanaguy), Culture Work Architect
-- [Jo Havemann](https://twitter.com/Access2Perspectives), #ResearchinAfrica Highlighter
+- [Jo Havemann](https://twitter.com/johave), #ResearchinAfrica Highlighter
 - [Jon Tennant](https://twitter.com/protohedgehog), Dinosaur Whisperer.
 
 <br/>

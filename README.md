@@ -1,3 +1,6 @@
+All hyperlinks work?: [![Build Status](https://travis-ci.org/OpenScienceMOOC/Module-1-Open-Principles.svg?branch=master)](https://travis-ci.org/OpenScienceMOOC/Module-1-Open-Principles)
+
+
 # Module 1: Open Principles
 
 Welcome to Module 1 of the Open Science MOOC! Here you can find important information on the development of the module, including the latest updates to the content.

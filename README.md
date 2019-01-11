@@ -9,7 +9,7 @@ Welcome to Module 1 of the Open Science MOOC! Here you can find important inform
 
 - [**Production Toolkit**](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/tree/master/production_toolkit) - This is where the basic protocols and outline for the module development are kept. It includes a tracking scheme as the content development progresses.
 
-Don't forget to join us in our open [Slack group](https://openmooc-ers-slackin.herokuapp.com/)! The channel for this module is #module5opensource. You can also sign up to our mailing list [here](https://opensciencemooc.github.io/site/Contact/).
+Don't forget to join us in our open [Slack group](https://openmooc-ers-slackin.herokuapp.com/), and also anyone can join the whole Open Science MOOC development team [here](https://open-science-mooc-invite.herokuapp.com/)! The channel for this module on Slack is #module5opensource. You can also sign up to our mailing list [here](https://opensciencemooc.eu/contact/).
 
 ## Table of Contents
 

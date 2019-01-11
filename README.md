@@ -11,6 +11,15 @@ Welcome to Module 1 of the Open Science MOOC! Here you can find important inform
 
 Don't forget to join us in our open [Slack group](https://openmooc-ers-slackin.herokuapp.com/), and also anyone can join the whole Open Science MOOC development team [here](https://open-science-mooc-invite.herokuapp.com/)! The channel for this module on Slack is #module5opensource. You can also sign up to our mailing list [here](https://opensciencemooc.eu/contact/).
 
+STATUS:
+Version 1 (aka the first release) has now been published on Zenodo
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2538004.svg)](https://doi.org/10.5281/zenodo.2538004)
+
+To cite this work, please use the following:
+
+Jon Tennant, Bruce Caron, Joanna Havemann, Samuel Guay, Julien Colomb, Katharina Kriegel, & Gareth O'Neill. (2019, January 11). OpenScienceMOOC/Module-1-Open-Principles 1.0.0 (Version 1.0.0). Zenodo. http://doi.org/10.5281/zenodo.2538004
+
 ## Table of Contents
 
 1. [Rationale](#Rationale)

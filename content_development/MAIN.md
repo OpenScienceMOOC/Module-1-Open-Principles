@@ -122,7 +122,7 @@ Now, these are not necessarily values that are exclusive to scientific research,
 
 > I am, somehow, less interested in the weight and conviolutions of Einstein's brain than in the near certainty that people of equal talent have lived and died in cotton fields and sweatshops. - Stephen Jay Gould.
 
-[INSERT STATEMENT FROM THE MOOC MISSION HERE ABOUT ACHIEVING THIS ALIGNMENT]
+Part of the mission for the Open Science MOOC is to help to achieve this alignment as part of a grassroots movement.
 
 Therefore, some of the key, value-based goals of the Open Science community include:
 

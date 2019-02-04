@@ -22,6 +22,12 @@ Opening: MOOC main logo, MOOC module logo, title of this video.
 Presenters/participants:
 
 * [Jon Tennant](https://twitter.com/protohedgehog) - HOST
+* Erzsébet Tóth-Czifra
+* Justin Sègbédji Ahinon
+* Dasapta Erwin Irawan
+* Ashley Farley
+* Eva Lantsoght
+* Cooper Smout
 
 
 ## Background

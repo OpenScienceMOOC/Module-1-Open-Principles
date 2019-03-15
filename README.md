@@ -56,7 +56,7 @@ To innovate in a field frequently implies moving against prevailing trends and c
 - [Code of conduct](/CODE_OF_CONDUCT.md)
 - [Key elements](/key_elements.md)
 
-Pleaee note that all the reading materials are Open Access. Please do not upload articles which are paywalled or which are not openly licensed.
+Please note that all the reading materials are Open Access. Please do not upload articles which are paywalled or which are not openly licensed.
 
 ## Licenses <a name="Licenses"></a>
 

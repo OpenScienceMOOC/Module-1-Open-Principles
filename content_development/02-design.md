@@ -35,20 +35,21 @@
 * [Open Educational Science](https://osf.io/preprints/socarxiv/d9bme) (van der See and Reich, 2018).
    
    2. Design learner activities with clear instructions
-    - Task 1: What Open Science means to you
-    - Task 2: Developing your own researcher profile for Open Science
+    - Task 1: What Open Science means to you (completed)
+    - Task 2: Developing your own researcher profile for Open Science (completed)
+    - Quiz (completed)
 
    3. Find resources (video, illustrations, screencasts, podcasts, assignments, quizzes, presentations)
-    - In preparation
+    - Completed
    
    4. Write concise, engaging video (and audio) scripts
-    - In preparation
+    - Completed
    
    5. Review all learning resources, adjusting as needed
-    - In preparation
+    - Completed
    
    6. Finalise all scripts
-    - Pending
+    - Completed
    
    7. Copyright strategy
     - Completed

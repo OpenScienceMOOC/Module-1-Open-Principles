@@ -6,7 +6,12 @@
    
 ## Confirmed participants:
 
-* 
+* Eva Lantsoght
+* Cooper Smout
+* Erzsebet Toth-Czifra
+* Ashley Farley
+* Dasapta Erwin Irawan
+* Justin Sègbédji Ahinon
 
 ## Script
 

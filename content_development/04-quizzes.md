@@ -7,10 +7,9 @@
 5. Review assignments  
 6. Other assignments (e.g., discussion prompts)
 
+**NOTE** Most of these have now been integrated into, and directly edited in, Eliademy itself.
+
 ## Questions
-
-
-
 
 
 Follow example format below:

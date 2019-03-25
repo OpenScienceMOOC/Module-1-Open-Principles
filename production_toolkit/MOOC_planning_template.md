@@ -48,39 +48,39 @@ Red: Launch date in danger
 |  Identify key resources |   Yep  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2018/10/01  | |
 |  Design learner activities   |  Yep  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |  2018/10/01 | |
 |  Find existing key resources  |  Yep   |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2018/10/01  | |
-|  Write audio/video scripts   |  Nope  |    |   | |
-|  Review all learning resources  |  Nope   |    |   | |
-|  Finalise all scripts   |   Nope  |    |   | |
+|  Write audio/video scripts   |  Yes  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | March 2019  | |
+|  Review all learning resources  |  Yes   |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |  March 2019 | |
+|  Finalise all scripts   |   Yes  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | March 2019  | |
 |  Copyright strategy  |   Yep  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2018/10/01  | |
 | **Recording and editing**  |                   |           |                 |                    |
-|  Record on location/in studio  |    |    |   | |
-|  Edit all audio/visual material  |     |    |   | |
+|  Record on location/in studio  |  Near-complete  | ![Green](https://img.shields.io/badge/Status-text-green.svg)   |  March 2019 | |
+|  Edit all audio/visual material  |  Near-complete   |   ![Green](https://img.shields.io/badge/Status-text-green.svg) |  March 2019 | |
 | **Internal reviewing**  |                   |           |                 |                    |
-|  Cross-check and review content  |     |    |   | |
-|  Checks from Steering Committee  |     |    |   | |
+|  Cross-check and review content  |  Yes   | ![Green](https://img.shields.io/badge/Status-text-green.svg)   | March 2019  | |
+|  Checks from Steering Committee  | In process    | ![Green](https://img.shields.io/badge/Status-text-green.svg)   |  March 2019 | |
 | **External testing and review**  |         |           |           |                    |
-|  All reviewing conducted via GitHub  |     |    |   | |
-|  Existing channels from communications strategy  |     |    |   | |
+|  All reviewing conducted via GitHub  |  Yes   | ![Green](https://img.shields.io/badge/Status-text-green.svg)   | March 2019  | |
+|  Existing channels from communications strategy  |  Pending   |   ![Green](https://img.shields.io/badge/Status-text-green.svg) |  March 2019 | |
 | **Internal reviewing and finalisation**  |           |           |                 |              |
-|  Cross-review and check content  |     |    |   | |
-|  Final checks from Steering Committee  |     |    |   | |
+|  Cross-review and check content  |  Yes   |   ![Green](https://img.shields.io/badge/Status-text-green.svg) |  March 2019 | |
+|  Final checks from Steering Committee  | Pending    | ![Green](https://img.shields.io/badge/Status-text-green.svg)   |  March 2019 | |
 | **Implementation**  |           |           |                 |              |
-|  Agreement on platform  |     |    |   | |
+|  Agreement on platform  |  Yes   |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | jan 2019  | |
 |  Module logo designed  |  Yep   |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2018/10/01  | |
-|  Module description and introduction  |     |    |   | |
-|  Team member and guest lecturer agreements  |     |    |   | |
-|  Team member and guest lecturer profiles  |     |    |   | |
+|  Module description and introduction  |   Yes  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | Jan 2019  | |
+|  Team member and guest lecturer agreements  | Pending   | ![Green](https://img.shields.io/badge/Status-text-green.svg)   | March 2019   | |
+|  Team member and guest lecturer profiles  |   Pending  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | March 2019  | |
 |  Course readings acquired  |  Yep   | ![Green](https://img.shields.io/badge/Status-text-green.svg)   | 2018/10/01  | |
-|  Port content to selected platform  |     |    |   | |
-|  All content deposited in the Open Science Framework |     |    |   | |
+|  Port content to selected platform  |   Yes  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | Feb-March 2019  | |
+|  All content deposited in the Open Science Framework |  Yes   | ![Green](https://img.shields.io/badge/Status-text-green.svg)   |  March 2019 | Zenodo used instead |
 | **Promotion**  |           |           |                 |              |
-|  Content and communication calendar/strategy/timeline  |     |    |   | |
-|  Identify relevant channels (mailing lists, social media and hashtags, organisations, individuals, websites, conferences)  |     |    |   | |
-|  Images for use in social media  |     |    |   | |
-|  Course title marketing check |     |    |   | |
+|  Content and communication calendar/strategy/timeline  |  Pending   | ![Green](https://img.shields.io/badge/Status-text-green.svg)   |   | |
+|  Identify relevant channels (mailing lists, social media and hashtags, organisations, individuals, websites, conferences)  |  Yes   | ![Green](https://img.shields.io/badge/Status-text-green.svg)   |   | |
+|  Images for use in social media  |  Yes   | ![Green](https://img.shields.io/badge/Status-text-green.svg)   |   | |
+|  Course title marketing check |  Yes   |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |   | |
 | **Launch**  |           |           |                 |              |
-|  Publicity start  |     |    |   | |
-|  Open and free for all, continuous, self-paced learning, 100% online  |     |    |   | |
+|  Publicity start  |  Pending   |    |   | |
+|  Open and free for all, continuous, self-paced learning, 100% online  |  Yes   |    |   | |
 |  Soft launch  |     |    |   | |
 |  Course launch  |     |    |   | |
 |  Monitoring of learner experiences and reactions  |     |    |   | |

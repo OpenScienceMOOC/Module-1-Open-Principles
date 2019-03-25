@@ -46,9 +46,9 @@ Now, importantly, I want this video to be completely distinct from something lik
 
 Introduction - Jon
 ------------
-"We live in a ridiculously exciting time for global research! All around the world are whispers of Open Science, also sometimes called Open Scholarship or Open Research. Open Science is often described as a set of research practices, divided into two main parts. The first is output-based, and includes things such as sharing code and data, as well as making research articles themselves freely available. The second is process-based, and more about adding more transparency to improve things such as reproducibility. 
+"We live in a ridiculously exciting time for global research! All around the world are whispers of Open Science, also sometimes called Open Scholarship or Open Research. Often, the values and principles that underpin open research practices include things such as inclusivity, equity, and freedom. These are key to developing a sense of shared understanding of open science within the global research community, as well as connections with the wider 'open movement'.
 
-In this module, we want to step back a bit from this practical view of open science, and focus on the principles. Often, the values and principles that underpin open research practices include things such as inclusivity, equity, and freedom. These are key to developing a sense of shared understanding of open science within the global research community, as well as connections with the wider 'open movement'.
+On the other hand, Open Science is often described as a set of research practices, divided into two main parts. The first is output-based, and includes things such as sharing code and data, as well as making research articles themselves freely available. The second is process-based, and more about adding more transparency to improve things such as reproducibility. In this module, we want to step back a bit from this practical view of open science, and focus on the principles. 
 
 To help get things kicked off, we have spoken with 6 researchers from every corner of the globe: Indonesia, Hungary, USA, Australia, Ecuador, and Benin. These are their open science stories."
 
@@ -69,16 +69,16 @@ Conclusions - Jon
 
 In the rest of this module, we will learn a little more about the principles and values behind open science, as well as the history of the open movement. We will touch on the different elements of open science, how these impact you and your research, and discuss what some of the limitations and barriers to open science might be.
 
-As part of this, there are a couple of little tasks designed to help you understand a bit more about how open science impacts you, and what you can do to make it part of your own research workflow and give yourself a boost. There's also a quiz to test your knowledge, which you will need to pass in order to get certified. Thank you for listening, and we hope you enjoy the module!"
+As part of this, there are a couple of little tasks designed to help you understand a bit more about how open science impacts you, and what you can do to make it part of your own research workflow and give yourself a boost. There's also a quiz to test your knowledge, which you will need to pass in order to get certified. Thank you for listening, and welcome into the open science MOOC community!"
 
 
 ## Post-recording tasks
 
-* Create a transcript and subtitle file (for translations)
 * Add start and end slides
 * Add screen information for each presenter
 * Edit videos together for continuity
-* Add statements between presenters in middle parts if needed *or* add a brief pause with a slide of information between each presenter (name, discipline, software name, affiliation)
+* Add statements between presenters in middle parts if needed *or* add a brief pause with a slide of information between each presenter (name, discipline, software name, affiliation); alternatively, add these information on the video, without pausing.
+* Create a transcript and subtitle file (for translations) (needs to be done last, due to timing purpose)
 
 ## Licensing statement
 
@@ -96,6 +96,7 @@ I/we provide for the project. Specifically, I/we give permission to:
 Signed:
 
 [please add names here]
+Julien Colomb
 
 Erzsébet Tóth-Czifra
 

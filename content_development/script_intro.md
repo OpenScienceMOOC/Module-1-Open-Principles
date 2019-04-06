@@ -21,7 +21,7 @@ Opening: MOOC main logo, MOOC module logo, title of this video.
 
 Presenters/participants:
 
-* [Jon Tennant](https://twitter.com/protohedgehog) - HOST
+* [Paola Masuzzo](https://twitter.com/pcmasuzzo) - HOST
 * Erzsébet Tóth-Czifra
 * Justin Sègbédji Ahinon
 * Dasapta Erwin Irawan
@@ -39,12 +39,12 @@ Now, importantly, I want this video to be completely distinct from something lik
 
 ## Brief layout
 
-1. Introductory section (Jon)
+1. Introductory section (Paola)
 2. Middle section, comprising 6 short 30-120 second statements from each presenter (all)
-3. Conclusions (Jon)
+3. Conclusions (Paola)
 
 
-Introduction - Jon
+Introduction - Paola
 ------------
 "We live in a really exciting time for global research! All around the world are whispers of Open Science, also sometimes called Open Scholarship or Open Research. Often, the values and principles that underpin open research practices include things such as inclusivity, equity, and freedom. These are key to developing a sense of shared understanding of open science within the global research community, as well as connections with the wider 'open movement'.
 
@@ -61,7 +61,7 @@ Middle (body) - All
 * Intro - name, discipline, affiliation.
 
 
-Conclusions - Jon
+Conclusions - Paola
 -----------
 
 "We hope that these stories not only serve to help inspire you in your own open science journey, but also to gain an understanding of the principles behind the global open science community. Open science is so much more than just a set of practices, and we are going to need this understanding if we want to develop a healthy, welcoming, and strong community.

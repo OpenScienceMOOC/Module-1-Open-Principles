@@ -5,20 +5,23 @@ All hyperlinks work?: [![Build Status](https://travis-ci.org/OpenScienceMOOC/Mod
 
 Welcome to Module 1 of the Open Science MOOC! Here you can find important information on the development of the module, including the latest updates to the content.
 
+**STATUS**: LIVE on [Eliademy](https://eliademy.com/catalog/oer/module-1-open-principles.html).
+
 - [**Content Development**](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/tree/master/content_development) - This is where you can find all content currently being developed for the MOOC, and also contribute yourself.
 
 - [**Production Toolkit**](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/tree/master/production_toolkit) - This is where the basic protocols and outline for the module development are kept. It includes a tracking scheme as the content development progresses.
 
 Don't forget to join us in our open [Slack group](https://openmooc-ers-slackin.herokuapp.com/), and also anyone can join the whole Open Science MOOC development team [here](https://open-science-mooc-invite.herokuapp.com/)! The channel for this module on Slack is #module5opensource. You can also sign up to our mailing list [here](https://opensciencemooc.eu/contact/).
 
-STATUS:
-Version 1 (aka the first release) has now been published on Zenodo
+Version 2 (aka the second release) has now been published on Zenodo:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2538004.svg)](https://doi.org/10.5281/zenodo.2538004)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2595951.svg)](https://doi.org/10.5281/zenodo.2595951)
+
 
 To cite this work, please use the following:
 
-Jon Tennant, Bruce Caron, Joanna Havemann, Samuel Guay, Julien Colomb, Katharina Kriegel, & Gareth O'Neill. (2019, January 11). OpenScienceMOOC/Module-1-Open-Principles 1.0.0 (Version 1.0.0). Zenodo. http://doi.org/10.5281/zenodo.2538004
+Jon Tennant, Bruce Caron, Jo Havemann, Samuel Guay, Julien Colomb, Eva Lantsoght, Erzsébet Tóth-Czifra, Katharina Kriegel, Justin Sègbédji Ahinon,  Cooper Smout. (2019, March 16). OpenScienceMOOC/Module-1-Open-Principles: Second release (Version 2.0.0). Zenodo. http://doi.org/10.5281/zenodo.2595951
+
 
 ## Table of Contents
 
